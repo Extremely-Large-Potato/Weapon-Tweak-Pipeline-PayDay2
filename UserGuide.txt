@@ -1,0 +1,622 @@
+Weapon Tweak Pipeline
+PAYDAY 2 Weapon Stat Modding Tool
+
+Weapon Tweak Pipeline is a local tool for creating PAYDAY 2 weapon-stat mods.
+
+Choose a weapon, select the stats you want to change, configure how they should be changed, and export a ready-to-install mod.
+
+No Lua knowledge required.
+
+1. Running the program
+Windows
+
+Make sure your files look like this:
+
+Weapon Tweak Pipeline/
+│
+├── Weapon Tweak Pipeline.exe
+│
+└── Weapon Tweak Pipeline/
+    ├── index.html
+    ├── js/
+    ├── data/
+    └── libs/
+
+Then simply double-click Weapon Tweak Pipeline.exe.
+
+The launcher will:
+
+Start a small local web server.
+Choose an available local port automatically.
+Open the tool in your default browser.
+Run the tool locally on your computer.
+Automatically shut down when the browser tab is closed.
+
+There is no internet connection or additional server configuration required.
+
+Important
+
+Do not move the .exe inside the Weapon Tweak Pipeline folder.
+
+The .exe must stay next to the folder:
+
+Weapon Tweak Pipeline.exe
+Weapon Tweak Pipeline/
+
+If the launcher cannot find the folder, it will display an error.
+
+2. Understanding the interface
+
+The application is divided into three main sections.
+
+Column 1: Find a weapon
+
+Use the search box to find a weapon by:
+
+Weapon name
+Internal weapon ID
+
+For example:
+
+Akron HC
+hcar
+
+Select a weapon to view its current database values.
+
+These values are the raw weapon values extracted from the game's own data, and they are the starting point for your modifications.
+
+Column 2: Properties & Operation
+
+This is where you configure the changes you want to make.
+
+Select the properties you want to modify, choose an operation, and enter the desired value.
+
+You can modify multiple properties on the same weapon.
+
+When you're finished, click:
+
+Save this weapon's config
+
+You can then select another weapon and configure it as well.
+
+A single mod can contain changes for multiple weapons.
+
+Column 3: Validator, Code & Export
+
+This section contains:
+
+Validation results
+Generated Lua code
+Generated mod.txt
+ZIP export
+
+The validator checks your configuration before the mod is created.
+
+3. The three operations
+
+Every property can be modified using one of three operations.
+
+Operation	What it does	Example
+SET	Replaces the current value completely	SET 120 → becomes 120
+ADD	Adds a value to the current value	ADD -4 on 16 → becomes 12
+MULTIPLY	Multiplies the current value by a factor	MULTIPLY 0.7 on 16 → becomes 11.2
+SET
+
+Completely replaces the existing value.
+
+Current: 30
+SET 60
+Result: 60
+ADD
+
+Adds your value to the existing value.
+
+Current: 30
+ADD 10
+Result: 40
+
+Negative values subtract from the current value:
+
+Current: 30
+ADD -10
+Result: 20
+MULTIPLY
+
+Multiplies the existing value.
+
+Current: 30
+MULTIPLY 2
+Result: 60
+
+Or:
+
+Current: 30
+MULTIPLY 0.5
+Result: 15
+4. Weapon properties
+Magazine Size
+
+Controls how many rounds fit in the magazine before reloading.
+
+For example:
+
+Current: 30
+SET 60
+
+The magazine becomes 60 rounds.
+
+Changing magazine size also automatically updates the weapon's total carried ammunition according to its magazine/ammo relationship.
+
+You normally do not need to modify total ammo separately.
+
+Fire Rate
+
+Fire rate is measured as:
+
+seconds between shots
+
+It is not RPM.
+
+This means:
+
+Lower = faster
+
+Examples:
+
+Fire rate	Approx. RPM
+0.10	600 RPM
+0.07	857 RPM
+0.05	1200 RPM
+
+For fully automatic weapons, the tool also updates the automatic-fire configuration so that the weapon's fire behavior remains consistent.
+
+Damage
+
+Damage requires special attention.
+
+The number displayed on the PAYDAY 2 blackmarket screen is not necessarily the raw value stored by the game.
+
+For this reason:
+
+ADD is recommended instead of SET.
+
+For example:
+
+Current raw value: 240
+ADD 50
+
+This increases the underlying value predictably.
+
+The validator will show a warning if you use:
+
+SET
+
+on damage.
+
+Reload
+
+There are two reload timers:
+
+Reload: Mag Not Empty
+
+Reload time when there is still ammunition remaining in the magazine.
+
+Reload: Mag Empty
+
+Reload time when the magazine is completely empty.
+
+Both values are measured in seconds.
+
+Therefore:
+
+Lower = faster reload
+
+For example:
+
+Current: 3.0
+SET 1.5
+
+makes the reload faster.
+
+5. Stability
+
+Stability represents the weapon's internal recoil value.
+
+The tool displays it as stability because lower recoil generally means a more stable weapon.
+
+This is an inverse stat:
+
+Lower = better
+
+To make a weapon more stable:
+
+SET lower value
+
+or:
+
+ADD negative value
+
+or:
+
+MULTIPLY below 1
+
+Example:
+
+Current: 16
+
+ADD -4
+→ 12
+
+or:
+
+MULTIPLY 0.75
+→ 12
+
+Increasing the raw value has the opposite effect and makes the weapon kick harder.
+
+6. Accuracy
+
+Accuracy is internally represented by the weapon's spread value.
+
+Lower spread means less shot dispersion.
+
+This is another inverse stat:
+
+Lower = better
+
+To improve accuracy:
+
+SET lower value
+ADD negative value
+
+or:
+
+MULTIPLY below 1
+
+For example:
+
+Current: 16
+ADD -4
+→ 12
+7. Concealment
+
+Concealment works normally:
+
+Higher = better
+
+A higher concealment value means lower detection risk.
+
+For example:
+
+Current: 18
+ADD 5
+→ 23
+
+or:
+
+MULTIPLY 1.2
+→ 21.6
+8. Alert Size
+
+Alert size controls how large an area can be alerted when the weapon is used.
+
+This is an inverse stat:
+
+Lower = better
+
+To improve it:
+
+SET lower value
+ADD negative value
+
+or:
+
+MULTIPLY below 1
+9. Suppression
+
+Suppression affects how effectively the weapon suppresses enemies while firing.
+
+This is a normal stat:
+
+Higher = better
+
+You can increase it with:
+
+ADD positive value
+
+or:
+
+MULTIPLY above 1
+10. Custom / Unverified Stats
+
+The custom stat option allows you to modify a Lua field that isn't included in the built-in property list.
+
+For example:
+
+stats.zoom
+
+You must enter the exact Lua field path.
+
+Custom paths are not verified against the game's database.
+
+If you enter an incorrect field name, the game may simply have nothing to modify.
+
+For example, a typo such as:
+
+stats.zoomm
+
+may produce no useful change.
+
+When experimenting with custom stats, it is recommended to test one change at a time.
+
+11. Configuring multiple weapons
+
+You can configure multiple weapons in the same mod.
+
+For example:
+
+AK5
+ ├── Damage +20
+ ├── Magazine +10
+ └── Reload -0.5
+
+Akron HC
+ ├── Damage +30
+ └── Fire rate ×0.8
+
+Pronghorn
+ ├── Damage +50
+ └── Magazine +2
+
+After configuring one weapon:
+
+Save this weapon's config
+
+Then select another weapon and repeat the process.
+
+All saved configurations will be included in the final mod.
+
+12. Validator
+
+Before exporting, the validator checks your configuration.
+
+Red errors
+
+Red errors indicate a problem that can prevent the configuration from working correctly.
+
+Examples include:
+
+No weapons configured
+Non-numeric values where numbers are required
+Invalid custom Lua paths
+Invalid property values
+
+You must fix these before exporting.
+
+Yellow warnings
+
+Yellow warnings do not prevent export, but indicate something you should check.
+
+Common examples:
+
+Using SET for damage
+Using a negative value for stability
+Using a negative value for accuracy
+Increasing alert size
+
+Read the warning before exporting.
+
+13. Exporting your mod
+
+Once your configuration is ready:
+
+Step 1
+
+Enter your:
+
+Mod / Folder Name
+
+This becomes the name of the generated mod folder.
+
+Step 2
+
+Enter the:
+
+Author
+
+Step 3
+
+Optionally enter a:
+
+Description
+
+If you leave it empty, the tool will use its default description.
+
+Step 4
+
+Optionally add:
+
+icon.png
+
+This becomes the mod's icon.
+
+Step 5
+
+Click:
+
+Build ZIP
+
+The tool generates a ZIP containing your mod.
+
+The generated mod contains:
+
+Your Mod/
+├── mod.txt
+├── code.lua
+└── icon.png
+
+icon.png is included only if you provided one.
+
+14. Installing the mod
+
+After the ZIP has been created:
+
+1. Extract the ZIP
+
+You should get your mod folder.
+
+For example:
+
+My Weapon Tweaks/
+├── mod.txt
+├── code.lua
+└── icon.png
+2. Open your PAYDAY 2 mods folder
+
+This is the same folder where your other BLT/SuperBLT mods are installed.
+
+3. Put the mod folder directly inside mods
+
+Correct:
+
+PAYDAY 2/
+└── mods/
+    ├── SuperBLT Mods/
+    ├── SomeOtherMod/
+    └── My Weapon Tweaks/
+        ├── mod.txt
+        ├── code.lua
+        └── icon.png
+
+Incorrect:
+
+PAYDAY 2/
+└── mods/
+    └── My Weapon Tweaks/
+        └── My Weapon Tweaks/
+            ├── mod.txt
+            └── code.lua
+
+The folder containing mod.txt must be a direct child of mods.
+
+15. Launching PAYDAY 2
+
+Start PAYDAY 2 normally.
+
+Open the BLT/SuperBLT Mods menu and check that your mod appears.
+
+Then test the modified weapon in-game.
+
+If the mod doesn't work correctly, check the BLT log for errors.
+
+Custom/unverified Lua paths are the most likely source of problems because they aren't validated against the game's actual fields.
+
+16. Important information about the database
+
+The tool's weapon and attachment data comes from PAYDAY 2's own game data.
+
+The current database contains:
+
+219 weapons
+1,878 attachment/part IDs
+
+The data was extracted from the game's:
+
+weapontweakdata.lua
+weaponfactorytweakdata.lua
+
+The database is therefore based on the game's actual internal data rather than manually entered guesses.
+
+A small number of fields were intentionally omitted because their values were Lua expressions referencing other data rather than simple standalone values. They were left out rather than being guessed.
+
+Raw values vs. in-game displayed values
+
+The values shown in the tool's read-only stats panel are the raw extracted values used by the modification system.
+
+They do not always have to exactly match the number displayed by the PAYDAY 2 blackmarket.
+
+The game can apply additional bonuses or modifiers when displaying stats.
+
+Therefore, when using:
+
+SET
+ADD
+MULTIPLY
+
+the operation is performed against the raw database value shown by the tool.
+
+17. Quick example
+
+Suppose you want to create a simple AK5 modification.
+
+Select:
+
+AK5
+
+Then configure:
+
+Magazine Size
+Operation: ADD
+Value: 15
+
+and:
+
+Damage
+Operation: ADD
+Value: 20
+
+and:
+
+Reload (mag empty)
+Operation: SET
+Value: 2.0
+
+Then:
+
+Click Save this weapon's config
+Check the validator
+Enter the mod name and author
+Click Build ZIP
+Extract the ZIP
+Put the generated mod folder inside PAYDAY 2's mods folder
+Launch the game
+Test the weapon
+
+That's it. The tool handles the Lua generation for you.
+
+Quick reference
+Property	Higher is better?	Notes
+Magazine	Yes	Automatically scales total ammo
+Fire Rate	No	Lower seconds = faster
+Damage	Yes	ADD recommended
+Reload	No	Lower seconds = faster
+Stability	Yes	Higher raw recoil value = better stability
+Accuracy	Yes	Higher raw spread value = better accuracy
+Concealment	Yes	Higher = better
+Alert Size	No	Lower = better
+Suppression	Yes	Higher = better
+Custom	Depends	Requires a valid Lua path
+The basic workflow
+Run Weapon Tweak Pipeline.exe
+             ↓
+       Select a weapon
+             ↓
+      Choose properties
+             ↓
+     Choose operations
+             ↓
+    Save weapon config
+             ↓
+       Check validator
+             ↓
+          Build ZIP
+             ↓
+      Extract the mod
+             ↓
+        Put in /mods
+             ↓
+       Launch PAYDAY 2
+             ↓
+          Test it
+
+No Lua editing. No manual mod.txt. No manual code.lua. Just configure, build, install, and shoot something to see if your spreadsheet crimes worked.
