@@ -55,7 +55,7 @@ function renderConfirmedProps() {
   $('confirmedProps').innerHTML = PROPERTIES_DB.map(p => `
     <div class="prop-row" data-key="${p.key}">
       <input type="checkbox" id="chk_${p.key}">
-      <div class="pname">${p.label}<span class="path">self.&lt;id&gt;.${p.path}</span>${p.inverse ? `<span class="inverse-note">lower raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '-'}. To improve it: SET below that number, ADD a negative number, or MULTIPLY by less than 1.</span>` : ''}</div>
+      <div class="pname">${p.label}<span class="path">self.&lt;id&gt;.${p.path}</span>${p.inverse ? `<span class="inverse-note">${/stability|recoil|accuracy/i.test(p.label) ? `higher raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '-'}. To improve it: SET above that number, ADD a positive number, or MULTIPLY by more than 1.` : `lower raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '-'}. To improve it: SET below that number, ADD a negative number, or MULTIPLY by less than 1.`}</span>` : ''}</div>
       <select id="op_${p.key}">
         <option value="SET" ${p.op === 'SET' ? 'selected' : ''}>SET</option>
         <option value="ADD" ${p.op === 'ADD' ? 'selected' : ''}>ADD</option>
@@ -153,16 +153,28 @@ function validateAll() {
         warnings.push(`"${id}" → damage uses SET - the in-game displayed number is derived, not raw, so ADD (relative) is usually safer.`);
       }
       if (def && def.inverse) {
-        const current = getRawValue(id, def.rawKey);
-        const val = parseFloat(v.value);
-        if (v.op === 'ADD' && val > 0) {
-          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a positive number - since lower is better for this stat, this makes it WORSE. Use a negative number to improve it.`);
-        } else if (v.op === 'MULTIPLY' && val >= 1) {
-          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} - since lower is better, a number ≥ 1 makes it the same or WORSE. Use a number below 1 (e.g. 0.75) to improve it.`);
-        } else if (v.op === 'SET' && current !== undefined && val >= current) {
-          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or above the current value (${current}). Since lower is better for this stat, that won't improve it - set it below ${current} instead.`);
-        }
-      }
+  const current = getRawValue(id, def.rawKey);
+  const val = parseFloat(v.value);
+  const higherIsBetter = /stability|recoil|accuracy/i.test(def.label);
+
+  if (higherIsBetter) {
+    if (v.op === 'ADD' && val < 0) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a negative number - since higher is better for this stat, this makes it WORSE. Use a positive number to improve it.`);
+    } else if (v.op === 'MULTIPLY' && val <= 1) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} - since higher is better, a number ≤ 1 makes it the same or WORSE. Use a number above 1 (e.g. 1.25) to improve it.`);
+    } else if (v.op === 'SET' && current !== undefined && val <= current) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or below the current value (${current}). Since higher is better for this stat, set it above ${current} instead.`);
+    }
+  } else {
+    if (v.op === 'ADD' && val > 0) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a positive number - since lower is better for this stat, this makes it WORSE. Use a negative number to improve it.`);
+    } else if (v.op === 'MULTIPLY' && val >= 1) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} - since lower is better, a number ≥ 1 makes it the same or WORSE. Use a number below 1 (e.g. 0.75) to improve it.`);
+    } else if (v.op === 'SET' && current !== undefined && val >= current) {
+      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or above the current value (${current}). Since lower is better for this stat, that won't improve it - set it below ${current} instead.`);
+    }
+  }
+}
     });
     cfg.custom.forEach(c => {
       if (isNaN(parseFloat(c.value))) errors.push(`"${id}" → custom path "${c.path}": value is not a number.`);
