@@ -1,0 +1,3671 @@
+[
+  {
+    "id": "new_m4",
+    "name": "New M4",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.1,
+      "damage": 62,
+      "recoil": 16,
+      "spread": 12,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.665,
+      "reload_empty": 3.43
+    }
+  },
+  {
+    "id": "glock_17",
+    "name": "Glock 17",
+    "raw": {
+      "CLIP_AMMO_MAX": 17,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "mp9",
+    "name": "MP9",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.063,
+      "damage": 50,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 1.51,
+      "reload_empty": 2.48
+    }
+  },
+  {
+    "id": "r870",
+    "name": "R870",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.575,
+      "damage": 90,
+      "recoil": 9,
+      "spread": 11,
+      "concealment": 11,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "glock_18c",
+    "name": "Glock 18C",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.066,
+      "damage": 35,
+      "recoil": 15,
+      "spread": 14,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "amcar",
+    "name": "Amcar",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.11,
+      "damage": 45,
+      "recoil": 20,
+      "spread": 10,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.25,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "m16",
+    "name": "M16",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.07,
+      "damage": 94,
+      "recoil": 9,
+      "spread": 15,
+      "concealment": 17,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.75,
+      "reload_empty": 3.73
+    }
+  },
+  {
+    "id": "olympic",
+    "name": "Olympic",
+    "raw": {
+      "CLIP_AMMO_MAX": 25,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.088,
+      "damage": 65,
+      "recoil": 17,
+      "spread": 12,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.16,
+      "reload_empty": 3.23
+    }
+  },
+  {
+    "id": "ak74",
+    "name": "AK74",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.092,
+      "damage": 63,
+      "recoil": 16,
+      "spread": 13,
+      "concealment": 16,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.8,
+      "reload_empty": 3.87
+    }
+  },
+  {
+    "id": "akm",
+    "name": "AKM",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.107,
+      "damage": 97,
+      "recoil": 12,
+      "spread": 16,
+      "concealment": 13,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.8,
+      "reload_empty": 3.87
+    }
+  },
+  {
+    "id": "akm_gold",
+    "name": "Akm Gold",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.107,
+      "damage": 97,
+      "recoil": 12,
+      "spread": 16,
+      "concealment": 11,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.8,
+      "reload_empty": 3.87
+    }
+  },
+  {
+    "id": "akmsu",
+    "name": "Akmsu",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.073,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 16,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.15,
+      "reload_empty": 3.9
+    }
+  },
+  {
+    "id": "saiga",
+    "name": "Saiga",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 10,
+      "fire_rate": 0.18,
+      "damage": 42,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 13,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.65,
+      "reload_empty": 3.95
+    }
+  },
+  {
+    "id": "ak5",
+    "name": "AK5",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.085,
+      "damage": 66,
+      "recoil": 16,
+      "spread": 16,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.05,
+      "reload_empty": 3.08
+    }
+  },
+  {
+    "id": "aug",
+    "name": "AUG",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.08,
+      "damage": 65,
+      "recoil": 11,
+      "spread": 17,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "g36",
+    "name": "G36",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.085,
+      "damage": 54,
+      "recoil": 17,
+      "spread": 11,
+      "concealment": 19,
+      "alert_size": 7,
+      "suppression": 11,
+      "reload_not_empty": 2.85,
+      "reload_empty": 3.85
+    }
+  },
+  {
+    "id": "p90",
+    "name": "P90",
+    "raw": {
+      "CLIP_AMMO_MAX": 50,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.066,
+      "damage": 56,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 2.55,
+      "reload_empty": 3.4
+    }
+  },
+  {
+    "id": "new_m14",
+    "name": "New M14",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.085,
+      "damage": 160,
+      "recoil": 10,
+      "spread": 22,
+      "concealment": 8,
+      "alert_size": 7,
+      "suppression": 4,
+      "reload_not_empty": 2.65,
+      "reload_empty": 3.15
+    }
+  },
+  {
+    "id": "deagle",
+    "name": "Deagle",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.15,
+      "damage": 120,
+      "recoil": 8,
+      "spread": 20,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 1.85,
+      "reload_empty": 3.1
+    }
+  },
+  {
+    "id": "new_mp5",
+    "name": "New Mp5",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.08,
+      "damage": 44,
+      "recoil": 21,
+      "spread": 12,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 2.4,
+      "reload_empty": 3.6
+    }
+  },
+  {
+    "id": "colt_1911",
+    "name": "Colt 1911",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "mac10",
+    "name": "Mac10",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.06,
+      "damage": 58,
+      "recoil": 17,
+      "spread": 13,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2,
+      "reload_empty": 2.7
+    }
+  },
+  {
+    "id": "serbu",
+    "name": "Serbu",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.375,
+      "damage": 90,
+      "recoil": 10,
+      "spread": 13,
+      "concealment": 23,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "huntsman",
+    "name": "Huntsman",
+    "raw": {
+      "CLIP_AMMO_MAX": 2,
+      "NR_CLIPS_MAX": 16,
+      "fire_rate": 0.12,
+      "damage": 155,
+      "recoil": 10,
+      "spread": 16,
+      "concealment": 7,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 2.5
+    }
+  },
+  {
+    "id": "b92fs",
+    "name": "B92Fs",
+    "raw": {
+      "CLIP_AMMO_MAX": 14,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 15,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "new_raging_bull",
+    "name": "New Raging Bull",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.15,
+      "damage": 175,
+      "recoil": 2,
+      "spread": 20,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 2.25,
+      "reload_empty": 2.25
+    }
+  },
+  {
+    "id": "saw",
+    "name": "SAW",
+    "raw": {
+      "CLIP_AMMO_MAX": 100,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.15,
+      "damage": 92,
+      "recoil": 7,
+      "spread": 3,
+      "concealment": 16,
+      "alert_size": 10,
+      "suppression": 7,
+      "reload_not_empty": 3.75,
+      "reload_empty": 3.75
+    }
+  },
+  {
+    "id": "usp",
+    "name": "USP",
+    "raw": {
+      "CLIP_AMMO_MAX": 13,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.2
+    }
+  },
+  {
+    "id": "g22c",
+    "name": "G22C",
+    "raw": {
+      "CLIP_AMMO_MAX": 16,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.2
+    }
+  },
+  {
+    "id": "judge",
+    "name": "Judge",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.12,
+      "damage": 155,
+      "recoil": 8,
+      "spread": 14,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.25,
+      "reload_empty": 2.25
+    }
+  },
+  {
+    "id": "m45",
+    "name": "M45",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.1,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 18,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.85,
+      "reload_empty": 3.9
+    }
+  },
+  {
+    "id": "s552",
+    "name": "S552",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.084,
+      "damage": 52,
+      "recoil": 15,
+      "spread": 10,
+      "concealment": 22,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 1.65,
+      "reload_empty": 2.4
+    }
+  },
+  {
+    "id": "ppk",
+    "name": "PPK",
+    "raw": {
+      "CLIP_AMMO_MAX": 14,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 12,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 18,
+      "reload_not_empty": 1.55,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "mp7",
+    "name": "MP7",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.063,
+      "damage": 70,
+      "recoil": 18,
+      "spread": 17,
+      "concealment": 23,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 1.96,
+      "reload_empty": 2.45
+    }
+  },
+  {
+    "id": "scar",
+    "name": "SCAR",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3.333,
+      "fire_rate": 0.098,
+      "damage": 98,
+      "recoil": 12,
+      "spread": 19,
+      "concealment": 8,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.2,
+      "reload_empty": 3.15
+    }
+  },
+  {
+    "id": "p226",
+    "name": "P226",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "hk21",
+    "name": "HK21",
+    "raw": {
+      "CLIP_AMMO_MAX": 150,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.083,
+      "damage": 120,
+      "recoil": 3,
+      "spread": 10,
+      "concealment": 1,
+      "alert_size": 8,
+      "suppression": 2,
+      "reload_not_empty": 4.65,
+      "reload_empty": 6.7
+    }
+  },
+  {
+    "id": "korth",
+    "name": "Korth",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.125,
+      "damage": 120,
+      "recoil": 11,
+      "spread": 21,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 2.75,
+      "reload_empty": 2.75
+    }
+  },
+  {
+    "id": "sko12",
+    "name": "Sko12",
+    "raw": {
+      "CLIP_AMMO_MAX": 28,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.22,
+      "damage": 65,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 6,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3.1,
+      "reload_empty": 3.6
+    }
+  },
+  {
+    "id": "x_sko12",
+    "name": "X Sko12",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.22,
+      "damage": 50,
+      "recoil": 10,
+      "spread": 8,
+      "concealment": 15,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "x_korth",
+    "name": "X Korth",
+    "raw": {
+      "CLIP_AMMO_MAX": 16,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.125,
+      "damage": 120,
+      "recoil": 11,
+      "spread": 21,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "awp",
+    "name": "AWP",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 1.5,
+      "damage": 175,
+      "recoil": 4,
+      "spread": 23,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 6,
+      "reload_not_empty": 3,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "supernova",
+    "name": "Supernova",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.6,
+      "damage": 134,
+      "recoil": 9,
+      "spread": 11,
+      "concealment": 13,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "kacchainsaw",
+    "name": "Kacchainsaw",
+    "raw": {
+      "CLIP_AMMO_MAX": 150,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.06,
+      "damage": 68,
+      "recoil": 7,
+      "spread": 12,
+      "concealment": 9,
+      "alert_size": 8,
+      "suppression": 3,
+      "reload_not_empty": 5,
+      "reload_empty": 6
+    }
+  },
+  {
+    "id": "m249",
+    "name": "M249",
+    "raw": {
+      "CLIP_AMMO_MAX": 200,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.066,
+      "damage": 80,
+      "recoil": 8,
+      "spread": 13,
+      "concealment": 1,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 5.62,
+      "reload_empty": 5.62
+    }
+  },
+  {
+    "id": "rpk",
+    "name": "RPK",
+    "raw": {
+      "CLIP_AMMO_MAX": 100,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.08,
+      "damage": 120,
+      "recoil": 3,
+      "spread": 8,
+      "concealment": 5,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 3.4,
+      "reload_empty": 4.56
+    }
+  },
+  {
+    "id": "m95",
+    "name": "M95",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 1.25,
+      "damage": 100,
+      "recoil": 2,
+      "spread": 24,
+      "concealment": 1,
+      "alert_size": 9,
+      "suppression": 2,
+      "reload_not_empty": 3.8,
+      "reload_empty": 5.1
+    }
+  },
+  {
+    "id": "msr",
+    "name": "MSR",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 1,
+      "damage": 123,
+      "recoil": 8,
+      "spread": 23,
+      "concealment": 5,
+      "alert_size": 7,
+      "suppression": 6,
+      "reload_not_empty": 2.6,
+      "reload_empty": 3.7
+    }
+  },
+  {
+    "id": "r93",
+    "name": "R93",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 1,
+      "damage": 120,
+      "recoil": 4,
+      "spread": 24,
+      "concealment": 5,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 2.82,
+      "reload_empty": 3.82
+    }
+  },
+  {
+    "id": "fal",
+    "name": "FAL",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.086,
+      "damage": 98,
+      "recoil": 12,
+      "spread": 18,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.2,
+      "reload_empty": 3.28
+    }
+  },
+  {
+    "id": "benelli",
+    "name": "Benelli",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.14,
+      "damage": 55,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 12,
+      "alert_size": 7,
+      "suppression": 6
+    }
+  },
+  {
+    "id": "striker",
+    "name": "Striker",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.14,
+      "damage": 42,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "ksg",
+    "name": "KSG",
+    "raw": {
+      "CLIP_AMMO_MAX": 14,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.575,
+      "damage": 90,
+      "recoil": 12,
+      "spread": 12,
+      "concealment": 22,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "gre_m79",
+    "name": "Gre M79",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "fire_rate": 2,
+      "damage": 130,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 3.1
+    }
+  },
+  {
+    "id": "g3",
+    "name": "G3",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3.333,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 13,
+      "spread": 18,
+      "concealment": 12,
+      "alert_size": 7,
+      "suppression": 6,
+      "reload_not_empty": 1.4,
+      "reload_empty": 2
+    }
+  },
+  {
+    "id": "galil",
+    "name": "Galil",
+    "raw": {
+      "CLIP_AMMO_MAX": 35,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.071,
+      "damage": 67,
+      "recoil": 18,
+      "spread": 13,
+      "concealment": 15,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3,
+      "reload_empty": 4.2
+    }
+  },
+  {
+    "id": "famas",
+    "name": "Famas",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.06,
+      "damage": 51,
+      "recoil": 18,
+      "spread": 10,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.72,
+      "reload_empty": 3.78
+    }
+  },
+  {
+    "id": "scorpion",
+    "name": "Scorpion",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.06,
+      "damage": 44,
+      "recoil": 18,
+      "spread": 8,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 2,
+      "reload_empty": 2.75
+    }
+  },
+  {
+    "id": "tec9",
+    "name": "TEC9",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.067,
+      "damage": 44,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 2.315,
+      "reload_empty": 3.28
+    }
+  },
+  {
+    "id": "uzi",
+    "name": "UZI",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.086,
+      "damage": 90,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 2.45,
+      "reload_empty": 3.52
+    }
+  },
+  {
+    "id": "jowi",
+    "name": "JOWI",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.09,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_1911",
+    "name": "X 1911",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_b92fs",
+    "name": "X B92Fs",
+    "raw": {
+      "CLIP_AMMO_MAX": 28,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.09,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_deagle",
+    "name": "X Deagle",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.25,
+      "damage": 120,
+      "recoil": 8,
+      "spread": 20,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "g26",
+    "name": "G26",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 15,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 18,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "spas12",
+    "name": "Spas12",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.2,
+      "damage": 55,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 14,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "mg42",
+    "name": "MG42",
+    "raw": {
+      "CLIP_AMMO_MAX": 150,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.05,
+      "damage": 80,
+      "recoil": 8,
+      "spread": 13,
+      "concealment": 1,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 6.5,
+      "reload_empty": 6.5
+    }
+  },
+  {
+    "id": "c96",
+    "name": "C96",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 16,
+      "spread": 21,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 4,
+      "reload_empty": 4.17
+    }
+  },
+  {
+    "id": "sterling",
+    "name": "Sterling",
+    "raw": {
+      "CLIP_AMMO_MAX": 24,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.11,
+      "damage": 99,
+      "recoil": 20,
+      "spread": 14,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 2.3,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "mosin",
+    "name": "Mosin",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 1,
+      "damage": 120,
+      "recoil": 4,
+      "spread": 24,
+      "concealment": 6,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3.85,
+      "reload_empty": 3.85
+    }
+  },
+  {
+    "id": "bessy",
+    "name": "Bessy",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 15,
+      "fire_rate": 1,
+      "damage": 200,
+      "recoil": 1,
+      "spread": 24,
+      "concealment": 6,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 11.1,
+      "reload_empty": 11.1
+    }
+  },
+  {
+    "id": "m1928",
+    "name": "M1928",
+    "raw": {
+      "CLIP_AMMO_MAX": 50,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.083,
+      "damage": 58,
+      "recoil": 18,
+      "spread": 13,
+      "concealment": 18,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 3.5,
+      "reload_empty": 4.5
+    }
+  },
+  {
+    "id": "l85a2",
+    "name": "L85A2",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.083,
+      "damage": 65,
+      "recoil": 16,
+      "spread": 17,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 3.5,
+      "reload_empty": 4.5
+    }
+  },
+  {
+    "id": "vhs",
+    "name": "VHS",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.07,
+      "damage": 78,
+      "recoil": 16,
+      "spread": 16,
+      "concealment": 17,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 3.2,
+      "reload_empty": 4.75
+    }
+  },
+  {
+    "id": "hs2000",
+    "name": "Hs2000",
+    "raw": {
+      "CLIP_AMMO_MAX": 19,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "m134",
+    "name": "M134",
+    "raw": {
+      "CLIP_AMMO_MAX": 750,
+      "NR_CLIPS_MAX": 1,
+      "fire_rate": 0.02,
+      "damage": 25,
+      "recoil": 7,
+      "spread": 9,
+      "concealment": 5,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 7.8,
+      "reload_empty": 7.8
+    }
+  },
+  {
+    "id": "rpg7",
+    "name": "RPG7",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 2,
+      "damage": 125,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 5,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 4.7
+    }
+  },
+  {
+    "id": "cobray",
+    "name": "Cobray",
+    "raw": {
+      "CLIP_AMMO_MAX": 32,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.05,
+      "damage": 57,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.05,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "b682",
+    "name": "B682",
+    "raw": {
+      "CLIP_AMMO_MAX": 2,
+      "NR_CLIPS_MAX": 14,
+      "fire_rate": 0.12,
+      "damage": 155,
+      "recoil": 8,
+      "spread": 16,
+      "concealment": 5,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 2.5,
+      "reload_empty": 2.7
+    }
+  },
+  {
+    "id": "x_g22c",
+    "name": "X G22C",
+    "raw": {
+      "CLIP_AMMO_MAX": 32,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_g17",
+    "name": "X G17",
+    "raw": {
+      "CLIP_AMMO_MAX": 34,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.125,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_usp",
+    "name": "X Usp",
+    "raw": {
+      "CLIP_AMMO_MAX": 26,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "flamethrower_mk2",
+    "name": "Flamethrower Mk2",
+    "raw": {
+      "CLIP_AMMO_MAX": 900,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.03,
+      "damage": 7,
+      "recoil": 0,
+      "spread": 1,
+      "concealment": 7,
+      "alert_size": 1,
+      "suppression": 2,
+      "reload_not_empty": 8.5
+    }
+  },
+  {
+    "id": "m32",
+    "name": "M32",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 1,
+      "damage": 130,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 2
+    }
+  },
+  {
+    "id": "aa12",
+    "name": "AA12",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.2,
+      "damage": 42,
+      "recoil": 12,
+      "spread": 8,
+      "concealment": 9,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3,
+      "reload_empty": 4.1
+    }
+  },
+  {
+    "id": "peacemaker",
+    "name": "Peacemaker",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.15,
+      "damage": 115,
+      "recoil": 4,
+      "spread": 22,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "winchester1874",
+    "name": "Winchester1874",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.7,
+      "damage": 123,
+      "recoil": 6,
+      "spread": 24,
+      "concealment": 12,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "plainsrider",
+    "name": "Plainsrider",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 50,
+      "fire_rate": 0.2,
+      "damage": 100,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 1
+    }
+  },
+  {
+    "id": "mateba",
+    "name": "Mateba",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.15,
+      "damage": 180,
+      "recoil": 4,
+      "spread": 22,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.6,
+      "reload_empty": 3.6
+    }
+  },
+  {
+    "id": "asval",
+    "name": "Asval",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 7.333,
+      "fire_rate": 0.067,
+      "damage": 50,
+      "recoil": 17,
+      "spread": 15,
+      "concealment": 26,
+      "alert_size": 12,
+      "suppression": 24,
+      "reload_not_empty": 2.6,
+      "reload_empty": 3.7
+    }
+  },
+  {
+    "id": "sub2000",
+    "name": "Sub2000",
+    "raw": {
+      "CLIP_AMMO_MAX": 33,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.085,
+      "damage": 160,
+      "recoil": 9,
+      "spread": 19,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 4,
+      "reload_not_empty": 2.3,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "wa2000",
+    "name": "Wa2000",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.4,
+      "damage": 160,
+      "recoil": 6,
+      "spread": 24,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 4.64,
+      "reload_empty": 6.2
+    }
+  },
+  {
+    "id": "polymer",
+    "name": "Polymer",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.05,
+      "damage": 58,
+      "recoil": 20,
+      "spread": 14,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2,
+      "reload_empty": 2.5
+    }
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 25,
+      "fire_rate": 1.2,
+      "damage": 35,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.8,
+      "reload_empty": 1.2
+    }
+  },
+  {
+    "id": "baka",
+    "name": "BAKA",
+    "raw": {
+      "CLIP_AMMO_MAX": 32,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.05,
+      "damage": 44,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.85,
+      "reload_empty": 2.6
+    }
+  },
+  {
+    "id": "arblast",
+    "name": "Arblast",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 35,
+      "fire_rate": 2.9,
+      "damage": 20,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.5,
+      "reload_empty": 2.5
+    }
+  },
+  {
+    "id": "frankish",
+    "name": "Frankish",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 50,
+      "fire_rate": 1.5,
+      "damage": 75,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.5,
+      "reload_empty": 1.5
+    }
+  },
+  {
+    "id": "long",
+    "name": "LONG",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 35,
+      "fire_rate": 0.2,
+      "damage": 20,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 1.5
+    }
+  },
+  {
+    "id": "par",
+    "name": "PAR",
+    "raw": {
+      "CLIP_AMMO_MAX": 200,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.066,
+      "damage": 80,
+      "recoil": 8,
+      "spread": 14,
+      "concealment": 1,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 6.5,
+      "reload_empty": 6.5
+    }
+  },
+  {
+    "id": "sparrow",
+    "name": "Sparrow",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.15,
+      "damage": 120,
+      "recoil": 9,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "model70",
+    "name": "Model70",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 1,
+      "damage": 120,
+      "recoil": 4,
+      "spread": 24,
+      "concealment": 6,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3.35,
+      "reload_empty": 4.5
+    }
+  },
+  {
+    "id": "scout",
+    "name": "Pronghorn",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 1,
+      "damage": 123,
+      "recoil": 4,
+      "spread": 19,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3.4,
+      "reload_empty": 5.3
+    }
+  },
+  {
+    "id": "qbu88",
+    "name": "Qbu88",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.4,
+      "damage": 160,
+      "recoil": 13,
+      "spread": 21,
+      "concealment": 12,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.3,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "groza",
+    "name": "Groza",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.086,
+      "damage": 88,
+      "recoil": 14,
+      "spread": 19,
+      "concealment": 8,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.16,
+      "reload_empty": 2.9
+    }
+  },
+  {
+    "id": "pm9",
+    "name": "PM9",
+    "raw": {
+      "CLIP_AMMO_MAX": 25,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.05455,
+      "damage": 60,
+      "recoil": 15,
+      "spread": 8,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.85,
+      "reload_empty": 2.6
+    }
+  },
+  {
+    "id": "x_pm9",
+    "name": "X Pm9",
+    "raw": {
+      "CLIP_AMMO_MAX": 50,
+      "NR_CLIPS_MAX": 5.5,
+      "fire_rate": 0.0545,
+      "damage": 60,
+      "recoil": 15,
+      "spread": 8,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.1,
+      "reload_empty": 2.7
+    }
+  },
+  {
+    "id": "hailstorm",
+    "name": "Hailstorm",
+    "raw": {
+      "CLIP_AMMO_MAX": 120,
+      "NR_CLIPS_MAX": 4.5,
+      "fire_rate": 0.03,
+      "damage": 40,
+      "recoil": 14,
+      "spread": 19,
+      "concealment": 8,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 3.6,
+      "reload_empty": 4.3
+    }
+  },
+  {
+    "id": "tkb",
+    "name": "TKB",
+    "raw": {
+      "CLIP_AMMO_MAX": 90,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.075,
+      "damage": 60,
+      "recoil": 10,
+      "spread": 16,
+      "concealment": 16,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "contender",
+    "name": "Contender",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 10,
+      "fire_rate": 1.7,
+      "damage": 120,
+      "recoil": 2,
+      "spread": 17,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.3
+    }
+  },
+  {
+    "id": "hcar",
+    "name": "Akron HC",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.1,
+      "damage": 128,
+      "recoil": 11,
+      "spread": 19,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 3,
+      "reload_not_empty": 3.2,
+      "reload_empty": 3.7
+    }
+  },
+  {
+    "id": "shak12",
+    "name": "Shak12",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.12,
+      "damage": 115,
+      "recoil": 8,
+      "spread": 12,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 14,
+      "reload_not_empty": 2.1,
+      "reload_empty": 2.9
+    }
+  },
+  {
+    "id": "m37",
+    "name": "M37",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.575,
+      "damage": 155,
+      "recoil": 14,
+      "spread": 12,
+      "concealment": 22,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "raw": {
+      "CLIP_AMMO_MAX": 3,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 1.2,
+      "damage": 100,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 2
+    }
+  },
+  {
+    "id": "sr2",
+    "name": "SR2",
+    "raw": {
+      "CLIP_AMMO_MAX": 32,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.08,
+      "damage": 58,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.07,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_sr2",
+    "name": "X Sr2",
+    "raw": {
+      "CLIP_AMMO_MAX": 64,
+      "NR_CLIPS_MAX": 3.5,
+      "fire_rate": 0.08,
+      "damage": 58,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 2,
+      "reload_empty": 2.5
+    }
+  },
+  {
+    "id": "pl14",
+    "name": "PL14",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.15,
+      "damage": 120,
+      "recoil": 9,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "m590",
+    "name": "M590",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.4,
+      "damage": 110,
+      "recoil": 9,
+      "spread": 10,
+      "concealment": 19,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "m1911",
+    "name": "M1911",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.125,
+      "damage": 110,
+      "recoil": 9,
+      "spread": 17,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "x_m1911",
+    "name": "X M1911",
+    "raw": {
+      "CLIP_AMMO_MAX": 24,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 110,
+      "recoil": 9,
+      "spread": 17,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "vityaz",
+    "name": "Vityaz",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.08,
+      "damage": 72,
+      "recoil": 18,
+      "spread": 17,
+      "concealment": 23,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.05,
+      "reload_empty": 3.08
+    }
+  },
+  {
+    "id": "x_vityaz",
+    "name": "X Vityaz",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.08,
+      "damage": 72,
+      "recoil": 18,
+      "spread": 12,
+      "concealment": 23,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "hk51b",
+    "name": "Hk51B",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.09,
+      "damage": 110,
+      "recoil": 2,
+      "spread": 11,
+      "concealment": 19,
+      "alert_size": 8,
+      "suppression": 2,
+      "reload_not_empty": 3.1,
+      "reload_empty": 3.65
+    }
+  },
+  {
+    "id": "ultima",
+    "name": "Ultima",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.222,
+      "damage": 110,
+      "recoil": 11,
+      "spread": 13,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "maxim9",
+    "name": "Maxim9",
+    "raw": {
+      "CLIP_AMMO_MAX": 17,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.125,
+      "damage": 100,
+      "recoil": 12,
+      "spread": 17,
+      "concealment": 29,
+      "alert_size": 24,
+      "suppression": 15,
+      "reload_not_empty": 1.5,
+      "reload_empty": 2.15
+    }
+  },
+  {
+    "id": "x_maxim9",
+    "name": "X Maxim9",
+    "raw": {
+      "CLIP_AMMO_MAX": 34,
+      "NR_CLIPS_MAX": 2.4,
+      "fire_rate": 0.166,
+      "damage": 100,
+      "recoil": 12,
+      "spread": 17,
+      "concealment": 29,
+      "alert_size": 24,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "fmg9",
+    "name": "FMG9",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.045,
+      "damage": 40,
+      "recoil": 10,
+      "spread": 15,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 1.51,
+      "reload_empty": 2.48
+    }
+  },
+  {
+    "id": "x_mp5",
+    "name": "X Mp5",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.08,
+      "damage": 44,
+      "recoil": 21,
+      "spread": 12,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_akmsu",
+    "name": "X Akmsu",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.073,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 16,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 3,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "tecci",
+    "name": "Tecci",
+    "raw": {
+      "CLIP_AMMO_MAX": 100,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.09,
+      "damage": 70,
+      "recoil": 14,
+      "spread": 7,
+      "concealment": 14,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 3.8,
+      "reload_empty": 4.7
+    }
+  },
+  {
+    "id": "hajk",
+    "name": "HAJK",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.08,
+      "damage": 99,
+      "recoil": 18,
+      "spread": 19,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "boot",
+    "name": "BOOT",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.75,
+      "damage": 155,
+      "recoil": 8,
+      "spread": 13,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "packrat",
+    "name": "Packrat",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 16,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.52,
+      "reload_empty": 2.32
+    }
+  },
+  {
+    "id": "x_packrat",
+    "name": "X Packrat",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 16,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "schakal",
+    "name": "Schakal",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 14,
+      "spread": 16,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.36,
+      "reload_empty": 3.62
+    }
+  },
+  {
+    "id": "desertfox",
+    "name": "Desertfox",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 1,
+      "damage": 120,
+      "recoil": 4,
+      "spread": 20,
+      "concealment": 19,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.72,
+      "reload_empty": 3.86
+    }
+  },
+  {
+    "id": "rota",
+    "name": "ROTA",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.18,
+      "damage": 42,
+      "recoil": 12,
+      "spread": 15,
+      "concealment": 13,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.55,
+      "reload_empty": 2.55
+    }
+  },
+  {
+    "id": "arbiter",
+    "name": "Arbiter Grenade Launcher",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.75,
+      "damage": 50,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 3.34,
+      "reload_empty": 4.5
+    }
+  },
+  {
+    "id": "ms3gl",
+    "name": "Ms3Gl",
+    "raw": {
+      "CLIP_AMMO_MAX": 3,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.33,
+      "damage": 36,
+      "recoil": 20,
+      "spread": 10,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 2
+    }
+  },
+  {
+    "id": "contraband",
+    "name": "Contraband",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.098,
+      "damage": 160,
+      "recoil": 12,
+      "spread": 19,
+      "concealment": 8,
+      "alert_size": 7,
+      "suppression": 8,
+      "reload_not_empty": 2.55,
+      "reload_empty": 3.2
+    }
+  },
+  {
+    "id": "ray",
+    "name": "RAY",
+    "raw": {
+      "CLIP_AMMO_MAX": 4,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 1,
+      "damage": 39,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 5,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 6,
+      "reload_empty": 5.75
+    }
+  },
+  {
+    "id": "tti",
+    "name": "TTI",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.4,
+      "damage": 160,
+      "recoil": 2,
+      "spread": 16,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.3,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "victor",
+    "name": "Victor",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.4,
+      "damage": 160,
+      "recoil": 3,
+      "spread": 14,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 6,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "siltstone",
+    "name": "Siltstone",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.4,
+      "damage": 160,
+      "recoil": 2,
+      "spread": 19,
+      "concealment": 16,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.3,
+      "reload_empty": 3.3
+    }
+  },
+  {
+    "id": "flint",
+    "name": "Flint",
+    "raw": {
+      "CLIP_AMMO_MAX": 35,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 16,
+      "spread": 16,
+      "concealment": 16,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 2.26,
+      "reload_empty": 3.37
+    }
+  },
+  {
+    "id": "coal",
+    "name": "COAL",
+    "raw": {
+      "CLIP_AMMO_MAX": 64,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.25,
+      "reload_empty": 4.25
+    }
+  },
+  {
+    "id": "lemming",
+    "name": "Lemming",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.1,
+      "damage": 120,
+      "recoil": 10,
+      "spread": 13,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.5,
+      "reload_empty": 2.15
+    }
+  },
+  {
+    "id": "type54",
+    "name": "Type54",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.125,
+      "damage": 85,
+      "recoil": 10,
+      "spread": 17,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.5,
+      "reload_empty": 2.15
+    }
+  },
+  {
+    "id": "rsh12",
+    "name": "Rsh12",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.15,
+      "damage": 105,
+      "recoil": 6,
+      "spread": 14,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.25,
+      "reload_empty": 2.25
+    }
+  },
+  {
+    "id": "x_type54",
+    "name": "X Type54",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.166,
+      "damage": 85,
+      "recoil": 10,
+      "spread": 17,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "chinchilla",
+    "name": "Chinchilla",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.15,
+      "damage": 180,
+      "recoil": 2,
+      "spread": 20,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 2.97,
+      "reload_empty": 2.97
+    }
+  },
+  {
+    "id": "x_chinchilla",
+    "name": "X Chinchilla",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.166,
+      "damage": 180,
+      "recoil": 2,
+      "spread": 20,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.47,
+      "reload_empty": 3.47
+    }
+  },
+  {
+    "id": "model3",
+    "name": "Model3",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 11,
+      "fire_rate": 0.15,
+      "damage": 130,
+      "recoil": 8,
+      "spread": 20,
+      "concealment": 26,
+      "alert_size": 8,
+      "suppression": 8,
+      "reload_not_empty": 2.47,
+      "reload_empty": 2.47
+    }
+  },
+  {
+    "id": "sbl",
+    "name": "SBL",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.5,
+      "damage": 98,
+      "recoil": 6,
+      "spread": 18,
+      "concealment": 19,
+      "alert_size": 5,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "m1897",
+    "name": "M1897",
+    "raw": {
+      "CLIP_AMMO_MAX": 7,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.5,
+      "damage": 120,
+      "recoil": 10,
+      "spread": 11,
+      "concealment": 17,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  },
+  {
+    "id": "x_model3",
+    "name": "X Model3",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 8,
+      "fire_rate": 0.166,
+      "damage": 130,
+      "recoil": 8,
+      "spread": 20,
+      "concealment": 26,
+      "alert_size": 8,
+      "suppression": 8,
+      "reload_not_empty": 3.47,
+      "reload_empty": 3.47
+    }
+  },
+  {
+    "id": "shepheard",
+    "name": "Shepheard",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 10,
+      "fire_rate": 0.08,
+      "damage": 58,
+      "recoil": 12,
+      "spread": 17,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.11,
+      "reload_empty": 2.85
+    }
+  },
+  {
+    "id": "x_shepheard",
+    "name": "X Shepheard",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.08,
+      "damage": 58,
+      "recoil": 12,
+      "spread": 17,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 2.5,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "breech",
+    "name": "Parabellum Pistol",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.15,
+      "damage": 180,
+      "recoil": 7,
+      "spread": 20,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.33,
+      "reload_empty": 2.1
+    }
+  },
+  {
+    "id": "ching",
+    "name": "Galant Rifle",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.1,
+      "damage": 160,
+      "recoil": 10,
+      "spread": 22,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 4,
+      "reload_not_empty": 2.56,
+      "reload_empty": 1.52
+    }
+  },
+  {
+    "id": "erma",
+    "name": "MP40",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.1,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 18,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.9,
+      "reload_empty": 3.05
+    }
+  },
+  {
+    "id": "ecp",
+    "name": "ECP",
+    "raw": {
+      "CLIP_AMMO_MAX": 6,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.5,
+      "damage": 70,
+      "recoil": 22,
+      "spread": 22,
+      "concealment": 6,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "shrew",
+    "name": "Shrew",
+    "raw": {
+      "CLIP_AMMO_MAX": 17,
+      "NR_CLIPS_MAX": 9,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 17,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "x_shrew",
+    "name": "X Shrew",
+    "raw": {
+      "CLIP_AMMO_MAX": 34,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.09,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 17,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "basset",
+    "name": "Basset",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 13,
+      "fire_rate": 0.2,
+      "damage": 18,
+      "recoil": 13,
+      "spread": 4,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.16,
+      "reload_empty": 2.9
+    }
+  },
+  {
+    "id": "x_basset",
+    "name": "X Basset",
+    "raw": {
+      "CLIP_AMMO_MAX": 16,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.18,
+      "damage": 18,
+      "recoil": 13,
+      "spread": 4,
+      "concealment": 21,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "corgi",
+    "name": "Corgi",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.07,
+      "damage": 59,
+      "recoil": 18,
+      "spread": 18,
+      "concealment": 20,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.1,
+      "reload_empty": 2.9
+    }
+  },
+  {
+    "id": "slap",
+    "name": "SLAP",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "fire_rate": 2,
+      "damage": 130,
+      "recoil": 22,
+      "spread": 22,
+      "concealment": 22,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 3.1
+    }
+  },
+  {
+    "id": "x_coal",
+    "name": "X Coal",
+    "raw": {
+      "CLIP_AMMO_MAX": 128,
+      "NR_CLIPS_MAX": 1.41,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_baka",
+    "name": "X Baka",
+    "raw": {
+      "CLIP_AMMO_MAX": 64,
+      "NR_CLIPS_MAX": 4.5,
+      "fire_rate": 0.05,
+      "damage": 44,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_cobray",
+    "name": "X Cobray",
+    "raw": {
+      "CLIP_AMMO_MAX": 64,
+      "NR_CLIPS_MAX": 3.5,
+      "fire_rate": 0.05,
+      "damage": 57,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_erma",
+    "name": "X Erma",
+    "raw": {
+      "CLIP_AMMO_MAX": 80,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.1,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 18,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_hajk",
+    "name": "X Hajk",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.08,
+      "damage": 99,
+      "recoil": 18,
+      "spread": 19,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_m45",
+    "name": "X M45",
+    "raw": {
+      "CLIP_AMMO_MAX": 80,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.1,
+      "damage": 99,
+      "recoil": 12,
+      "spread": 18,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_m1928",
+    "name": "X M1928",
+    "raw": {
+      "CLIP_AMMO_MAX": 100,
+      "NR_CLIPS_MAX": 2.3,
+      "fire_rate": 0.083,
+      "damage": 58,
+      "recoil": 18,
+      "spread": 13,
+      "concealment": 18,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_mac10",
+    "name": "X Mac10",
+    "raw": {
+      "CLIP_AMMO_MAX": 80,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.06,
+      "damage": 58,
+      "recoil": 17,
+      "spread": 13,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_mp7",
+    "name": "X Mp7",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.063,
+      "damage": 70,
+      "recoil": 18,
+      "spread": 17,
+      "concealment": 23,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_mp9",
+    "name": "X Mp9",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 4.5,
+      "fire_rate": 0.063,
+      "damage": 50,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_olympic",
+    "name": "X Olympic",
+    "raw": {
+      "CLIP_AMMO_MAX": 50,
+      "NR_CLIPS_MAX": 4.5,
+      "fire_rate": 0.088,
+      "damage": 65,
+      "recoil": 17,
+      "spread": 12,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 10,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_p90",
+    "name": "X P90",
+    "raw": {
+      "CLIP_AMMO_MAX": 100,
+      "NR_CLIPS_MAX": 2.5,
+      "fire_rate": 0.066,
+      "damage": 56,
+      "recoil": 16,
+      "spread": 14,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_polymer",
+    "name": "X Polymer",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.05,
+      "damage": 58,
+      "recoil": 20,
+      "spread": 14,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_schakal",
+    "name": "X Schakal",
+    "raw": {
+      "CLIP_AMMO_MAX": 60,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.092,
+      "damage": 99,
+      "recoil": 14,
+      "spread": 16,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_scorpion",
+    "name": "X Scorpion",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.06,
+      "damage": 44,
+      "recoil": 18,
+      "spread": 8,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 17,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_sterling",
+    "name": "X Sterling",
+    "raw": {
+      "CLIP_AMMO_MAX": 48,
+      "NR_CLIPS_MAX": 3.5,
+      "fire_rate": 0.11,
+      "damage": 99,
+      "recoil": 20,
+      "spread": 14,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_tec9",
+    "name": "X Tec9",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.067,
+      "damage": 44,
+      "recoil": 20,
+      "spread": 8,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_uzi",
+    "name": "X Uzi",
+    "raw": {
+      "CLIP_AMMO_MAX": 80,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.086,
+      "damage": 90,
+      "recoil": 18,
+      "spread": 14,
+      "concealment": 24,
+      "alert_size": 7,
+      "suppression": 12,
+      "reload_not_empty": 3,
+      "reload_empty": 3
+    }
+  },
+  {
+    "id": "x_2006m",
+    "name": "X 2006M",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.166,
+      "damage": 180,
+      "recoil": 4,
+      "spread": 22,
+      "concealment": 20,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_breech",
+    "name": "X Breech",
+    "raw": {
+      "CLIP_AMMO_MAX": 16,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.166,
+      "damage": 180,
+      "recoil": 7,
+      "spread": 20,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_c96",
+    "name": "X C96",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 16,
+      "spread": 21,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_g18c",
+    "name": "X G18C",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.066,
+      "damage": 35,
+      "recoil": 15,
+      "spread": 14,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_hs2000",
+    "name": "X Hs2000",
+    "raw": {
+      "CLIP_AMMO_MAX": 38,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_p226",
+    "name": "X P226",
+    "raw": {
+      "CLIP_AMMO_MAX": 24,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 14,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_pl14",
+    "name": "X Pl14",
+    "raw": {
+      "CLIP_AMMO_MAX": 24,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 120,
+      "recoil": 9,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_ppk",
+    "name": "X Ppk",
+    "raw": {
+      "CLIP_AMMO_MAX": 28,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.166,
+      "damage": 53,
+      "recoil": 16,
+      "spread": 12,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 18,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_rage",
+    "name": "X Rage",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.166,
+      "damage": 175,
+      "recoil": 2,
+      "spread": 20,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 7,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_sparrow",
+    "name": "X Sparrow",
+    "raw": {
+      "CLIP_AMMO_MAX": 24,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 120,
+      "recoil": 9,
+      "spread": 18,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "x_judge",
+    "name": "X Judge",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.12,
+      "damage": 155,
+      "recoil": 8,
+      "spread": 14,
+      "concealment": 29,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "x_rota",
+    "name": "X Rota",
+    "raw": {
+      "CLIP_AMMO_MAX": 12,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.18,
+      "damage": 42,
+      "recoil": 12,
+      "spread": 15,
+      "concealment": 13,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3,
+      "reload_empty": 3.5
+    }
+  },
+  {
+    "id": "shuno",
+    "name": "Shuno",
+    "raw": {
+      "CLIP_AMMO_MAX": 750,
+      "NR_CLIPS_MAX": 1,
+      "fire_rate": 0.03,
+      "damage": 35,
+      "recoil": 7,
+      "spread": 9,
+      "concealment": 5,
+      "alert_size": 8,
+      "suppression": 4,
+      "reload_not_empty": 7.8,
+      "reload_empty": 7.8
+    }
+  },
+  {
+    "id": "system",
+    "name": "System",
+    "raw": {
+      "CLIP_AMMO_MAX": 700,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.03,
+      "damage": 7,
+      "recoil": 0,
+      "spread": 1,
+      "concealment": 15,
+      "alert_size": 1,
+      "suppression": 2,
+      "reload_not_empty": 8.5,
+      "reload_empty": 8.5
+    }
+  },
+  {
+    "id": "money",
+    "name": "Money",
+    "raw": {
+      "CLIP_AMMO_MAX": 400,
+      "NR_CLIPS_MAX": 2,
+      "fire_rate": 0.03,
+      "damage": 95,
+      "recoil": 0,
+      "spread": 1,
+      "concealment": 21,
+      "alert_size": 1,
+      "suppression": 2,
+      "reload_not_empty": 8.5,
+      "reload_empty": 8.5
+    }
+  },
+  {
+    "id": "komodo",
+    "name": "Komodo",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 0.075,
+      "damage": 62,
+      "recoil": 14,
+      "spread": 16,
+      "concealment": 26,
+      "alert_size": 8,
+      "suppression": 12,
+      "reload_not_empty": 2.35,
+      "reload_empty": 3.35
+    }
+  },
+  {
+    "id": "elastic",
+    "name": "Elastic",
+    "raw": {
+      "CLIP_AMMO_MAX": 1,
+      "NR_CLIPS_MAX": 30,
+      "fire_rate": 0.2,
+      "damage": 20,
+      "recoil": 25,
+      "spread": 25,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 2,
+      "reload_not_empty": 1.3
+    }
+  },
+  {
+    "id": "legacy",
+    "name": "Legacy",
+    "raw": {
+      "CLIP_AMMO_MAX": 13,
+      "NR_CLIPS_MAX": 12,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 13,
+      "spread": 12,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.5,
+      "reload_empty": 2.15
+    }
+  },
+  {
+    "id": "x_legacy",
+    "name": "X Legacy",
+    "raw": {
+      "CLIP_AMMO_MAX": 26,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.11,
+      "damage": 53,
+      "recoil": 13,
+      "spread": 12,
+      "concealment": 30,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "coach",
+    "name": "Coach",
+    "raw": {
+      "CLIP_AMMO_MAX": 2,
+      "NR_CLIPS_MAX": 22,
+      "fire_rate": 0.12,
+      "damage": 155,
+      "recoil": 12,
+      "spread": 15,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 2.2
+    }
+  },
+  {
+    "id": "beer",
+    "name": "BEER",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 13,
+      "fire_rate": 0.0545,
+      "damage": 25,
+      "recoil": 17,
+      "spread": 11,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "x_beer",
+    "name": "X Beer",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.0545,
+      "damage": 25,
+      "recoil": 20,
+      "spread": 11,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "stech",
+    "name": "Stech",
+    "raw": {
+      "CLIP_AMMO_MAX": 20,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.08,
+      "damage": 65,
+      "recoil": 8,
+      "spread": 15,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 2,
+      "reload_empty": 2.7
+    }
+  },
+  {
+    "id": "x_stech",
+    "name": "X Stech",
+    "raw": {
+      "CLIP_AMMO_MAX": 40,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.08,
+      "damage": 65,
+      "recoil": 8,
+      "spread": 15,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 16,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "czech",
+    "name": "Czech",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 10,
+      "fire_rate": 0.06,
+      "damage": 38,
+      "recoil": 16,
+      "spread": 16,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "x_czech",
+    "name": "X Czech",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.06,
+      "damage": 38,
+      "recoil": 16,
+      "spread": 16,
+      "concealment": 26,
+      "alert_size": 7,
+      "suppression": 14,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "holt",
+    "name": "HOLT",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 6,
+      "fire_rate": 0.125,
+      "damage": 80,
+      "recoil": 18,
+      "spread": 16,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.5,
+      "reload_empty": 2.15
+    }
+  },
+  {
+    "id": "x_holt",
+    "name": "X Holt",
+    "raw": {
+      "CLIP_AMMO_MAX": 30,
+      "NR_CLIPS_MAX": 3,
+      "fire_rate": 0.166,
+      "damage": 80,
+      "recoil": 18,
+      "spread": 17,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.17,
+      "reload_empty": 4
+    }
+  },
+  {
+    "id": "m60",
+    "name": "M60",
+    "raw": {
+      "CLIP_AMMO_MAX": 200,
+      "NR_CLIPS_MAX": 1.5,
+      "fire_rate": 0.109,
+      "damage": 120,
+      "recoil": 6,
+      "spread": 13,
+      "concealment": 1,
+      "alert_size": 8,
+      "suppression": 3,
+      "reload_not_empty": 6.25,
+      "reload_empty": 6.25
+    }
+  },
+  {
+    "id": "r700",
+    "name": "R700",
+    "raw": {
+      "CLIP_AMMO_MAX": 10,
+      "NR_CLIPS_MAX": 4,
+      "fire_rate": 0.8,
+      "damage": 123,
+      "recoil": 8,
+      "spread": 24,
+      "concealment": 10,
+      "alert_size": 7,
+      "suppression": 5,
+      "reload_not_empty": 3.35,
+      "reload_empty": 4.7
+    }
+  },
+  {
+    "id": "welrod",
+    "name": "Welrod",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 5,
+      "fire_rate": 2.233,
+      "damage": 123,
+      "recoil": 4,
+      "spread": 18,
+      "concealment": 27,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 3.33,
+      "reload_empty": 3.33
+    }
+  },
+  {
+    "id": "pmm",
+    "name": "PMM",
+    "raw": {
+      "CLIP_AMMO_MAX": 8,
+      "NR_CLIPS_MAX": 7,
+      "fire_rate": 0.125,
+      "damage": 120,
+      "recoil": 9,
+      "spread": 15,
+      "concealment": 28,
+      "alert_size": 7,
+      "suppression": 15,
+      "reload_not_empty": 1.47,
+      "reload_empty": 2.12
+    }
+  },
+  {
+    "id": "speen",
+    "name": "Speen",
+    "raw": {
+      "CLIP_AMMO_MAX": 15,
+      "NR_CLIPS_MAX": 3,
+      "damage": 120,
+      "recoil": 14,
+      "spread": 17,
+      "concealment": 25,
+      "alert_size": 7,
+      "suppression": 13
+    }
+  },
+  {
+    "id": "bleckert",
+    "name": "Bleckert",
+    "raw": {
+      "CLIP_AMMO_MAX": 5,
+      "NR_CLIPS_MAX": 5,
+      "damage": 155,
+      "recoil": 6,
+      "spread": 16,
+      "concealment": 18,
+      "alert_size": 7,
+      "suppression": 5
+    }
+  }
+]

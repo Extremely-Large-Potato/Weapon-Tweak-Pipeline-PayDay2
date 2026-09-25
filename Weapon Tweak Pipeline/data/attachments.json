@@ -1,0 +1,9392 @@
+[
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_large",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_medium",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_small",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_large",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_medium",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_small",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_shot_thick",
+    "type": "barrel_ext",
+    "weapon": "silencers"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_firepig",
+    "type": "barrel_ext",
+    "weapon": "nozzles"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_stubby",
+    "type": "barrel_ext",
+    "weapon": "nozzles"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_tank",
+    "type": "barrel_ext",
+    "weapon": "nozzles"
+  },
+  {
+    "id": "wpn_fps_upg_ns_shot_shark",
+    "type": "barrel_ext",
+    "weapon": "nozzles"
+  },
+  {
+    "id": "wpn_fps_addon_ris",
+    "type": "extra",
+    "weapon": "gadgets"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_smg_sho_surefire",
+    "type": "gadget",
+    "weapon": "gadgets"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_smg_sho_peqbox",
+    "type": "gadget",
+    "weapon": "gadgets"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_laser",
+    "type": "gadget",
+    "weapon": "gadgets"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_tlr1",
+    "type": "gadget",
+    "weapon": "gadgets"
+  },
+  {
+    "id": "wpn_fps_upg_vg_ass_smg_verticalgrip",
+    "type": "vertical_grip",
+    "weapon": "vertical_grips"
+  },
+  {
+    "id": "wpn_fps_upg_vg_ass_smg_stubby",
+    "type": "vertical_grip",
+    "weapon": "vertical_grips"
+  },
+  {
+    "id": "wpn_fps_upg_vg_ass_smg_afg",
+    "type": "vertical_grip",
+    "weapon": "vertical_grips"
+  },
+  {
+    "id": "wpn_fps_upg_o_specter",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_aimpoint",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_aimpoint_2",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_docter",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_tf90",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_poe",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_hamr",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_hamr_reddot",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_atibal",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_atibal_reddot",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_specter_piggyback",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_cs_piggyback",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_hailstorm_o_claymore",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_eotech",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_t1micro",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_upg_o_marksmansight_rear",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_upg_o_marksmansight_front",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_dd_rear",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_dd_front",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_extra_zoom",
+    "type": "extra",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_45iron",
+    "type": "gadget",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_shortdot",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_leupold",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_dardar",
+    "type": "sight",
+    "weapon": "sights"
+  },
+  {
+    "id": "wpn_fps_upg_o_cmore",
+    "type": "sight",
+    "weapon": "content_dlc1"
+  },
+  {
+    "id": "wpn_fps_upg_i_singlefire",
+    "type": "custom",
+    "weapon": "content_dlc2"
+  },
+  {
+    "id": "wpn_fps_upg_i_autofire",
+    "type": "custom",
+    "weapon": "content_dlc2"
+  },
+  {
+    "id": "wpn_fps_upg_i_burstfire",
+    "type": "custom",
+    "weapon": "content_dlc2"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_hgrip",
+    "type": "grip",
+    "weapon": "content_dlc2"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_mgrip",
+    "type": "grip",
+    "weapon": "content_dlc2"
+  },
+  {
+    "id": "wpn_fps_upg_o_acog",
+    "type": "sight",
+    "weapon": "content_dlc2_dec16"
+  },
+  {
+    "id": "wpn_fps_pis_rage_o_adapter",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_pis_rage_extra",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_pis_rage_lock",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_extra",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_lock",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_m4_upg_b_sd_smr",
+    "type": "barrel",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fg_jp",
+    "type": "foregrip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fg_smr",
+    "type": "foregrip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_m4_m_quad",
+    "type": "magazine",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_fg_tapco",
+    "type": "foregrip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fg_midwest",
+    "type": "foregrip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_b_draco",
+    "type": "barrel",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_m_quad",
+    "type": "magazine",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_hgrip",
+    "type": "grip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_pgrip",
+    "type": "grip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_wgrip",
+    "type": "grip",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ass_ns_jprifles",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ass_ns_linear",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ass_ns_surefire",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_pis_ns_flash",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_shot_ns_king",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_medium_slim",
+    "type": "barrel_ext",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_peq15",
+    "type": "gadget",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_peq15_flashlight",
+    "type": "extra",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_laser",
+    "type": "gadget",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_crane",
+    "type": "stock",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_mk46",
+    "type": "stock",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_rmr",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_eotech_xps",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_reflex",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_rx01",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_rx30",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_upg_o_cs",
+    "type": "sight",
+    "weapon": "content_jobs"
+  },
+  {
+    "id": "wpn_fps_m4_lower_reciever",
+    "type": "lower_reciever",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_upper_reciever_edge",
+    "type": "upper_reciever",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_upper_reciever_round",
+    "type": "upper_reciever",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_b_long",
+    "type": "barrel",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_b_short",
+    "type": "barrel",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_b_medium",
+    "type": "barrel",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_b_sd",
+    "type": "barrel",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_upg_ns_mk12",
+    "type": "barrel_ext",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_fg_rail_ext_mk12",
+    "type": "foregrip_ext",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_upg_fg_mk12",
+    "type": "exclusive_set",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_fg_lr300",
+    "type": "foregrip",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_fg_rail",
+    "type": "foregrip",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_m_std",
+    "type": "magazine",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_s_fold",
+    "type": "stock",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_o_flipup",
+    "type": "sight",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_draghandle",
+    "type": "drag_handle",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_fg_rail_ext",
+    "type": "foregrip_ext",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_standard",
+    "type": "grip",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_ergo",
+    "type": "grip",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_sniper",
+    "type": "grip",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_m_drum",
+    "type": "magazine",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_m_pmag",
+    "type": "magazine",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_m_straight",
+    "type": "magazine",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_standard",
+    "type": "stock",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_pts",
+    "type": "stock",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "m4"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_body_frame",
+    "type": "lower_reciever",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_b_standard",
+    "type": "slide",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_co_1",
+    "type": "barrel_ext",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_co_comp_2",
+    "type": "barrel_ext",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_m_mag_33rnd",
+    "type": "magazine",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_m_mag_17rnd",
+    "type": "magazine",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_s_stock",
+    "type": "stock",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_pis_g18c_g_ergo",
+    "type": "grip",
+    "weapon": "g18c"
+  },
+  {
+    "id": "wpn_fps_amcar_uupg_body_upperreciever",
+    "type": "sight",
+    "weapon": "amcar"
+  },
+  {
+    "id": "wpn_fps_amcar_uupg_fg_amcar",
+    "type": "foregrip",
+    "weapon": "amcar"
+  },
+  {
+    "id": "wpn_fps_amcar_bolt_standard",
+    "type": "bolt",
+    "weapon": "amcar"
+  },
+  {
+    "id": "wpn_fps_m16_fg_railed",
+    "type": "foregrip",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_m16_fg_standard",
+    "type": "foregrip",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_m16_fg_vietnam",
+    "type": "foregrip",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_m16_s_solid",
+    "type": "stock",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_ass_m16_o_handle_sight",
+    "type": "sight",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_ass_m16_os_frontsight",
+    "type": "sight_special",
+    "weapon": "m16"
+  },
+  {
+    "id": "wpn_fps_smg_olympic_fg_railed",
+    "type": "foregrip",
+    "weapon": "olympic"
+  },
+  {
+    "id": "wpn_fps_smg_olympic_fg_olympic",
+    "type": "foregrip",
+    "weapon": "olympic"
+  },
+  {
+    "id": "wpn_fps_smg_olympic_s_short",
+    "type": "stock",
+    "weapon": "olympic"
+  },
+  {
+    "id": "wpn_fps_smg_olympic_s_adjust",
+    "type": "stock",
+    "weapon": "olympic"
+  },
+  {
+    "id": "wpn_upg_ak_fg_combo1",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_fg_combo2",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_fg_combo3",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_fg_combo4",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_fg_standard",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_fg_standard_gold",
+    "type": "foregrip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_g_standard",
+    "type": "grip",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_m_akm",
+    "type": "magazine",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_m_akm_gold",
+    "type": "magazine",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_m_drum",
+    "type": "magazine",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_s_folding",
+    "type": "stock",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_s_folding_vanilla_gold",
+    "type": "stock",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_s_psl",
+    "type": "stock",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_upg_ak_s_skfoldable",
+    "type": "stock",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ak_extra_ris",
+    "type": "extra",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ak_bolt",
+    "type": "drag_handle",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_akm_body_upperreceiver",
+    "type": "upper_reciever",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_akm_body_upperreceiver_gold",
+    "type": "upper_reciever",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_ak_body_lowerreceiver",
+    "type": "lower_reciever",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_ak_body_lowerreceiver_gold",
+    "type": "lower_reciever",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_akm_b_standard",
+    "type": "barrel",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_akm_b_standard_gold",
+    "type": "barrel",
+    "weapon": "ak_parts"
+  },
+  {
+    "id": "wpn_fps_ass_74_b_standard",
+    "type": "barrel",
+    "weapon": "ak74"
+  },
+  {
+    "id": "wpn_fps_ass_74_body_upperreceiver",
+    "type": "upper_reciever",
+    "weapon": "ak74"
+  },
+  {
+    "id": "wpn_fps_ass_74_m_standard",
+    "type": "magazine",
+    "weapon": "ak74"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_barrels",
+    "type": "barrel",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_body_front",
+    "type": "upper_body",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_body_rear",
+    "type": "lower_body",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_body_pouch",
+    "type": "lower_reciever",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_s_tigr",
+    "type": "stock",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_m_standard",
+    "type": "magazine",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_m_bakelite",
+    "type": "magazine",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_bolt_std",
+    "type": "bolt",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_bolt_rp4",
+    "type": "bolt",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_irons",
+    "type": "sight",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_front_post",
+    "type": "sight_special",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_tt01",
+    "type": "sight",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_tt01_mount",
+    "type": "extra",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_tritium_add",
+    "type": "sight",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_o_tritium",
+    "type": "sight",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_ass_tkb_conversion",
+    "type": "exclusive_set",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_upg_tkb_g_standard",
+    "type": "grip",
+    "weapon": "tkb"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_edg",
+    "type": "grip",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_gradus",
+    "type": "grip",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_rk9",
+    "type": "grip",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_ns_tgp",
+    "type": "barrel_ext",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_ns_jmac",
+    "type": "barrel_ext",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_northtac",
+    "type": "sight",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_northtac_reddot",
+    "type": "extra",
+    "weapon": "pxp3_mods"
+  },
+  {
+    "id": "wpn_fps_uupg_fg_radian",
+    "type": "foregrip",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_m_strike",
+    "type": "magazine",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_lower_radian",
+    "type": "lower_reciever",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_upper_radian",
+    "type": "upper_reciever",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_g_billet",
+    "type": "grip",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_fg_zenitco",
+    "type": "foregrip",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_body_upperreceiver_zenitco",
+    "type": "upper_reciever",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_dh_zenitco",
+    "type": "drag_handle",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_ns_zenitco",
+    "type": "barrel_ext",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_ak_s_zenitco",
+    "type": "stock",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_health",
+    "type": "sight",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_mbus_pro_rear",
+    "type": "sight_special",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_mbus_pro_front",
+    "type": "sight_special",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_mbus_pro",
+    "type": "sight",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_upg_fl_dbal_laser",
+    "type": "gadget",
+    "weapon": "mxm_mods"
+  },
+  {
+    "id": "wpn_fps_smg_akmsu_b_standard",
+    "type": "barrel",
+    "weapon": "akmsu"
+  },
+  {
+    "id": "wpn_fps_smg_akmsu_body_lowerreceiver",
+    "type": "lower_reciever",
+    "weapon": "akmsu"
+  },
+  {
+    "id": "wpn_fps_smg_akmsu_fg_rail",
+    "type": "foregrip",
+    "weapon": "akmsu"
+  },
+  {
+    "id": "wpn_fps_smg_akmsu_fg_standard",
+    "type": "foregrip",
+    "weapon": "akmsu"
+  },
+  {
+    "id": "wpn_fps_shot_saiga_b_standard",
+    "type": "barrel",
+    "weapon": "saiga"
+  },
+  {
+    "id": "wpn_fps_shot_saiga_m_5rnd",
+    "type": "magazine",
+    "weapon": "saiga"
+  },
+  {
+    "id": "wpn_upg_saiga_fg_standard",
+    "type": "foregrip",
+    "weapon": "saiga"
+  },
+  {
+    "id": "wpn_upg_saiga_fg_lowerrail",
+    "type": "foregrip",
+    "weapon": "saiga"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_b_standard",
+    "type": "barrel",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_b_long",
+    "type": "barrel",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_b_short",
+    "type": "barrel",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_m_drum",
+    "type": "magazine",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_m_stick",
+    "type": "magazine",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_fg_standard",
+    "type": "foregrip",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_fg_railed",
+    "type": "foregrip",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_body_upper",
+    "type": "upper_reciever",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_body_lower",
+    "type": "lower_reciever",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_body_grip",
+    "type": "grip",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_stock",
+    "type": "stock",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_s_adapter_short",
+    "type": "stock",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_drag_handle",
+    "type": "drag_handle",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_ns_default",
+    "type": "barrel_ext",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_ns_stiletto",
+    "type": "barrel_ext",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_stock_conversion",
+    "type": "stock",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_sho_sko12_conversion",
+    "type": "exclusive_set",
+    "weapon": "sko12"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_b_std",
+    "type": "barrel",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_body_ak5",
+    "type": "lower_reciever",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_body_rail",
+    "type": "extra",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_fg_ak5a",
+    "type": "foregrip",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_fg_ak5c",
+    "type": "foregrip",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_fg_fnc",
+    "type": "foregrip",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_s_ak5a",
+    "type": "stock",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_s_ak5b",
+    "type": "stock",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_s_ak5c",
+    "type": "stock",
+    "weapon": "ak5"
+  },
+  {
+    "id": "wpn_fps_aug_b_long",
+    "type": "barrel",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_b_medium",
+    "type": "barrel",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_b_short",
+    "type": "barrel",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_m_pmag",
+    "type": "magazine",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_body_aug",
+    "type": "lower_reciever",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_fg_a3",
+    "type": "extra",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_aug_ris_special",
+    "type": "extra",
+    "weapon": "aug"
+  },
+  {
+    "id": "wpn_fps_ass_g36_body_sl8",
+    "type": "lower_reciever",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_body_standard",
+    "type": "lower_reciever",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_g_standard",
+    "type": "grip",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_m_standard",
+    "type": "magazine",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_b_long",
+    "type": "barrel",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_b_short",
+    "type": "barrel",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_fg_c",
+    "type": "foregrip",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_fg_k",
+    "type": "foregrip",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_fg_ksk",
+    "type": "foregrip",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_s_kv",
+    "type": "stock",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_s_sl8",
+    "type": "stock",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_ass_g36_s_standard",
+    "type": "stock",
+    "weapon": "g36"
+  },
+  {
+    "id": "wpn_fps_smg_p90_b_long",
+    "type": "barrel",
+    "weapon": "p90"
+  },
+  {
+    "id": "wpn_fps_smg_p90_b_short",
+    "type": "barrel",
+    "weapon": "p90"
+  },
+  {
+    "id": "wpn_fps_smg_p90_body_p90",
+    "type": "lower_reciever",
+    "weapon": "p90"
+  },
+  {
+    "id": "wpn_fps_smg_p90_m_std",
+    "type": "magazine",
+    "weapon": "p90"
+  },
+  {
+    "id": "wpn_fps_hailstorm_b_std",
+    "type": "barrel",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_b_extended",
+    "type": "barrel",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_b_suppressed",
+    "type": "barrel",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_b_ext_suppressed",
+    "type": "barrel",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_body",
+    "type": "lower_reciever",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_g_crystal",
+    "type": "grip",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_g_noise",
+    "type": "grip",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_g_bubble",
+    "type": "grip",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_fl_flash",
+    "type": "gadget",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_o_irons",
+    "type": "sight_special",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_m_std",
+    "type": "magazine",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_conv_fl",
+    "type": "gadget",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_conv_fl_2",
+    "type": "extra",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_hailstorm_conversion",
+    "type": "exclusive_set",
+    "weapon": "hailstorm"
+  },
+  {
+    "id": "wpn_fps_ass_m14_b_standard",
+    "type": "barrel",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_dmr",
+    "type": "stock",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_ebr",
+    "type": "stock",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_jae",
+    "type": "stock",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_lower",
+    "type": "lower_body",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_upper",
+    "type": "upper_body",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_ass_m14_m_standard",
+    "type": "magazine",
+    "weapon": "m14"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_body_mp9",
+    "type": "lower_reciever",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_m_extended",
+    "type": "magazine",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_m_short",
+    "type": "magazine",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_s_fold",
+    "type": "stock",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_s_skel",
+    "type": "stock",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_b_dummy",
+    "type": "barrel",
+    "weapon": "mp9"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_body_standard",
+    "type": "lower_reciever",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_b_long",
+    "type": "slide",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_b_standard",
+    "type": "slide",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_co_long",
+    "type": "barrel_ext",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_co_short",
+    "type": "barrel_ext",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_fg_rail",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_g_bling",
+    "type": "grip",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_g_ergo",
+    "type": "grip",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_g_standard",
+    "type": "grip",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_m_extended",
+    "type": "magazine",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_m_standard",
+    "type": "magazine",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_o_standard_rear",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_o_standard_front",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_o_standard_front_long",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_o_ck",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_o_adapter_ck",
+    "type": "extra",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_ck",
+    "type": "exclusive_set",
+    "weapon": "deagle"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_b_m5k",
+    "type": "barrel",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_b_mp5a4",
+    "type": "barrel",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_b_mp5a5",
+    "type": "barrel",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_b_mp5sd",
+    "type": "barrel",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_body_mp5",
+    "type": "lower_reciever",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_body_rail",
+    "type": "upper_reciever",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_fg_mp5a4",
+    "type": "foregrip",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_fg_m5k",
+    "type": "foregrip",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_fg_mp5a5",
+    "type": "foregrip",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_fg_mp5sd",
+    "type": "foregrip",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_m_drum",
+    "type": "magazine",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_m_std",
+    "type": "magazine",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_s_adjust",
+    "type": "stock",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_s_ring",
+    "type": "stock",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_s_solid",
+    "type": "stock",
+    "weapon": "mp5"
+  },
+  {
+    "id": "wpn_fps_pis_1911_b_long",
+    "type": "slide",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_b_standard",
+    "type": "slide",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_b_vented",
+    "type": "slide",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_body_standard",
+    "type": "lower_reciever",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_co_1",
+    "type": "barrel_ext",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_co_2",
+    "type": "barrel_ext",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_g_bling",
+    "type": "grip",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_g_ergo",
+    "type": "grip",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_g_standard",
+    "type": "grip",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_m_extended",
+    "type": "magazine",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_m_standard",
+    "type": "magazine",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_o_long",
+    "type": "extra",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_pis_1911_o_standard",
+    "type": "extra",
+    "weapon": "colt_1911"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_b_dummy",
+    "type": "barrel",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_body_mac10",
+    "type": "lower_reciever",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_body_ris",
+    "type": "extra",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_body_ris_special",
+    "type": "extra",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_m_extended",
+    "type": "magazine",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_m_short",
+    "type": "magazine",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_ris_dummy",
+    "type": "lower_reciever",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_s_fold",
+    "type": "stock",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_s_fold2",
+    "type": "stock",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_s_skel",
+    "type": "stock",
+    "weapon": "mac10"
+  },
+  {
+    "id": "wpn_fps_shot_r870_b_long",
+    "type": "barrel",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_body_rack",
+    "type": "upper_reciever",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_body_standard",
+    "type": "lower_reciever",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_fg_big",
+    "type": "foregrip",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_fg_railed",
+    "type": "foregrip",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_fg_small",
+    "type": "foregrip",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_fg_wood",
+    "type": "foregrip",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_m_extended",
+    "type": "magazine",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_folding",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_m4",
+    "type": "stock_adapter",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_solid",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_nostock_big",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_nostock_single",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_nostock",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_solid_big",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_solid_single",
+    "type": "stock",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_gadget_rail",
+    "type": "extra",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_r870_ris_special",
+    "type": "extra",
+    "weapon": "r870"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_m_extended_short",
+    "type": "magazine",
+    "weapon": "serbu"
+  },
+  {
+    "id": "wpn_fps_shot_r870_b_short",
+    "type": "barrel",
+    "weapon": "serbu"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_s_nostock_short",
+    "type": "stock",
+    "weapon": "serbu"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_s_solid_short",
+    "type": "stock",
+    "weapon": "serbu"
+  },
+  {
+    "id": "wpn_fps_pis_g17_b_standard",
+    "type": "slide",
+    "weapon": "g17"
+  },
+  {
+    "id": "wpn_fps_pis_g17_body_standard",
+    "type": "lower_reciever",
+    "weapon": "g17"
+  },
+  {
+    "id": "wpn_fps_pis_g17_m_standard",
+    "type": "magazine",
+    "weapon": "g17"
+  },
+  {
+    "id": "wpn_fps_pis_g17_ck",
+    "type": "exclusive_set",
+    "weapon": "g17"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_b_std",
+    "type": "slide",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_body_beretta",
+    "type": "lower_reciever",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_body_rail",
+    "type": "extra",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_co_co1",
+    "type": "barrel_ext",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_co_co2",
+    "type": "barrel_ext",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_g_ergo",
+    "type": "grip",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_g_std",
+    "type": "grip",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_m_extended",
+    "type": "magazine",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_m_std",
+    "type": "magazine",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_o_std",
+    "type": "sight",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_sl_brigadier",
+    "type": "upper_reciever",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_sl_std",
+    "type": "upper_reciever",
+    "weapon": "b92fs"
+  },
+  {
+    "id": "wpn_fps_shot_huntsman_b_long",
+    "type": "barrel",
+    "weapon": "huntsman"
+  },
+  {
+    "id": "wpn_fps_shot_huntsman_b_short",
+    "type": "barrel",
+    "weapon": "huntsman"
+  },
+  {
+    "id": "wpn_fps_shot_huntsman_body_standard",
+    "type": "lower_reciever",
+    "weapon": "huntsman"
+  },
+  {
+    "id": "wpn_fps_shot_huntsman_s_long",
+    "type": "stock",
+    "weapon": "huntsman"
+  },
+  {
+    "id": "wpn_fps_shot_huntsman_s_short",
+    "type": "stock",
+    "weapon": "huntsman"
+  },
+  {
+    "id": "wpn_fps_pis_rage_b_comp1",
+    "type": "slide",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_b_comp2",
+    "type": "slide",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_b_long",
+    "type": "slide",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_b_short",
+    "type": "slide",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_b_standard",
+    "type": "slide",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_body_smooth",
+    "type": "upper_reciever",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_body_standard",
+    "type": "upper_reciever",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_g_ergo",
+    "type": "grip",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_rage_g_standard",
+    "type": "grip",
+    "weapon": "raging_bull"
+  },
+  {
+    "id": "wpn_fps_pis_korth_b_standard",
+    "type": "barrel",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_b_railed",
+    "type": "barrel",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_body",
+    "type": "upper_reciever",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_m_8",
+    "type": "magazine",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_m_6",
+    "type": "magazine",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_g_ergo",
+    "type": "grip",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_g_houge",
+    "type": "grip",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_g_standard",
+    "type": "grip",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_fl_conversion",
+    "type": "gadget",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_pis_korth_conversionkit",
+    "type": "exclusive_set",
+    "weapon": "korth"
+  },
+  {
+    "id": "wpn_fps_saw_b_normal",
+    "type": "barrel",
+    "weapon": "saw"
+  },
+  {
+    "id": "wpn_fps_saw_body_standard",
+    "type": "lower_reciever",
+    "weapon": "saw"
+  },
+  {
+    "id": "wpn_fps_saw_m_blade",
+    "type": "magazine",
+    "weapon": "saw"
+  },
+  {
+    "id": "wpn_fps_pis_usp_body_standard",
+    "type": "lower_reciever",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_m_standard",
+    "type": "magazine",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_fl_adapter",
+    "type": "extra",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_b_tactical",
+    "type": "slide",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_b_expert",
+    "type": "slide",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_b_match",
+    "type": "slide",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_m_extended",
+    "type": "magazine",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_co_comp_1",
+    "type": "barrel_ext",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_usp_co_comp_2",
+    "type": "barrel_ext",
+    "weapon": "usp"
+  },
+  {
+    "id": "wpn_fps_pis_g22c_body_standard",
+    "type": "lower_reciever",
+    "weapon": "g22c"
+  },
+  {
+    "id": "wpn_fps_pis_g22c_b_standard",
+    "type": "slide",
+    "weapon": "g22c"
+  },
+  {
+    "id": "wpn_fps_pis_g22c_b_long",
+    "type": "slide",
+    "weapon": "g22c"
+  },
+  {
+    "id": "wpn_fps_pis_judge_body_standard",
+    "type": "lower_reciever",
+    "weapon": "judge"
+  },
+  {
+    "id": "wpn_fps_pis_judge_b_standard",
+    "type": "slide",
+    "weapon": "judge"
+  },
+  {
+    "id": "wpn_fps_pis_judge_fl_adapter",
+    "type": "extra",
+    "weapon": "judge"
+  },
+  {
+    "id": "wpn_fps_pis_judge_g_standard",
+    "type": "grip",
+    "weapon": "judge"
+  },
+  {
+    "id": "wpn_fps_smg_m45_m_mag",
+    "type": "magazine",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_m_extended",
+    "type": "magazine",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_b_standard",
+    "type": "barrel",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_b_green",
+    "type": "barrel",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_b_small",
+    "type": "barrel",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_body_standard",
+    "type": "upper_reciever",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_body_green",
+    "type": "upper_reciever",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_s_standard",
+    "type": "stock",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_s_folded",
+    "type": "stock",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_g_standard",
+    "type": "grip",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_g_ergo",
+    "type": "grip",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_smg_m45_g_bling",
+    "type": "grip",
+    "weapon": "m45"
+  },
+  {
+    "id": "wpn_fps_ass_s552_o_flipup",
+    "type": "sight",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_m_standard",
+    "type": "magazine",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_b_standard",
+    "type": "barrel",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_b_long",
+    "type": "barrel",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_body_standard",
+    "type": "upper_reciever",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_body_standard_black",
+    "type": "upper_reciever",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_fg_standard",
+    "type": "foregrip",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_fg_standard_green",
+    "type": "foregrip",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_fg_railed",
+    "type": "foregrip",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_g_standard",
+    "type": "grip",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_g_standard_green",
+    "type": "grip",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_s_m4",
+    "type": "stock",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_s_standard",
+    "type": "stock",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_ass_s552_s_standard_green",
+    "type": "stock",
+    "weapon": "s552"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_b_barrel_long",
+    "type": "barrel",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_b_barrel_standard",
+    "type": "barrel",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_dh_standard",
+    "type": "drag_handle",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_b_long",
+    "type": "slide",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_b_standard",
+    "type": "slide",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_body_standard",
+    "type": "lower_reciever",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_fl_mount",
+    "type": "extra",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_g_laser",
+    "type": "grip",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_g_standard",
+    "type": "grip",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_pis_ppk_m_standard",
+    "type": "magazine",
+    "weapon": "ppk"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_m_short",
+    "type": "magazine",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_m_extended",
+    "type": "magazine",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_b_standard",
+    "type": "barrel",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_b_suppressed",
+    "type": "barrel_ext",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_body_standard",
+    "type": "upper_reciever",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_s_standard",
+    "type": "stock",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_smg_mp7_s_long",
+    "type": "stock",
+    "weapon": "mp7"
+  },
+  {
+    "id": "wpn_fps_ass_scar_m_standard",
+    "type": "magazine",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_ns_short",
+    "type": "barrel_ext",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_b_long",
+    "type": "barrel",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_b_medium",
+    "type": "barrel",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_b_short",
+    "type": "barrel",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_body_standard",
+    "type": "upper_reciever",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_fg_railext",
+    "type": "foregrip",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_o_flipups_down",
+    "type": "extra",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_o_flipups_up",
+    "type": "sight",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_s_sniper",
+    "type": "stock",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_ass_scar_s_standard",
+    "type": "stock",
+    "weapon": "scar"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_barrel_standard",
+    "type": "barrel",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_barrel_equinox",
+    "type": "barrel",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_barrel_long",
+    "type": "barrel",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_o_standard",
+    "type": "extra",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_o_long",
+    "type": "extra",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_standard",
+    "type": "slide",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_equinox",
+    "type": "slide",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_b_long",
+    "type": "slide",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_body_standard",
+    "type": "lower_reciever",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_g_standard",
+    "type": "grip",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_g_ergo",
+    "type": "grip",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_m_standard",
+    "type": "magazine",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_m_extended",
+    "type": "magazine",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_co_comp_1",
+    "type": "barrel_ext",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_pis_p226_co_comp_2",
+    "type": "barrel_ext",
+    "weapon": "p226"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_b_long",
+    "type": "barrel",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_b_short",
+    "type": "barrel",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_body_lower",
+    "type": "lower_reciever",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_body_upper",
+    "type": "upper_reciever",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_fg_long",
+    "type": "foregrip",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_fg_short",
+    "type": "foregrip",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_g_ergo",
+    "type": "grip",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_g_standard",
+    "type": "grip",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_m_standard",
+    "type": "magazine",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk21_s_standard",
+    "type": "stock",
+    "weapon": "hk21"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_b_fluted",
+    "type": "barrel",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_b_standard",
+    "type": "barrel",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_body_lower",
+    "type": "lower_reciever",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_body_upper",
+    "type": "upper_reciever",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_fg_standard",
+    "type": "foregrip",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_fg_railed",
+    "type": "foregrip",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_s_collapsed",
+    "type": "stock",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_s_extended",
+    "type": "stock",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_ns_jcomp",
+    "type": "barrel_ext",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_m_loader_reload",
+    "type": "magazine_extra",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_m_loader_reload_not_empty",
+    "type": "magazine_extra_2",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_hk51b_m_belt",
+    "type": "magazine",
+    "weapon": "hk51b"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_b_long",
+    "type": "barrel",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_b_short",
+    "type": "barrel",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_body_standard",
+    "type": "lower_reciever",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_fg_mk46",
+    "type": "foregrip",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_fg_standard",
+    "type": "foregrip",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_m_standard",
+    "type": "magazine",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_s_modern",
+    "type": "stock",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_s_para",
+    "type": "stock",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_s_solid",
+    "type": "stock",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_m249_upper_reciever",
+    "type": "upper_reciever",
+    "weapon": "m249"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_b_standard",
+    "type": "barrel",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_body_lowerreceiver",
+    "type": "lower_reciever",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_fg_wood",
+    "type": "foregrip",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_fg_standard",
+    "type": "foregrip",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_lmg_rpk_m_drum",
+    "type": "magazine",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_s_standard",
+    "type": "stock",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_lmg_rpk_s_wood",
+    "type": "stock",
+    "weapon": "rpk"
+  },
+  {
+    "id": "wpn_fps_snp_m95_barrel_standard",
+    "type": "barrel",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_barrel_long",
+    "type": "barrel",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_barrel_short",
+    "type": "barrel",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_barrel_suppressed",
+    "type": "barrel",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_bipod",
+    "type": "extra",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_lower_reciever",
+    "type": "lower_body",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_upper_reciever",
+    "type": "upper_body",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_m95_magazine",
+    "type": "magazine",
+    "weapon": "m95"
+  },
+  {
+    "id": "wpn_fps_snp_awp_b_standard",
+    "type": "barrel",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_b_long",
+    "type": "barrel",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_b_short",
+    "type": "barrel",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_ns_muzzle",
+    "type": "barrel_ext",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_stock_lightweight",
+    "type": "stock",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_stock_solid",
+    "type": "stock",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_reciever",
+    "type": "reciever",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_m_standard",
+    "type": "magazine",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_m_speed",
+    "type": "magazine",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_g_standard",
+    "type": "grip",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_g_solid",
+    "type": "grip",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_g_granulated",
+    "type": "grip",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_g_grainy",
+    "type": "grip",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_g_perforated",
+    "type": "grip",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_ext_shellrack",
+    "type": "extra",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_ext_bipod",
+    "type": "bipod",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_dh_standard",
+    "type": "bolt",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_dh_speed",
+    "type": "bolt",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_o_irons",
+    "type": "sight",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_conversion_wildlands",
+    "type": "exclusive_set",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_conversion_dragonlore",
+    "type": "exclusive_set",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_snp_awp_conversion_dragonlore_switch",
+    "type": "ammo",
+    "weapon": "awp"
+  },
+  {
+    "id": "wpn_fps_upg_o_schmidt",
+    "type": "sight",
+    "weapon": "pxp4_mods"
+  },
+  {
+    "id": "wpn_fps_upg_o_schmidt_magnified",
+    "type": "extra",
+    "weapon": "pxp4_mods"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_ns_muzzle",
+    "type": "barrel_ext",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_barrel_standard",
+    "type": "barrel",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_b_short",
+    "type": "barrel",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_b_long",
+    "type": "barrel",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_body",
+    "type": "body",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_upperreceiver",
+    "type": "upper_reciever",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_sling",
+    "type": "extra",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_grip",
+    "type": "grip",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_mag_a",
+    "type": "magazine",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_mag_b",
+    "type": "magazine",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_flamethrower",
+    "type": "underbarrel",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_lmg_kacchainsaw_conversionkit",
+    "type": "exclusive_set",
+    "weapon": "kacchainsaw"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_b_short",
+    "type": "barrel",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_b_long",
+    "type": "barrel",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_b_standard",
+    "type": "barrel",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_s_standard",
+    "type": "stock",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_g_standard",
+    "type": "grip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_body_standard",
+    "type": "lower_reciever",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_fg_standard",
+    "type": "foregrip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_m_extender",
+    "type": "magazine",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_g_adapter",
+    "type": "grip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_g_raven",
+    "type": "grip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_g_stakeout",
+    "type": "grip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_s_collapsed",
+    "type": "stock",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_s_raven",
+    "type": "stock",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_shell_rack",
+    "type": "upper_reciever",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_b_conversion",
+    "type": "barrel",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_fg_conversion",
+    "type": "foregrip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_g_conversion",
+    "type": "grip",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_body_conversion",
+    "type": "lower_reciever",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_conversion_display_dummy",
+    "type": "magazine_extra",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_sho_supernova_conversion",
+    "type": "exclusive_set",
+    "weapon": "supernova"
+  },
+  {
+    "id": "wpn_fps_snp_msr_b_standard",
+    "type": "barrel",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_msr_b_long",
+    "type": "barrel",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_msr_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_msr_body_msr",
+    "type": "stock",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_msr_body_wood",
+    "type": "stock",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_msr_m_standard",
+    "type": "magazine",
+    "weapon": "msr"
+  },
+  {
+    "id": "wpn_fps_snp_r93_b_standard",
+    "type": "barrel",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_snp_r93_b_short",
+    "type": "barrel",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_snp_r93_b_suppressed",
+    "type": "barrel",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_snp_r93_body_standard",
+    "type": "stock",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_snp_r93_body_wood",
+    "type": "stock",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_snp_r93_m_std",
+    "type": "magazine",
+    "weapon": "r93"
+  },
+  {
+    "id": "wpn_fps_ass_fal_body_standard",
+    "type": "upper_reciever",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_fg_01",
+    "type": "barrel",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_fg_standard",
+    "type": "barrel",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_fg_03",
+    "type": "barrel",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_fg_04",
+    "type": "barrel",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_fg_wood",
+    "type": "barrel",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_g_01",
+    "type": "grip",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_g_standard",
+    "type": "grip",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_m_01",
+    "type": "magazine",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_m_standard",
+    "type": "magazine",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_s_01",
+    "type": "stock",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_s_03",
+    "type": "stock",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_s_standard",
+    "type": "stock",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_ass_fal_s_wood",
+    "type": "stock",
+    "weapon": "fal"
+  },
+  {
+    "id": "wpn_fps_sho_ben_b_long",
+    "type": "barrel",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_b_standard",
+    "type": "barrel",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_b_short",
+    "type": "barrel",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_body_standard",
+    "type": "lower_reciever",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_fg_standard",
+    "type": "foregrip",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_s_collapsable",
+    "type": "stock",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_s_collapsed",
+    "type": "stock",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_ben_s_solid",
+    "type": "stock",
+    "weapon": "ben"
+  },
+  {
+    "id": "wpn_fps_sho_striker_b_long",
+    "type": "barrel",
+    "weapon": "striker"
+  },
+  {
+    "id": "wpn_fps_sho_striker_b_suppressed",
+    "type": "barrel",
+    "weapon": "striker"
+  },
+  {
+    "id": "wpn_fps_sho_striker_b_standard",
+    "type": "barrel",
+    "weapon": "striker"
+  },
+  {
+    "id": "wpn_fps_sho_striker_body_standard",
+    "type": "lower_reciever",
+    "weapon": "striker"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_b_long",
+    "type": "barrel",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_b_standard",
+    "type": "barrel",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_b_short",
+    "type": "barrel",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_fg_short",
+    "type": "foregrip",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_fg_standard",
+    "type": "foregrip",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_body_standard",
+    "type": "lower_body",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_upg_o_mbus_rear",
+    "type": "sight",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_upg_o_mbus_front",
+    "type": "extra",
+    "weapon": "ksg"
+  },
+  {
+    "id": "wpn_fps_gre_m79_barrel",
+    "type": "barrel",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_barrel_short",
+    "type": "barrel",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_sight_up",
+    "type": "gadget",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_barrelcatch",
+    "type": "drag_handle",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_grenade",
+    "type": "magazine",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_stock",
+    "type": "stock",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_gre_m79_stock_short",
+    "type": "stock",
+    "weapon": "gre_m79"
+  },
+  {
+    "id": "wpn_fps_snp_contender_barrel_standard",
+    "type": "barrel",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_barrel_short",
+    "type": "barrel",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_barrel_long",
+    "type": "barrel",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_suppressor",
+    "type": "barrel_ext",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_receiver",
+    "type": "upper_reciever",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_triggerguard",
+    "type": "drag_handle",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_bullet",
+    "type": "magazine",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_grip_standard",
+    "type": "grip",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_upg_m4_g_contender",
+    "type": "grip",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_contender",
+    "type": "stock",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_frontgrip_short",
+    "type": "foregrip",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_frontgrip_long",
+    "type": "foregrip",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_upg_contender_o_ironsight",
+    "type": "sight",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_snp_contender_conversion",
+    "type": "exclusive_set",
+    "weapon": "contender"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_suppressor",
+    "type": "barrel_ext",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_barrel_standard",
+    "type": "barrel",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_barrel_short",
+    "type": "barrel",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_barrel_dmr",
+    "type": "barrel",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_foregrip",
+    "type": "foregrip",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_body_standard",
+    "type": "upper_reciever",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_stock",
+    "type": "stock",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_grip",
+    "type": "grip",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_sight",
+    "type": "sight",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_m_standard",
+    "type": "magazine",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_m_stick",
+    "type": "magazine",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_m_drum",
+    "type": "magazine",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_body_conversionkit",
+    "type": "exclusive_set",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_lmg_hcar_ck_switch",
+    "type": "ammo",
+    "weapon": "hcar"
+  },
+  {
+    "id": "wpn_fps_ass_g3_body_lower",
+    "type": "lower_reciever",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_body_upper",
+    "type": "upper_reciever",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_b_sniper",
+    "type": "barrel",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ammo_type",
+    "type": "ammo",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_b_short",
+    "type": "barrel",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_b_long",
+    "type": "barrel",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_body_rail",
+    "type": "upper_reciever",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_fg_bipod",
+    "type": "foregrip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_fg_psg",
+    "type": "foregrip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_fg_railed",
+    "type": "foregrip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_fg_retro",
+    "type": "foregrip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_fg_retro_plastic",
+    "type": "foregrip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_g_retro",
+    "type": "grip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_g_sniper",
+    "type": "grip",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_m_mag",
+    "type": "magazine",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_s_sniper",
+    "type": "stock",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_g3_s_wood",
+    "type": "stock",
+    "weapon": "g3"
+  },
+  {
+    "id": "wpn_fps_ass_galil_body_standard",
+    "type": "upper_reciever",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_fg_fab",
+    "type": "barrel",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_fg_mar",
+    "type": "barrel",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_fg_sar",
+    "type": "barrel",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_fg_sniper",
+    "type": "barrel",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_fg_standard",
+    "type": "barrel",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_g_standard",
+    "type": "grip",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_g_sniper",
+    "type": "grip",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_m_standard",
+    "type": "magazine",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_fab",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_light",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_plastic",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_skeletal",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_sniper",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_standard",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_galil_s_wood",
+    "type": "stock",
+    "weapon": "galil"
+  },
+  {
+    "id": "wpn_fps_ass_famas_body_standard",
+    "type": "upper_reciever",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_b_long",
+    "type": "barrel",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_b_short",
+    "type": "barrel",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_b_sniper",
+    "type": "barrel",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_b_suppressed",
+    "type": "barrel",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_b_standard",
+    "type": "barrel",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_o_adapter",
+    "type": "grip",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_g_standard",
+    "type": "grip",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_g_retro",
+    "type": "grip",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_ass_famas_m_standard",
+    "type": "magazine",
+    "weapon": "famas"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_b_standard",
+    "type": "barrel",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_b_suppressed",
+    "type": "barrel_ext",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_body_standard",
+    "type": "upper_reciever",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_g_standard",
+    "type": "grip",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_g_wood",
+    "type": "grip",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_g_ergo",
+    "type": "grip",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_m_standard",
+    "type": "magazine",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_m_extended",
+    "type": "magazine",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_s_nostock",
+    "type": "stock",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_s_standard",
+    "type": "stock",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_s_unfolded",
+    "type": "stock",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_extra_rail",
+    "type": "extra",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_scorpion_extra_rail_gadget",
+    "type": "extra",
+    "weapon": "scorpion"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_b_long",
+    "type": "barrel",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_b_standard",
+    "type": "barrel",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_ns_ext",
+    "type": "barrel",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_body_standard",
+    "type": "upper_reciever",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_m_extended",
+    "type": "magazine",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_m_standard",
+    "type": "magazine",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_tec9_s_unfolded",
+    "type": "stock",
+    "weapon": "tec9"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_b_standard",
+    "type": "barrel",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_b_suppressed",
+    "type": "barrel_ext",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_body_standard",
+    "type": "lower_reciever",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_fg_rail",
+    "type": "foregrip",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_fg_standard",
+    "type": "foregrip",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_g_standard",
+    "type": "grip",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_m_standard",
+    "type": "magazine",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_s_leather",
+    "type": "stock",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_s_solid",
+    "type": "stock",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_s_standard",
+    "type": "stock",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_smg_uzi_s_unfolded",
+    "type": "stock",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_concealment_p1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_concealment_p2",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_concealment_p3",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_spread_p1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_spread_n1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_recoil_p1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_recoil_p2",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_damage_p1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_damage_p2",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_total_ammo_p1",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_total_ammo_p3",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_bonus_team_exp_money_p3",
+    "type": "bonus",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_slug",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_custom",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_explosive",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_piercing",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_dragons_breath",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_rip",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_incendiary",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_electric",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_poison",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_conversion_grenade_poison",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_incendiary_arbiter",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_electric_arbiter",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_poison_arbiter",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_incendiary_ms3gl",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_electric_ms3gl",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_poison_ms3gl",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_underbarrel_electric",
+    "type": "underbarrel_ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_underbarrel_frag_groza",
+    "type": "underbarrel_ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_underbarrel_poison",
+    "type": "underbarrel_ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_pis_adam",
+    "type": "ammo",
+    "weapon": "uzi"
+  },
+  {
+    "id": "wpn_fps_upg_a_grenade_launcher_hornet",
+    "type": "ammo",
+    "weapon": "hornet_grenade"
+  },
+  {
+    "id": "wpn_fps_upg_a_underbarrel_hornet",
+    "type": "underbarrel_ammo",
+    "weapon": "hornet_grenade"
+  },
+  {
+    "id": "wpn_fps_pis_g26_b_custom",
+    "type": "slide",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_b_standard",
+    "type": "slide",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_body_custom",
+    "type": "lower_reciever",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_body_stardard",
+    "type": "lower_reciever",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_fl_adapter",
+    "type": "extra",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_g_gripforce",
+    "type": "grip",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_g_laser",
+    "type": "grip",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_m_contour",
+    "type": "magazine",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_pis_g26_m_standard",
+    "type": "magazine",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_crimson",
+    "type": "gadget",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_x400v",
+    "type": "gadget",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_large_kac",
+    "type": "barrel_ext",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_medium_gem",
+    "type": "barrel_ext",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_meatgrinder",
+    "type": "barrel_ext",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_ipsccomp",
+    "type": "barrel_ext",
+    "weapon": "g26"
+  },
+  {
+    "id": "wpn_fps_sho_b_spas12_long",
+    "type": "barrel",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_b_spas12_short",
+    "type": "barrel",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_body_spas12_standard",
+    "type": "lower_reciever",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_fg_spas12_standard",
+    "type": "foregrip",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_s_spas12_folded",
+    "type": "stock",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_s_spas12_nostock",
+    "type": "stock",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_s_spas12_solid",
+    "type": "stock",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_sho_s_spas12_unfolded",
+    "type": "stock",
+    "weapon": "spas12"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_b_mg42",
+    "type": "barrel",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_b_mg34",
+    "type": "barrel",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_b_vg38",
+    "type": "barrel",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_reciever",
+    "type": "lower_reciever",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_n42",
+    "type": "barrel_ext",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_n34",
+    "type": "barrel_ext",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_lmg_mg42_n38",
+    "type": "barrel_ext",
+    "weapon": "mg42"
+  },
+  {
+    "id": "wpn_fps_pis_c96_b_long",
+    "type": "slide",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_nozzle",
+    "type": "barrel_ext",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_sight",
+    "type": "sight",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_rail",
+    "type": "extra",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_b_standard",
+    "type": "slide",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_body_standard",
+    "type": "lower_reciever",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_g_standard",
+    "type": "grip",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_m_extended",
+    "type": "magazine",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_m_standard",
+    "type": "magazine",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_pis_c96_s_solid",
+    "type": "stock",
+    "weapon": "c96"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_b_long",
+    "type": "barrel",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_b_short",
+    "type": "barrel",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_b_standard",
+    "type": "barrel",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_b_suppressed",
+    "type": "barrel",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_b_e11",
+    "type": "barrel",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_body_standard",
+    "type": "lower_reciever",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_m_long",
+    "type": "magazine",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_m_medium",
+    "type": "magazine",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_m_short",
+    "type": "magazine",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_s_folded",
+    "type": "stock",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_s_nostock",
+    "type": "stock",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_s_solid",
+    "type": "stock",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_s_standard",
+    "type": "stock",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_smg_sterling_o_adapter",
+    "type": "extra",
+    "weapon": "sterling"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_b_medium",
+    "type": "barrel",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_b_standard",
+    "type": "barrel",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_b_short",
+    "type": "barrel",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_b_sniper",
+    "type": "barrel",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_body_standard",
+    "type": "stock",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_body_black",
+    "type": "stock",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_m_standard",
+    "type": "magazine",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_ns_bayonet",
+    "type": "bayonet",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_rail",
+    "type": "extra",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_snp_mosin_iron_sight",
+    "type": "sight",
+    "weapon": "mosin"
+  },
+  {
+    "id": "wpn_fps_spec_bessy_barrel",
+    "type": "barrel",
+    "weapon": "bessy"
+  },
+  {
+    "id": "wpn_fps_spec_bessy_reciever",
+    "type": "reciever",
+    "weapon": "bessy"
+  },
+  {
+    "id": "wpn_fps_spec_bessy_stock",
+    "type": "stock",
+    "weapon": "bessy"
+  },
+  {
+    "id": "wpn_fps_spec_bessy_rod",
+    "type": "extra",
+    "weapon": "bessy"
+  },
+  {
+    "id": "wpn_fps_spec_bessy_bayonette",
+    "type": "bayonet",
+    "weapon": "bessy"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_barrel",
+    "type": "barrel",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_barrel_long",
+    "type": "barrel",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_barrel_short",
+    "type": "barrel",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_body",
+    "type": "upper_reciever",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_drummag",
+    "type": "magazine",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_fl_adapter",
+    "type": "extra",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_foregrip",
+    "type": "foregrip",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_foregrip_discrete",
+    "type": "foregrip",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_grip",
+    "type": "grip",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_grip_discrete",
+    "type": "grip",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_o_adapter",
+    "type": "extra",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_stock",
+    "type": "stock",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_stock_discrete",
+    "type": "stock",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_smg_thompson_stock_nostock",
+    "type": "stock",
+    "weapon": "m1928"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_body_standard",
+    "type": "upper_reciever",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_m_emag",
+    "type": "magazine",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_fg_medium",
+    "type": "foregrip",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_fg_short",
+    "type": "foregrip",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_b_long",
+    "type": "barrel",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_b_medium",
+    "type": "barrel",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_b_short",
+    "type": "barrel",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_g_standard",
+    "type": "grip",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_g_worn",
+    "type": "grip",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_l85a2_o_standard",
+    "type": "sight",
+    "weapon": "l85a2"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_body",
+    "type": "upper_reciever",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_m",
+    "type": "magazine",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_ns_vhs",
+    "type": "barrel_ext",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_ns_vhs_no",
+    "type": "barrel_ext",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_b_short",
+    "type": "barrel",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_b_silenced",
+    "type": "barrel",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_b_sniper",
+    "type": "barrel",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_b_standard",
+    "type": "barrel",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_ass_vhs_o_standard",
+    "type": "sight",
+    "weapon": "vhs"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_b_standard",
+    "type": "barrel",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_b_custom",
+    "type": "barrel",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_b_long",
+    "type": "barrel",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_sl_standard",
+    "type": "slide",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_sl_custom",
+    "type": "slide",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_sl_long",
+    "type": "slide",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_body_standard",
+    "type": "lower_reciever",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_m_standard",
+    "type": "magazine",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_pis_hs2000_m_extended",
+    "type": "magazine",
+    "weapon": "hs2000"
+  },
+  {
+    "id": "wpn_fps_upg_ass_ak_b_zastava",
+    "type": "barrel",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_b_ak105",
+    "type": "barrel",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_ns_ak105",
+    "type": "barrel_ext",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_fg_krebs",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_fg_trax",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_fg_zenit",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_g_rk3",
+    "type": "grip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_m_uspalm",
+    "type": "magazine",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ak_s_solidstock",
+    "type": "stock",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_pbs1",
+    "type": "barrel_ext",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_o_ak_scopemount",
+    "type": "extra",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_fg_lvoa",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_fg_moe",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m16_fg_stag",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_smg_olympic_fg_lr300",
+    "type": "foregrip",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_upper_reciever_ballos",
+    "type": "upper_reciever",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_upper_reciever_core",
+    "type": "upper_reciever",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_draghandle_ballos",
+    "type": "drag_handle",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_draghandle_core",
+    "type": "drag_handle",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_lower_reciever_core",
+    "type": "lower_reciever",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_m4_m_l5",
+    "type": "magazine",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_m4_s_ubr",
+    "type": "stock",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_upg_ass_m4_b_beowulf",
+    "type": "barrel",
+    "weapon": "modpack_m4_ak"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_body",
+    "type": "lower_reciever",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_body_upper",
+    "type": "extra",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_m_standard",
+    "type": "magazine",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_body_upper_light",
+    "type": "extra",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_barrel",
+    "type": "barrel",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_barrel_short",
+    "type": "barrel",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_barrel_extreme",
+    "type": "barrel",
+    "weapon": "m134"
+  },
+  {
+    "id": "wpn_fps_rpg7_body",
+    "type": "lower_reciever",
+    "weapon": "rpg7"
+  },
+  {
+    "id": "wpn_fps_rpg7_m_rocket",
+    "type": "magazine",
+    "weapon": "rpg7"
+  },
+  {
+    "id": "wpn_fps_rpg7_barrel",
+    "type": "barrel",
+    "weapon": "rpg7"
+  },
+  {
+    "id": "wpn_fps_rpg7_sight",
+    "type": "sight",
+    "weapon": "rpg7"
+  },
+  {
+    "id": "wpn_fps_rpg7_sight_adapter",
+    "type": "extra",
+    "weapon": "rpg7"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_body_lower",
+    "type": "lower_reciever",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_body_lower_jacket",
+    "type": "lower_reciever",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_body_upper",
+    "type": "upper_reciever",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_body_upper_jacket",
+    "type": "upper_reciever",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_bolt",
+    "type": "extra",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_barrel",
+    "type": "barrel",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_m_standard",
+    "type": "magazine",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_ns_barrelextension",
+    "type": "barrel_ext",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_ns_silencer",
+    "type": "barrel_ext",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_s_m4adapter",
+    "type": "extra",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_s_standard",
+    "type": "stock",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_smg_cobray_o_adapter",
+    "type": "extra",
+    "weapon": "cobray"
+  },
+  {
+    "id": "wpn_fps_shot_b682_b_short",
+    "type": "barrel",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_shot_b682_b_long",
+    "type": "barrel",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_shot_b682_body_standard",
+    "type": "lower_reciever",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_shot_b682_s_long",
+    "type": "stock",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_shot_b682_s_short",
+    "type": "stock",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_shot_b682_s_ammopouch",
+    "type": "stock",
+    "weapon": "b682"
+  },
+  {
+    "id": "wpn_fps_saw_body_silent",
+    "type": "lower_reciever",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_saw_body_speed",
+    "type": "lower_reciever",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_saw_m_blade_durable",
+    "type": "magazine",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_saw_m_blade_sharp",
+    "type": "magazine",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_aug_body_f90",
+    "type": "lower_reciever",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_ass_ak5_b_short",
+    "type": "barrel",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_m_straight",
+    "type": "magazine",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_smg_mp9_b_suppressed",
+    "type": "barrel_ext",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_smg_p90_b_civilian",
+    "type": "barrel",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_smg_p90_b_ninja",
+    "type": "barrel",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_o_m14_scopemount",
+    "type": "extra",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_pis_1911_g_engraved",
+    "type": "grip",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_g_engraved",
+    "type": "grip",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_fl_ass_utg",
+    "type": "gadget",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_m3x",
+    "type": "gadget",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_ass_ns_battle",
+    "type": "barrel_ext",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_filter",
+    "type": "barrel_ext",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_jungle",
+    "type": "barrel_ext",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_upg_ns_sho_salvo_large",
+    "type": "barrel_ext",
+    "weapon": "butchermodpack"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_empty",
+    "type": "barrel",
+    "weapon": "flamethrower_mk2"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_body",
+    "type": "lower_reciever",
+    "weapon": "flamethrower_mk2"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_mag_rare",
+    "type": "magazine",
+    "weapon": "flamethrower_mk2"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_mag",
+    "type": "magazine",
+    "weapon": "flamethrower_mk2"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_mag_welldone",
+    "type": "magazine",
+    "weapon": "flamethrower_mk2"
+  },
+  {
+    "id": "wpn_fps_gre_m32_barrel",
+    "type": "barrel",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_barrel_short",
+    "type": "barrel",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_bolt",
+    "type": "extra",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_lower_reciever",
+    "type": "lower_reciever",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_mag",
+    "type": "magazine",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_stock_adapter",
+    "type": "stock_adapter",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_no_stock",
+    "type": "stock",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_gre_m32_upper_reciever",
+    "type": "upper_reciever",
+    "weapon": "m32"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_barrel",
+    "type": "barrel",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_barrel_long",
+    "type": "barrel",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_barrel_silenced",
+    "type": "barrel",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_body",
+    "type": "lower_reciever",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_body_rail",
+    "type": "extra",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_body_rear_sight",
+    "type": "sight",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_bolt",
+    "type": "extra",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_dh",
+    "type": "drag_handle",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_mag_drum",
+    "type": "magazine",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_sho_aa12_mag_straight",
+    "type": "magazine",
+    "weapon": "aa12"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_body_standard",
+    "type": "lower_reciever",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_b_standard",
+    "type": "slide",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_b_long",
+    "type": "slide",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_b_short",
+    "type": "slide",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_m_standard",
+    "type": "upper_reciever",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_g_standard",
+    "type": "grip",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_g_bling",
+    "type": "grip",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_pis_peacemaker_s_skeletal",
+    "type": "stock",
+    "weapon": "peacemaker"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_b_standard",
+    "type": "barrel",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_b_long",
+    "type": "barrel",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_b_suppressed",
+    "type": "barrel",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_body_standard",
+    "type": "lower_reciever",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_m_standard",
+    "type": "magazine",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_winchester_s_standard",
+    "type": "stock",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_upg_winchester_o_classic",
+    "type": "sight",
+    "weapon": "winchester1874"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_b_standard",
+    "type": "barrel",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_b_long",
+    "type": "barrel",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_b_short",
+    "type": "barrel",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_body_standard",
+    "type": "lower_reciever",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_m_standard",
+    "type": "magazine",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_s_standard",
+    "type": "stock",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_s_saddle",
+    "type": "stock",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_snp_sbl_o_standard",
+    "type": "sight",
+    "weapon": "sbl"
+  },
+  {
+    "id": "wpn_fps_bow_plainsrider_b_standard",
+    "type": "barrel",
+    "weapon": "plainsrider"
+  },
+  {
+    "id": "wpn_fps_bow_plainsrider_body_standard",
+    "type": "lower_reciever",
+    "weapon": "plainsrider"
+  },
+  {
+    "id": "wpn_fps_bow_plainsrider_m_standard",
+    "type": "ammo",
+    "weapon": "plainsrider"
+  },
+  {
+    "id": "wpn_fps_upg_a_bow_explosion",
+    "type": "ammo",
+    "weapon": "plainsrider"
+  },
+  {
+    "id": "wpn_fps_upg_a_bow_poison",
+    "type": "ammo",
+    "weapon": "plainsrider"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_b_long",
+    "type": "barrel",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_b_medium",
+    "type": "barrel",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_b_short",
+    "type": "barrel",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_b_standard",
+    "type": "barrel",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_body_standard",
+    "type": "lower_reciever",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_fl_adapter",
+    "type": "extra",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_g_bling",
+    "type": "grip",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_g_standard",
+    "type": "grip",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_pis_2006m_m_standard",
+    "type": "magazine",
+    "weapon": "mateba"
+  },
+  {
+    "id": "wpn_fps_ass_asval_b_proto",
+    "type": "barrel",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_b_standard",
+    "type": "barrel",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_body_standard",
+    "type": "lower_reciever",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_fg_standard",
+    "type": "foregrip",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_g_standard",
+    "type": "grip",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_m_standard",
+    "type": "magazine",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_s_solid",
+    "type": "stock",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_s_standard",
+    "type": "stock",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_asval_scopemount",
+    "type": "extra",
+    "weapon": "asval"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_b_std",
+    "type": "barrel",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_body_gen1",
+    "type": "upper_reciever",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_body_gen2",
+    "type": "upper_reciever",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_dh_standard",
+    "type": "drag_handle",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_fg_gen1",
+    "type": "foregrip",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_fg_gen2",
+    "type": "foregrip",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_fg_railed",
+    "type": "foregrip",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_fg_suppressed",
+    "type": "foregrip",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_m_standard",
+    "type": "magazine",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_o_back",
+    "type": "sight_special",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_o_back_down",
+    "type": "sight_special",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_o_front",
+    "type": "extra",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_ass_sub2000_o_adapter",
+    "type": "extra",
+    "weapon": "sub2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_body_standard",
+    "type": "upper_reciever",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_m_standard",
+    "type": "magazine",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_b_long",
+    "type": "barrel",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_b_standard",
+    "type": "barrel",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_b_suppressed",
+    "type": "barrel",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_g_standard",
+    "type": "grip",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_g_light",
+    "type": "grip",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_g_stealth",
+    "type": "grip",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_g_walnut",
+    "type": "grip",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_snp_wa2000_s_standard",
+    "type": "stock",
+    "weapon": "wa2000"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_body_standard",
+    "type": "lower_reciever",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_bolt_standard",
+    "type": "bolt",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_dh_standard",
+    "type": "drag_handle",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_extra_sling",
+    "type": "extra",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_o_iron",
+    "type": "sight",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_fg_standard",
+    "type": "foregrip",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_barrel_standard",
+    "type": "barrel",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_barrel_precision",
+    "type": "barrel_ext",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_m_standard",
+    "type": "magazine",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_ns_silencer",
+    "type": "barrel_ext",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_smg_polymer_s_standard",
+    "type": "stock",
+    "weapon": "polymer"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_b_carbon",
+    "type": "barrel",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_b_skeletal",
+    "type": "barrel",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_b_standard",
+    "type": "barrel",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_body_standard",
+    "type": "lower_reciever",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_g_camo",
+    "type": "grip",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_g_standard",
+    "type": "grip",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_g_walnut",
+    "type": "grip",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_m_standard",
+    "type": "ammo",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_bow_hunter_o_standard",
+    "type": "sight",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_upg_a_crossbow_poison",
+    "type": "ammo",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_upg_a_crossbow_explosion",
+    "type": "ammo",
+    "weapon": "hunter"
+  },
+  {
+    "id": "wpn_fps_smg_baka_body_standard",
+    "type": "upper_reciever",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_m_standard",
+    "type": "magazine",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_b_comp",
+    "type": "barrel",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_b_standard",
+    "type": "barrel",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_b_midsupp",
+    "type": "barrel_ext",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_b_smallsupp",
+    "type": "barrel_ext",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_b_longsupp",
+    "type": "barrel_ext",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_g_standard",
+    "type": "grip",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_s_standard",
+    "type": "stock",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_s_folded",
+    "type": "stock",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_s_unfolded",
+    "type": "stock",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_o_adapter",
+    "type": "extra",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_smg_baka_fl_adapter",
+    "type": "extra",
+    "weapon": "baka"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_b_steel",
+    "type": "barrel",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_body_standard",
+    "type": "lower_reciever",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_g_standard",
+    "type": "grip",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_m_standard",
+    "type": "ammo",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_m_poison",
+    "type": "ammo",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_arblast_m_explosive",
+    "type": "ammo",
+    "weapon": "arblast"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_b_steel",
+    "type": "barrel",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_body_standard",
+    "type": "lower_reciever",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_g_standard",
+    "type": "grip",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_m_standard",
+    "type": "ammo",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_m_poison",
+    "type": "ammo",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_frankish_m_explosive",
+    "type": "ammo",
+    "weapon": "frankish"
+  },
+  {
+    "id": "wpn_fps_bow_long_b_standard",
+    "type": "barrel",
+    "weapon": "long"
+  },
+  {
+    "id": "wpn_fps_bow_long_body_standard",
+    "type": "lower_reciever",
+    "weapon": "long"
+  },
+  {
+    "id": "wpn_fps_bow_long_m_standard",
+    "type": "ammo",
+    "weapon": "long"
+  },
+  {
+    "id": "wpn_fps_bow_long_m_explosive",
+    "type": "ammo",
+    "weapon": "long"
+  },
+  {
+    "id": "wpn_fps_bow_long_m_poison",
+    "type": "ammo",
+    "weapon": "long"
+  },
+  {
+    "id": "wpn_fps_lmg_par_b_short",
+    "type": "barrel",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_b_standard",
+    "type": "barrel",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_body_standard",
+    "type": "lower_reciever",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_m_standard",
+    "type": "magazine",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_s_plastic",
+    "type": "stock",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_s_standard",
+    "type": "stock",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_lmg_par_upper_reciever",
+    "type": "upper_reciever",
+    "weapon": "par"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_b_941",
+    "type": "barrel",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_b_rpl",
+    "type": "barrel",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_b_comp",
+    "type": "barrel",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_b_threaded",
+    "type": "barrel",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_body_941",
+    "type": "lower_reciever",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_body_rpl",
+    "type": "lower_reciever",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_fl_rail",
+    "type": "extra",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_fl_dummy",
+    "type": "extra",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_g_941",
+    "type": "grip",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_g_cowboy",
+    "type": "grip",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_g_dummy",
+    "type": "grip",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_m_standard",
+    "type": "magazine",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_sl_941",
+    "type": "slide",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_pis_sparrow_sl_rpl",
+    "type": "slide",
+    "weapon": "sparrow"
+  },
+  {
+    "id": "wpn_fps_snp_model70_b_standard",
+    "type": "barrel",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_s_standard",
+    "type": "stock",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_body_standard",
+    "type": "lower_reciever",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_m_standard",
+    "type": "magazine",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_o_rail",
+    "type": "extra",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_fl_rail",
+    "type": "extra",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_model70_iron_sight",
+    "type": "sight",
+    "weapon": "model70"
+  },
+  {
+    "id": "wpn_fps_snp_scout_b_standard",
+    "type": "barrel",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_bolt_standard",
+    "type": "bolt",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_bolt_speed",
+    "type": "bolt",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_ns_suppressor",
+    "type": "barrel",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_s_standard",
+    "type": "lower_reciever",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_o_iron_down",
+    "type": "extra",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_o_rail",
+    "type": "sight_special",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_o_iron_up",
+    "type": "sight",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_s_pads_full",
+    "type": "stock",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_s_pads_one",
+    "type": "stock",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_s_pads_none",
+    "type": "stock",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_body_standard",
+    "type": "upper_reciever",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_m_standard",
+    "type": "magazine",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_m_extended",
+    "type": "magazine",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_snp_scout_conversion",
+    "type": "exclusive_set",
+    "weapon": "scout"
+  },
+  {
+    "id": "wpn_fps_ass_74_b_legend",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_upg_ak_fg_legend",
+    "type": "foregrip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_upg_ak_g_legend",
+    "type": "grip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_upg_ak_s_legend",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_upg_ak_fl_legend",
+    "type": "gadget",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_b_legend",
+    "type": "slide",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_fla_mk2_body_fierybeast",
+    "type": "lower_reciever",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_rpg7_m_grinclown",
+    "type": "magazine",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_body_upper_spikey",
+    "type": "extra",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_lmg_m134_barrel_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_smg_p90_b_legend",
+    "type": "slide",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_r870_b_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_r870_s_legendary",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_r870_fg_legendary",
+    "type": "foregrip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_pis_1911_g_legendary",
+    "type": "grip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_pis_1911_fl_legendary",
+    "type": "gadget",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_snp_model70_b_legend",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_snp_model70_s_legend",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_lmg_svinet_b_standard",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_lmg_svinet_s_legend",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m16_b_legend",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m16_fg_legend",
+    "type": "gadget",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m16_s_legend",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_pis_judge_b_legend",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_pis_judge_g_legend",
+    "type": "grip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_sho_boot_b_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_sho_boot_fg_legendary",
+    "type": "foregrip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_sho_boot_o_legendary",
+    "type": "sight",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_sho_boot_s_legendary",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_sho_ksg_b_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_b_legend",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_fg_legend",
+    "type": "foregrip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_s_legend",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_b_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_fg_legendary",
+    "type": "foregrip",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_shot_shorty_s_legendary",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m14_b_legendary",
+    "type": "barrel",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_legendary",
+    "type": "stock",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_upper_legendary",
+    "type": "upper_body",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_lower_legendary",
+    "type": "lower_body",
+    "weapon": "legendary"
+  },
+  {
+    "id": "wpn_fps_upg_bp_lmg_lionbipod",
+    "type": "bipod",
+    "weapon": "bipods"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_b_short",
+    "type": "barrel",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_b_long",
+    "type": "barrel",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_b_standard",
+    "type": "barrel",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_s_short",
+    "type": "stock",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_s_standard",
+    "type": "stock",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_m_standard",
+    "type": "magazine",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_body_standard",
+    "type": "lower_reciever",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m1897_fg_standard",
+    "type": "foregrip",
+    "weapon": "m1897"
+  },
+  {
+    "id": "wpn_fps_shot_m37_b_short",
+    "type": "barrel",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_b_standard",
+    "type": "barrel",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_s_short",
+    "type": "stock",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_s_standard",
+    "type": "stock",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_m_standard",
+    "type": "magazine",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_body_standard",
+    "type": "lower_reciever",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_shot_m37_fg_standard",
+    "type": "foregrip",
+    "weapon": "m37"
+  },
+  {
+    "id": "wpn_fps_gre_china_b_standard",
+    "type": "barrel",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_china_body_standard",
+    "type": "lower_receiver",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_china_fg_standard",
+    "type": "foregrip",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_china_m_standard",
+    "type": "extra",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_china_s_standard",
+    "type": "stock",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_m79_grenade_whole",
+    "type": "magazine",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_gre_china_s_short",
+    "type": "stock",
+    "weapon": "china"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_body_lower",
+    "type": "lower_reciever",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_b_standard",
+    "type": "barrel",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_fg_standard",
+    "type": "foregrip",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_m_mag",
+    "type": "magazine",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_s_folded",
+    "type": "stock",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_s_unfolded",
+    "type": "stock",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_vg_standard",
+    "type": "vertical_grip",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_ns_silencer",
+    "type": "barrel_ext",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_o_rail",
+    "type": "extra",
+    "weapon": "sr2"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_b_comp",
+    "type": "barrel",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_b_standard",
+    "type": "barrel",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_body_standard",
+    "type": "lower_receiver",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_m_extended",
+    "type": "magazine",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_m_standard",
+    "type": "magazine",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_pl14_sl_standard",
+    "type": "slide",
+    "weapon": "pl14"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_b_hardballer",
+    "type": "barrel",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_b_standard",
+    "type": "barrel",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_body_standard",
+    "type": "lower_receiver",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_m_extended",
+    "type": "magazine",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_m_standard",
+    "type": "magazine",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_g_standard",
+    "type": "grip",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_sl_standard",
+    "type": "slide",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_sl_match",
+    "type": "slide",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_pis_m1911_sl_hardballer",
+    "type": "slide",
+    "weapon": "m1911"
+  },
+  {
+    "id": "wpn_fps_sho_m590_b_suppressor",
+    "type": "barrel",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_b_long",
+    "type": "barrel",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_b_standard",
+    "type": "barrel",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_s_standard",
+    "type": "stock",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_g_standard",
+    "type": "grip",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_body_standard",
+    "type": "lower_reciever",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_body_rail",
+    "type": "lower_reciever",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_sho_m590_fg_standard",
+    "type": "foregrip",
+    "weapon": "m590"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_b_supressed",
+    "type": "barrel",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_b_long",
+    "type": "barrel",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_b_standard",
+    "type": "barrel",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_g_standard",
+    "type": "grip",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_s_standard",
+    "type": "stock",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_s_short",
+    "type": "stock",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_m_standard",
+    "type": "magazine",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_body_standard",
+    "type": "lower_reciever",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_bolt_standard",
+    "type": "drag_handle",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_vityaz_fg_standard",
+    "type": "foregrip",
+    "weapon": "vityaz"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_body_standard",
+    "type": "upper_reciever",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_m_standard",
+    "type": "magazine",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_m_quick",
+    "type": "magazine",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_b_standard",
+    "type": "barrel",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_b_short",
+    "type": "barrel",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_g_standard",
+    "type": "grip",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_g_wood",
+    "type": "grip",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_s_tactical",
+    "type": "stock",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_o_adapter",
+    "type": "extra",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_smg_pm9_fl_adapter",
+    "type": "extra",
+    "weapon": "pm9"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_b_standard",
+    "type": "barrel",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_b_short",
+    "type": "barrel",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_b_long",
+    "type": "barrel",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_fg_standard",
+    "type": "foregrip",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_body_standard",
+    "type": "lower_reciever",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_bolt_standard",
+    "type": "bolt",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_m_standard",
+    "type": "magazine",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_m_extended",
+    "type": "magazine",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_snp_qbu88_o_standard",
+    "type": "sight",
+    "weapon": "qbu88"
+  },
+  {
+    "id": "wpn_fps_ass_groza_b_standard",
+    "type": "barrel",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_b_supressor",
+    "type": "barrel",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_gl_gp25",
+    "type": "underbarrel",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_g_standard",
+    "type": "grip",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_body_standard",
+    "type": "lower_reciever",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_bolt_standard",
+    "type": "bolt",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_m_standard",
+    "type": "magazine",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_m_speed",
+    "type": "magazine",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_o_adapter",
+    "type": "extra",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_groza_fl_adapter",
+    "type": "extra",
+    "weapon": "groza"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_body_lower",
+    "type": "lower_reciever",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_body_upper",
+    "type": "upper_reciever",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_body_vks",
+    "type": "upper_reciever",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_b_dummy",
+    "type": "barrel",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_dh_standard",
+    "type": "drag_handle",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_dh_standard2",
+    "type": "drag_handle",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_dh_vks",
+    "type": "drag_handle",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_fg_rail",
+    "type": "foregrip",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_ejector_standard",
+    "type": "extra",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_m_magazine25",
+    "type": "magazine",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_o_sight",
+    "type": "sight",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_o_carry_sight",
+    "type": "extra",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_o_carry_dummy",
+    "type": "extra",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_shak12_ns_muzzle",
+    "type": "barrel_ext",
+    "weapon": "shak12"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_b_standard",
+    "type": "barrel",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_b_long",
+    "type": "barrel",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_dh_standard",
+    "type": "drag_handle",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_fg_standard",
+    "type": "foregrip",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_g_standard",
+    "type": "grip",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_lower_reciever",
+    "type": "lower_reciever",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_m_drum",
+    "type": "magazine",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_ns_special",
+    "type": "barrel_ext",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_o_standard",
+    "type": "sight",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_s_standard",
+    "type": "stock",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_upper_reciever",
+    "type": "upper_reciever",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_ass_tecci_vg_standard",
+    "type": "vertical_grip",
+    "weapon": "tecci"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_b_standard",
+    "type": "barrel",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_b_short",
+    "type": "barrel",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_b_medium",
+    "type": "barrel",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_fg_standard",
+    "type": "foregrip",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_g_standard",
+    "type": "grip",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_o_standard",
+    "type": "sight",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_s_standard",
+    "type": "stock",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_body_standard",
+    "type": "lower_reciever",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_smg_hajk_vg_moe",
+    "type": "vertical_grip",
+    "weapon": "hajk"
+  },
+  {
+    "id": "wpn_fps_sho_boot_b_standard",
+    "type": "barrel",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_b_short",
+    "type": "barrel",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_b_long",
+    "type": "barrel",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_fg_standard",
+    "type": "foregrip",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_s_short",
+    "type": "stock",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_s_long",
+    "type": "stock",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_body_standard",
+    "type": "lower_reciever",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_body_exotic",
+    "type": "lower_reciever",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_m_standard",
+    "type": "magazine",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_sho_boot_em_extra",
+    "type": "extra",
+    "weapon": "boot"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_b_standard",
+    "type": "barrel",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_body_standard",
+    "type": "lower_receiver",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_bolt_standard",
+    "type": "extra",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_m_extended",
+    "type": "magazine",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_m_standard",
+    "type": "magazine",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_ns_wick",
+    "type": "barrel_ext",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_o_expert",
+    "type": "sight",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_o_standard",
+    "type": "sight",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_pis_packrat_sl_standard",
+    "type": "slide",
+    "weapon": "packrat"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_b_civil",
+    "type": "barrel",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_b_standard",
+    "type": "barrel",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_body_lower",
+    "type": "lower_receiver",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_body_upper",
+    "type": "upper_reciever",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_m_long",
+    "type": "magazine",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_m_short",
+    "type": "magazine",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_m_standard",
+    "type": "magazine",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_ns_silencer",
+    "type": "barrel_ext",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_s_civil",
+    "type": "stock",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_s_folded",
+    "type": "stock",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_s_standard",
+    "type": "stock",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_dh_standard",
+    "type": "drag_handle",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_bolt_standard",
+    "type": "bolt",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_vg_extra",
+    "type": "extra",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_extra_magrelease",
+    "type": "extra",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_vg_surefire",
+    "type": "vertical_grip",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_smg_schakal_vg_surefire_flashlight",
+    "type": "extra",
+    "weapon": "schakal"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_b_long",
+    "type": "barrel",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_b_short",
+    "type": "barrel",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_b_silencer",
+    "type": "barrel",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_body",
+    "type": "lower_receiver",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_dh_standard",
+    "type": "extra",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_snp_desertfox_mag",
+    "type": "magazine",
+    "weapon": "desertfox"
+  },
+  {
+    "id": "wpn_fps_sho_rota_b_long",
+    "type": "barrel",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_b_short",
+    "type": "barrel",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_b_silencer",
+    "type": "barrel",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_body_lower",
+    "type": "lower_receiver",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_body_upper",
+    "type": "upper_reciever",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_fg_standard",
+    "type": "foregrip",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_g_standard",
+    "type": "grip",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_m_standard",
+    "type": "magazine",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_mag_realese",
+    "type": "extra",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_rota_o_standard",
+    "type": "sight",
+    "weapon": "rota"
+  },
+  {
+    "id": "wpn_fps_sho_saiga_b_short",
+    "type": "barrel",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_sho_saiga_fg_holy",
+    "type": "foregrip",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_o_45rds",
+    "type": "gadget",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_o_spot",
+    "type": "sight",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_o_box",
+    "type": "sight",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_ass_g36_o_vintage",
+    "type": "sight",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_ass_g36_o_vintage_piggyback",
+    "type": "extra",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_g36_fg_long",
+    "type": "foregrip",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_g36_b_ultra",
+    "type": "barrel",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_fg_flash",
+    "type": "foregrip",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_smg_mp5_s_folding",
+    "type": "stock",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_ns_duck",
+    "type": "barrel_ext",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_pis_usp_m_big",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_pis_1911_m_big",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_smg_p90_m_strap",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_ass_aug_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_m4_upg_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_upg_ak_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_ass_g36_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_smg_sr2_m_quick",
+    "type": "magazine",
+    "weapon": "tng"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_b_standard",
+    "type": "barrel",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_b_long",
+    "type": "barrel",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_b_comp",
+    "type": "barrel",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_body_standard",
+    "type": "lower_reciever",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_m_standard",
+    "type": "magazine",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_s_standard",
+    "type": "stock",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_bolt",
+    "type": "bolt",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_charginghandle",
+    "type": "drag_handle",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_ejector",
+    "type": "extra",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_arbiter_o_standard",
+    "type": "sight",
+    "weapon": "arbiter"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_b_standard",
+    "type": "barrel",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_b_long",
+    "type": "barrel",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_upper_standard",
+    "type": "upper_reciever",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_lower_standard",
+    "type": "lower_reciever",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_grenade",
+    "type": "magazine",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_s_standard",
+    "type": "stock",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_s_modern",
+    "type": "stock",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_o_standard",
+    "type": "sight",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_body_modern",
+    "type": "reciever",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_gre_ms3gl_conversion",
+    "type": "exclusive_set",
+    "weapon": "ms3gl"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_b_standard",
+    "type": "barrel",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_body_standard",
+    "type": "lower_receiver",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_dh_standard",
+    "type": "drag_handle",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_fg_standard",
+    "type": "foregrip",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_g_standard",
+    "type": "grip",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_gl_m203",
+    "type": "underbarrel",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_m_standard",
+    "type": "magazine",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_o_standard",
+    "type": "sight",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_s_standard",
+    "type": "stock",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_ass_contraband_bolt_standard",
+    "type": "extra",
+    "weapon": "contraband"
+  },
+  {
+    "id": "wpn_fps_gre_ray_body",
+    "type": "lower_reciever",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_bolt",
+    "type": "upper_reciever",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_magazine",
+    "type": "magazine",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_magazine_handle",
+    "type": "foregrip",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_ring_back",
+    "type": "grip",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_ring_front",
+    "type": "stock",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_sight",
+    "type": "sight",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_sight_lid",
+    "type": "drag_handle",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_gre_ray_barrel",
+    "type": "barrel",
+    "weapon": "ray"
+  },
+  {
+    "id": "wpn_fps_snp_tti_body_standard",
+    "type": "upper_reciever",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_vg_standard",
+    "type": "vertical_grip",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_s_vltor",
+    "type": "stock",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_ns_hex",
+    "type": "barrel_ext",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_m_standard",
+    "type": "magazine",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_g_grippy",
+    "type": "grip",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_fg_standard",
+    "type": "foregrip",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_dhs_switch",
+    "type": "switch",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_dh_standard",
+    "type": "drag_handle",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_bolt_standard",
+    "type": "bolt",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_body_receiverupper",
+    "type": "upper_reciever",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_body_receiverlower",
+    "type": "lower_receiver",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_tti_b_standard",
+    "type": "barrel",
+    "weapon": "tti"
+  },
+  {
+    "id": "wpn_fps_snp_victor_body_standard",
+    "type": "upper_reciever",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_s_mod0",
+    "type": "stock",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_o_standard",
+    "type": "sight",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_o_down",
+    "type": "extra",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_ns_omega",
+    "type": "barrel_ext",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_m_1",
+    "type": "magazine",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_m_2",
+    "type": "magazine_extra",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_g_mod3",
+    "type": "grip",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_fg_standard",
+    "type": "foregrip",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_vg_hera",
+    "type": "vertical_grip",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_dhs_switch",
+    "type": "switch",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_dh_standard",
+    "type": "drag_handle",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_bolt_standard",
+    "type": "bolt",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_body_receiver_upper",
+    "type": "upper_reciever",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_body_receiver_lower",
+    "type": "lower_receiver",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_b_standard",
+    "type": "barrel",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_m4_uupg_s_zulu",
+    "type": "stock",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_victor_sbr_kit",
+    "type": "exclusive_set",
+    "weapon": "victor"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_b_standard",
+    "type": "barrel",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_b_silenced",
+    "type": "barrel",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_ns_variation_b",
+    "type": "barrel",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_body_receiver",
+    "type": "lower_receiver",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_dh_standard",
+    "type": "drag_handle",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_ejector",
+    "type": "extra",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_fg_polymer",
+    "type": "foregrip",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_fg_wood",
+    "type": "foregrip",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_m_standard",
+    "type": "magazine",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_o_scopemount",
+    "type": "extra",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_iron_sight",
+    "type": "sight",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_s_polymer",
+    "type": "stock",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_snp_siltstone_s_wood",
+    "type": "stock",
+    "weapon": "siltstone"
+  },
+  {
+    "id": "wpn_fps_ass_flint_b_standard",
+    "type": "barrel",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_body_upperreceiver",
+    "type": "upper_reciever",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_dh_standard",
+    "type": "drag_handle",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_fg_standard",
+    "type": "foregrip",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_g_standard",
+    "type": "grip",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_m_release_standard",
+    "type": "extra",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_m_standard",
+    "type": "magazine",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_o_standard",
+    "type": "sight",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_ass_flint_s_standard",
+    "type": "stock",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_snp_flint_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "flint"
+  },
+  {
+    "id": "wpn_fps_smg_coal_b_standard",
+    "type": "barrel",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_body_standard",
+    "type": "upper_reciever",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_dh_standard",
+    "type": "drag_handle",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_fg_standard",
+    "type": "foregrip",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_g_standard",
+    "type": "grip",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_m_standard",
+    "type": "magazine",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_mr_standard",
+    "type": "extra",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_s_standard",
+    "type": "stock",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_smg_coal_o_scopemount_standard",
+    "type": "extra",
+    "weapon": "coal"
+  },
+  {
+    "id": "wpn_fps_upg_o_xpsg33_magnifier",
+    "type": "gadget",
+    "weapon": "varmods"
+  },
+  {
+    "id": "wpn_fps_upg_o_45rds_v2",
+    "type": "gadget",
+    "weapon": "varmods"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_b_standard",
+    "type": "barrel",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_b_nitride",
+    "type": "barrel",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_body",
+    "type": "lower_receiver",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_m_standard",
+    "type": "magazine",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_m_ext",
+    "type": "magazine",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_mag_release",
+    "type": "extra",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_lemming_sl_standard",
+    "type": "slide",
+    "weapon": "lemming"
+  },
+  {
+    "id": "wpn_fps_pis_type54_b_standard",
+    "type": "barrel",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_b_long",
+    "type": "barrel",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_body",
+    "type": "lower_receiver",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_body_akimbo",
+    "type": "lower_receiver",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_m_standard",
+    "type": "magazine",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_m_ext",
+    "type": "magazine",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_fl_rail",
+    "type": "extra",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_sl_standard",
+    "type": "slide",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_type54_underbarrel",
+    "type": "underbarrel",
+    "weapon": "type54"
+  },
+  {
+    "id": "wpn_fps_pis_x_type54_underbarrel",
+    "type": "underbarrel",
+    "weapon": "x_type54"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_body_standard",
+    "type": "lower_reciever",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_b_standard",
+    "type": "barrel",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_b_comp",
+    "type": "barrel",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_b_short",
+    "type": "barrel",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_g_standard",
+    "type": "grip",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_pis_rsh12_g_wood",
+    "type": "grip",
+    "weapon": "rsh12"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_b_standard",
+    "type": "barrel",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_body",
+    "type": "foregrip",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_body_short",
+    "type": "foregrip",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_dh_standard",
+    "type": "drag_handle",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_g_standard",
+    "type": "grip",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_mag_standard",
+    "type": "magazine",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_mag_extended",
+    "type": "magazine",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_s_standard",
+    "type": "stock",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_s_no",
+    "type": "stock",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_s_adapter",
+    "type": "stock_adapter",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_bolt_standard",
+    "type": "bolt",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_smg_shepheard_o_standard",
+    "type": "sight",
+    "weapon": "shepheard"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_b_standard",
+    "type": "barrel",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_b_satan",
+    "type": "barrel",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_body",
+    "type": "lower_receiver",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_cylinder",
+    "type": "cylinder",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_dh_hammer",
+    "type": "drag_handle",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_ejector",
+    "type": "ejector",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_ejectorpin",
+    "type": "ejectorpin",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_g_black",
+    "type": "grip",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_g_death",
+    "type": "grip",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_g_standard",
+    "type": "grip",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_lock_arm",
+    "type": "lock_arm",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_chinchilla_m_bullets",
+    "type": "magazine",
+    "weapon": "chinchilla"
+  },
+  {
+    "id": "wpn_fps_pis_model3_b_standard",
+    "type": "barrel",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_b_short",
+    "type": "barrel",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_b_long",
+    "type": "barrel",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_body_standard",
+    "type": "lower_receiver",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_cylinder",
+    "type": "cylinder",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_dh_hammer",
+    "type": "drag_handle",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_ejector",
+    "type": "ejector",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_g_bling",
+    "type": "grip",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_g_standard",
+    "type": "grip",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_model3_m_bullets",
+    "type": "magazine",
+    "weapon": "model3"
+  },
+  {
+    "id": "wpn_fps_pis_breech_b_reinforced",
+    "type": "barrel",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_b_short",
+    "type": "barrel",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_b_standard",
+    "type": "barrel",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_body",
+    "type": "body",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_dh",
+    "type": "drag_handle",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_g_custom",
+    "type": "grip",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_g_standard",
+    "type": "grip",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_pis_breech_mag",
+    "type": "magazine",
+    "weapon": "breech"
+  },
+  {
+    "id": "wpn_fps_ass_ching_b_short",
+    "type": "barrel",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_b_standard",
+    "type": "barrel",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_body_standard",
+    "type": "lower_receiver",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_bolt_standard",
+    "type": "bolt",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_dh_standard",
+    "type": "drag_handle",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_extra_swiwel_empty",
+    "type": "swiwel_2",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_extra_swiwel",
+    "type": "swiwel_2",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_extra1_swiwel",
+    "type": "swiwel_1",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_fg_railed",
+    "type": "foregrip",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_fg_standard",
+    "type": "foregrip",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_m_standard",
+    "type": "magazine",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_s_pouch",
+    "type": "stock",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_s_standard",
+    "type": "stock",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_ass_ching_strip_standard",
+    "type": "stock",
+    "weapon": "ching"
+  },
+  {
+    "id": "wpn_fps_smg_erma_b_standard",
+    "type": "barrel",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_body_standard",
+    "type": "lower_receiver",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_bolt_standard",
+    "type": "drag_handle",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_extra_rail",
+    "type": "extra",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_mag_standard",
+    "type": "magazine",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_o_ironsight_standard",
+    "type": "sight",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_s_folded",
+    "type": "stock",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_smg_erma_s_unfolded",
+    "type": "stock",
+    "weapon": "erma"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_s_standard",
+    "type": "stock",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_s_bare",
+    "type": "stock",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_b_dummy",
+    "type": "barrel",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_body_lower",
+    "type": "lower_receiver",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_body_upper",
+    "type": "upper_receiver",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_dh_standard",
+    "type": "drag_handle",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_ejector_left",
+    "type": "ejector_l",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_ejector_right",
+    "type": "ejector_r",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_m_arrows",
+    "type": "ammo",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_m_arrows_standard",
+    "type": "ammo",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_m_arrows_explosive",
+    "type": "ammo",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_m_arrows_poison",
+    "type": "ammo",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_m_casing",
+    "type": "magazine",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_meter_left",
+    "type": "meter_l",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_meter_right",
+    "type": "meter_r",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_bow_ecp_o_iron",
+    "type": "sight",
+    "weapon": "ecp"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_b_barrel",
+    "type": "barrel",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_body_frame",
+    "type": "lower_reciever",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_fl_adapter",
+    "type": "adapter",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_g_bling",
+    "type": "grip",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_g_ergo",
+    "type": "grip",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_g_standard",
+    "type": "grip",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_h_hammer",
+    "type": "hammer",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_m_extended",
+    "type": "magazine",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_m_standard",
+    "type": "magazine",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_sl_milled",
+    "type": "slide",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_pis_shrew_sl_standard",
+    "type": "slide",
+    "weapon": "shrew"
+  },
+  {
+    "id": "wpn_fps_sho_basset_b_short",
+    "type": "barrel",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_b_standard",
+    "type": "barrel",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_body_standard",
+    "type": "lower_receiver",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_bolt",
+    "type": "drag_handle",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_fg_short",
+    "type": "foregrip",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_fg_standard",
+    "type": "foregrip",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_g_standard",
+    "type": "grip",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_m_extended",
+    "type": "magazine",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_o_standard",
+    "type": "sight",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_sho_basset_o_short",
+    "type": "sight",
+    "weapon": "basset"
+  },
+  {
+    "id": "wpn_fps_smg_p90_body_boxy",
+    "type": "lower_reciever",
+    "weapon": "icc"
+  },
+  {
+    "id": "wpn_fps_smg_mac10_body_modern",
+    "type": "lower_reciever",
+    "weapon": "icc"
+  },
+  {
+    "id": "wpn_fps_pis_deagle_b_modern",
+    "type": "slide",
+    "weapon": "icc"
+  },
+  {
+    "id": "wpn_fps_pis_beretta_body_modern",
+    "type": "lower_reciever",
+    "weapon": "icc"
+  },
+  {
+    "id": "wpn_fps_pis_judge_body_modern",
+    "type": "lower_reciever",
+    "weapon": "icc"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_body_lower_standard",
+    "type": "lower_reciever",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_body_lower_strap",
+    "type": "lower_reciever",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_body_upper",
+    "type": "upper_reciever",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_b_long",
+    "type": "barrel",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_b_short",
+    "type": "barrel",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_dh_standard",
+    "type": "drag_handle",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_fg_rail",
+    "type": "foregrip",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_ass_corgi_ejector_standard",
+    "type": "ejector",
+    "weapon": "corgi"
+  },
+  {
+    "id": "wpn_fps_gre_slap_b_standard",
+    "type": "barrel",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_gre_slap_body_lower",
+    "type": "lower_reciever",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_gre_slap_o_iron",
+    "type": "sight",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_gre_slap_o_adapter",
+    "type": "extra",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_gre_slap_s_standard",
+    "type": "stock",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_gre_slap_vg_standard",
+    "type": "vertical_grip",
+    "weapon": "slap"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_body_standard",
+    "type": "lower_reciever",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_m_standard",
+    "type": "magazine",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_standard",
+    "type": "upper_reciever",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_short",
+    "type": "upper_reciever",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_heat_short",
+    "type": "upper_reciever",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_heat_long",
+    "type": "upper_reciever",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_dummy_long",
+    "type": "barrel",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_b_dummy_short",
+    "type": "barrel",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_lmg_shuno_s_standard",
+    "type": "stock",
+    "weapon": "shuno"
+  },
+  {
+    "id": "wpn_fps_fla_money_b_standard",
+    "type": "barrel",
+    "weapon": "money"
+  },
+  {
+    "id": "wpn_fps_fla_money_body_standard",
+    "type": "lower_reciever",
+    "weapon": "money"
+  },
+  {
+    "id": "wpn_fps_fla_money_body_upper",
+    "type": "upper_reciever",
+    "weapon": "money"
+  },
+  {
+    "id": "wpn_fps_fla_money_dh_standard",
+    "type": "drag_handle",
+    "weapon": "money"
+  },
+  {
+    "id": "wpn_fps_fla_money_m_standard",
+    "type": "magazine",
+    "weapon": "money"
+  },
+  {
+    "id": "wpn_fps_fla_system_b_standard",
+    "type": "barrel",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_b_wtf",
+    "type": "barrel",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_body_standard",
+    "type": "lower_reciever",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_body_upper",
+    "type": "upper_reciever",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_dh_standard",
+    "type": "drag_handle",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_m_high",
+    "type": "magazine",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_m_low",
+    "type": "magazine",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_fla_system_m_standard",
+    "type": "magazine",
+    "weapon": "system"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_b_standard",
+    "type": "barrel",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_body",
+    "type": "lower_reciever",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_grip_standard",
+    "type": "grip",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_ns",
+    "type": "barrel_ext",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_dh",
+    "type": "drag_handle",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_o_flipups_down",
+    "type": "extra",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_ass_komodo_o_flipups_up",
+    "type": "sight",
+    "weapon": "komodo"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_bow",
+    "type": "lower_reciever",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_body_regular",
+    "type": "upper_reciever",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_body_tactic",
+    "type": "upper_reciever",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_g_1",
+    "type": "grip",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_g_2",
+    "type": "grip",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_g_3",
+    "type": "grip",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_pin",
+    "type": "ejector",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_rail",
+    "type": "rail",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_whisker",
+    "type": "barrel",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_sight",
+    "type": "sight",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_m_standard",
+    "type": "ammo",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_m_explosive",
+    "type": "ammo",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_bow_elastic_m_poison",
+    "type": "ammo",
+    "weapon": "elastic"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_b_standard",
+    "type": "barrel",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_b_threaded",
+    "type": "barrel",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_body_standard",
+    "type": "lower_reciever",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_firepin_standard",
+    "type": "firepin",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_g_standard",
+    "type": "grip",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_g_wood",
+    "type": "grip",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_m_standard",
+    "type": "magazine",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_safety_standard",
+    "type": "safety",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_sl_standard",
+    "type": "slide",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_pis_legacy_fl_mount",
+    "type": "extra",
+    "weapon": "legacy"
+  },
+  {
+    "id": "wpn_fps_sho_coach_barrel_lock",
+    "type": "barrel_lock",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_right_hammer",
+    "type": "right_hammer",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_left_hammer",
+    "type": "left_hammer",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_b_standard",
+    "type": "barrel",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_b_short",
+    "type": "barrel",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_s_long",
+    "type": "stock",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_s_short",
+    "type": "stock",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_body_standard",
+    "type": "lower_reciever",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_right_slug",
+    "type": "right_slug",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_sho_coach_left_slug",
+    "type": "left_slug",
+    "weapon": "coach"
+  },
+  {
+    "id": "wpn_fps_upg_ns_ass_smg_v6",
+    "type": "barrel_ext",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_g_m4_surgeon",
+    "type": "grip",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_sig",
+    "type": "gadget",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_bmg",
+    "type": "sight",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_rms",
+    "type": "sight",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_rikt",
+    "type": "sight",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_uh",
+    "type": "sight",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_fc1",
+    "type": "sight",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_o_45steel",
+    "type": "gadget",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_typhoon",
+    "type": "barrel_ext",
+    "weapon": "mwm"
+  },
+  {
+    "id": "wpn_fps_pis_beer_b_robo",
+    "type": "barrel",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_b_std",
+    "type": "barrel",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_body_modern",
+    "type": "lower_reciever",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_body_robo",
+    "type": "lower_reciever",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_dh_hammer",
+    "type": "drag_handle",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_g_robo",
+    "type": "grip",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_g_lux",
+    "type": "grip",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_g_std",
+    "type": "grip",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_m_std",
+    "type": "magazine",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_m_extended",
+    "type": "magazine",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_o_std",
+    "type": "extra",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_o_robo",
+    "type": "extra",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_s_std",
+    "type": "stock",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_beer_sl_std",
+    "type": "slide",
+    "weapon": "beer"
+  },
+  {
+    "id": "wpn_fps_pis_czech_b_standard",
+    "type": "barrel",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_b_long",
+    "type": "barrel",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_body_standard",
+    "type": "lower_reciever",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_g_standard",
+    "type": "grip",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_g_sport",
+    "type": "grip",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_g_luxury",
+    "type": "grip",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_m_standard",
+    "type": "magazine",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_m_extended",
+    "type": "magazine",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_s_standard",
+    "type": "stock",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_sl_standard",
+    "type": "slide",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_czech_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "czech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_b_standard",
+    "type": "barrel",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_b_long",
+    "type": "barrel",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_body_standard",
+    "type": "lower_reciever",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_g_standard",
+    "type": "grip",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_g_luxury",
+    "type": "grip",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_g_tactical",
+    "type": "grip",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_m_standard",
+    "type": "magazine",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_m_extended",
+    "type": "magazine",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_s_standard",
+    "type": "stock",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_stech_sl_standard",
+    "type": "slide",
+    "weapon": "stech"
+  },
+  {
+    "id": "wpn_fps_pis_holt_b_standard",
+    "type": "barrel",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_body_upper",
+    "type": "slide",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_body_lower",
+    "type": "lower_receiver",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_m_standard",
+    "type": "magazine",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_g_standard",
+    "type": "grip",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_g_bling",
+    "type": "grip",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_g_ergo",
+    "type": "grip",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_pis_holt_m_extended",
+    "type": "magazine",
+    "weapon": "holt"
+  },
+  {
+    "id": "wpn_fps_ass_m14_b_ruger",
+    "type": "barrel",
+    "weapon": "atw_mod"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_ruger",
+    "type": "stock",
+    "weapon": "atw_mod"
+  },
+  {
+    "id": "wpn_fps_ass_m14_body_ruger_rail",
+    "type": "stock",
+    "weapon": "atw_mod"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_b_standard",
+    "type": "barrel",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_b_short",
+    "type": "barrel",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_body_standard",
+    "type": "lower_reciever",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_carry_standard",
+    "type": "extra",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_fg_tactical",
+    "type": "foregrip",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_fg_tropical",
+    "type": "foregrip",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_fg_keymod",
+    "type": "foregrip",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_fg_standard",
+    "type": "foregrip",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_m_standard",
+    "type": "magazine",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_dh_standard",
+    "type": "drag_handle",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_ns_standard",
+    "type": "barrel_ext",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_lmg_m60_upper_reciever",
+    "type": "upper_reciever",
+    "weapon": "m60"
+  },
+  {
+    "id": "wpn_fps_snp_r700_b_standard",
+    "type": "barrel",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_b_short",
+    "type": "barrel",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_b_medium",
+    "type": "barrel",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_s_standard",
+    "type": "stock",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_s_tactical",
+    "type": "stock",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_s_military",
+    "type": "stock",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_body_standard",
+    "type": "lower_reciever",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_bolt_standard",
+    "type": "bolt",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_m_standard",
+    "type": "magazine",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_o_rail",
+    "type": "extra",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_snp_r700_fl_rail",
+    "type": "extra",
+    "weapon": "r700"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_b_standard",
+    "type": "barrel",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_b_long",
+    "type": "barrel",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_b_marksman",
+    "type": "barrel",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_body_upper",
+    "type": "slide",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_body_lower",
+    "type": "lower_receiver",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_m_standard",
+    "type": "magazine",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_pis_maxim9_m_ext",
+    "type": "magazine",
+    "weapon": "maxim9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_body",
+    "type": "reciever",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_o_sight",
+    "type": "sight",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_grip",
+    "type": "grip",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_grip_tape",
+    "type": "extra",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_stock",
+    "type": "stock",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_stock_padded",
+    "type": "stock",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_fg",
+    "type": "foregrip",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_dh",
+    "type": "drag_handle",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_m_standard",
+    "type": "magazine",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_m_speed",
+    "type": "magazine",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_b_dummy",
+    "type": "barrel",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_conversion",
+    "type": "exclusive_set",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_body_conversion",
+    "type": "reciever",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_dh_conversion",
+    "type": "drag_handle",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_conversion_display_dummy",
+    "type": "magazine_extra",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_smg_fmg9_conversion_laser_dummy",
+    "type": "gadget",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_upg_ns_pis_putnik",
+    "type": "barrel_ext",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_upg_fl_pis_perst",
+    "type": "gadget",
+    "weapon": "fmg9"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_ns_comp",
+    "type": "barrel_ext",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_b_standard",
+    "type": "barrel",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_s_light",
+    "type": "stock",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_s_standard",
+    "type": "stock",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_m_standard",
+    "type": "magazine",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_body_standard",
+    "type": "lower_reciever",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_body_rack",
+    "type": "extra",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_fg_standard",
+    "type": "foregrip",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_fl_kit",
+    "type": "gadget",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_fg_kit",
+    "type": "foregrip",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_body_kit",
+    "type": "exclusive_set",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_sho_ultima_b_kit",
+    "type": "barrel",
+    "weapon": "ultima"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_b_standard",
+    "type": "barrel_ext",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_body_standard",
+    "type": "lower_receiver",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_g_standard",
+    "type": "grip",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_m_standard",
+    "type": "magazine",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_o_standard_rear",
+    "type": "sight",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_pis_welrod_o_standard_front",
+    "type": "sight",
+    "weapon": "welrod"
+  },
+  {
+    "id": "wpn_fps_spe_dart_lower_body_standard",
+    "type": "lower_body",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_spe_dart_gadget_rail_standard",
+    "type": "extra",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_spe_dart_magazine_standard",
+    "type": "extra",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_spe_dart_magazine_high_pressure",
+    "type": "extra",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_spe_dart_magazine_high_capacity",
+    "type": "extra",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_upg_a_dart_poison",
+    "type": "ammo",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_upg_a_dart_daze",
+    "type": "ammo",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_upg_a_dart_revive",
+    "type": "ammo",
+    "weapon": "dart"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_lower_standard",
+    "type": "lower_body",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_slide_standard",
+    "type": "slide",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_slide_suppressed",
+    "type": "slide",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_ns_suppressor",
+    "type": "barrel_ext",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_g_standard",
+    "type": "grip",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_g_black",
+    "type": "grip",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_m_standard",
+    "type": "magazine",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_pis_pmm_flashlight_mount",
+    "type": "extra",
+    "weapon": "pmm"
+  },
+  {
+    "id": "wpn_fps_smg_speen_lower_body_standard",
+    "type": "lower_body",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_upper_body_standard",
+    "type": "upper_body",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_magazine_standard",
+    "type": "magazine",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_magazine_extended",
+    "type": "magazine",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_extra_magazine",
+    "type": "extra",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_barrel_standard",
+    "type": "barrel",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_barrel_dmr",
+    "type": "barrel",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_sights_front_standard",
+    "type": "sight",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_smg_speen_sights_rear_standard",
+    "type": "sight_special",
+    "weapon": "speen"
+  },
+  {
+    "id": "wpn_fps_spe_flun_lower_body_standard",
+    "type": "lower_body",
+    "weapon": "flun"
+  },
+  {
+    "id": "wpn_fps_upg_a_flun_flare",
+    "type": "ammo",
+    "weapon": "flun"
+  },
+  {
+    "id": "wpn_fps_upg_a_flun_shell",
+    "type": "ammo",
+    "weapon": "flun"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_ammo_extra_standard",
+    "type": "magazine_extra",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_lower_body_standard",
+    "type": "lower_body",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_magazine_standard",
+    "type": "magazine",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_magazine_horse",
+    "type": "magazine",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_stock_standard",
+    "type": "stock",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_stock_standard_pouch",
+    "type": "stock",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_stock_sawnoff",
+    "type": "stock",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_stock_precision",
+    "type": "stock",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_extra_rail_standard",
+    "type": "extra",
+    "weapon": "bleckert"
+  },
+  {
+    "id": "wpn_fps_sho_bleckert_barrel_standard",
+    "type": "barrel",
+    "weapon": "bleckert"
+  }
+]
