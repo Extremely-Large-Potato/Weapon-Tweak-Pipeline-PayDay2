@@ -1,3 +1,4 @@
+Markdown
 # Weapon Tweak Pipeline
 
 Weapon Tweak Pipeline is a local **PAYDAY 2 weapon tweaking and modding tool** that lets you customize weapon stats without manually writing Lua code.
@@ -11,6 +12,7 @@ Select a weapon, modify its properties, validate your changes, and export the re
 - Modify magazine size
 - Modify fire rate
 - Modify reload speed
+- Modify ammo pickup rate (Min/Max per box)
 - Modify accuracy and stability
 - Modify concealment, suppression, alert size, and other properties
 - SET, ADD, and MULTIPLY operations
@@ -22,74 +24,56 @@ Select a weapon, modify its properties, validate your changes, and export the re
 - Weapon database with PAYDAY 2 weapon data
 - Weapon attachment database
 - Custom Lua property paths
-- Local launcher for easy setup
+- Native, high-performance C# local launcher with zero antivirus false-positives
 
 ## Requirements
 
 ### Using the Launcher
 
-The easiest way to run the application is by downloading the latest release.
+The easiest way to run the application is by downloading the latest release from GitHub Releases.
 
-The release contains the launcher executable and the `Weapon Tweak Pipeline` application folder.
+The release contains the native `WeaponLauncher.exe` executable alongside the `Weapon Tweak Pipeline` application folder.
 
-The launcher and application folder must be kept together.
-
-Your directory should look like this:
+The launcher and application folder must be kept together in the same directory:
 
 ```text
-Weapon Tweak Pipeline/
-├── Weapon Tweak Pipeline.exe
+Your-Mod-Folder/
+├── WeaponLauncher.exe
 └── Weapon Tweak Pipeline/
     ├── index.html
     ├── js/
     ├── data/
     └── libs/
-
-Run:
-
-Weapon Tweak Pipeline.exe
-
-The launcher starts a local web server, opens the application in your browser, and serves the required JSON database files.
+Run WeaponLauncher.exe. The launcher automatically starts a local web server, opens the application in your default browser, and manages safe auto-shutdown when you close the tab.
 
 Running from Source
-
 The Weapon Tweak Pipeline folder contains the web application itself.
 
-The included launcher executable is provided separately through the GitHub Releases.
+The source folder should not be opened directly via file:// protocol because the application loads its weapon and attachment databases dynamically using fetch().
 
-The source folder is not intended to be opened directly with file://, because the application loads its weapon and attachment databases using fetch().
+To run the web app directly from source, start a local HTTP server from inside the Weapon Tweak Pipeline folder:
 
-To run the application directly from source, start a local HTTP server from inside the Weapon Tweak Pipeline folder:
-
+PowerShell
 python -m http.server 8000
-
 Then open:
 
+Plaintext
 http://localhost:8000
-Building the Launcher
-
-The launcher can be built from launcher.py using Python and PyInstaller.
+Building the C# Launcher
+The native launcher can be built from the C# source code using .NET 8.
 
 Requirements
-Windows
-Python 3
-PyInstaller
+.NET 8.0 SDK (or later)
 
-Install PyInstaller:
+Build Command
+Navigate to the launcher project directory and run the following publish command to generate a standalone single-file executable:
 
-python -m pip install pyinstaller
-
-Build the executable:
-
-python -m PyInstaller --onefile --noconsole --icon=launcher.ico --name="Weapon Tweak Pipeline" launcher.py
-
-The executable will be created in:
-
-dist/Weapon Tweak Pipeline.exe
-
-After building, place the executable next to the Weapon Tweak Pipeline folder.
+PowerShell
+dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o "./Publish"
+The compiled executable will be created in the ./Publish directory. Place it next to the Weapon Tweak Pipeline folder.
 
 Project Structure
+Plaintext
 Weapon-Tweak-Pipeline-PayDay2/
 ├── Weapon Tweak Pipeline/
 │   ├── index.html
@@ -102,30 +86,30 @@ Weapon-Tweak-Pipeline-PayDay2/
 │   │   └── attachments.json
 │   └── libs/
 │       └── jszip.min.js
-├── launcher.py
+├── Launcher/
+│   ├── Program.cs
+│   ├── WeaponLauncher.csproj
+│   └── Launcher.ico
 ├── README.md
 ├── LICENSE
 └── .gitignore
 How It Works
-
 Weapon Tweak Pipeline runs locally in your browser.
 
 The web application loads weapon and attachment data from external JSON files, applies the selected changes, validates the configuration, generates the required Lua code, and packages the result into a ZIP file.
 
-The launcher provides the local HTTP server required by the application and automatically opens the tool in the default browser.
-
-The web application and its database files remain outside the launcher executable so they can be updated without rebuilding the launcher.
+The native C# launcher provides the local HTTP server required by the application, handles heartbeat monitoring, and automatically opens the tool in the default browser.
 
 Exported Mods
-
 The tool can generate a ready-to-install PAYDAY 2 mod containing:
 
 mod.txt
+
 code.lua
+
 Optional custom mod icon
 
-The generated mod can then be placed in the PAYDAY 2 mods directory.
+The generated mod can be placed directly into your PAYDAY 2 mods directory.
 
 License
-
 This project is licensed under the MIT License.
