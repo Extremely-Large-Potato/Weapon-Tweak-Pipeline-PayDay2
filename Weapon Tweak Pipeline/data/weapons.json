@@ -1,7 +1,10 @@
 [
   {
     "id": "new_m4",
-    "name": "New M4",
+    "name": "CAR-4 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "new_m4.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -18,7 +21,10 @@
   },
   {
     "id": "glock_17",
-    "name": "Glock 17",
+    "name": "Chimano 88 Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "glock_17.png",
     "raw": {
       "CLIP_AMMO_MAX": 17,
       "NR_CLIPS_MAX": 9,
@@ -35,7 +41,10 @@
   },
   {
     "id": "mp9",
-    "name": "MP9",
+    "name": "CMP Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "mp9.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 7,
@@ -52,7 +61,10 @@
   },
   {
     "id": "r870",
-    "name": "R870",
+    "name": "Reinfeld 880 Shotgun",
+    "category": "Shotgun",
+    "dlc": "Basegame",
+    "image": "r870.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 7,
@@ -67,7 +79,10 @@
   },
   {
     "id": "glock_18c",
-    "name": "Glock 18C",
+    "name": "STRYK 18c Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "glock_18c.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 8,
@@ -84,7 +99,10 @@
   },
   {
     "id": "amcar",
-    "name": "Amcar",
+    "name": "AMCAR Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "amcar.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 11,
@@ -101,7 +119,10 @@
   },
   {
     "id": "m16",
-    "name": "M16",
+    "name": "AMR-16 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "m16.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -118,7 +139,10 @@
   },
   {
     "id": "olympic",
-    "name": "Olympic",
+    "name": "Para Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "olympic.png",
     "raw": {
       "CLIP_AMMO_MAX": 25,
       "NR_CLIPS_MAX": 6,
@@ -135,7 +159,10 @@
   },
   {
     "id": "ak74",
-    "name": "AK74",
+    "name": "AK Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "ak74.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -152,7 +179,10 @@
   },
   {
     "id": "akm",
-    "name": "AKM",
+    "name": "AK.762 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "akm.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -169,7 +199,10 @@
   },
   {
     "id": "akm_gold",
-    "name": "Akm Gold",
+    "name": "Golden AK.762 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Community",
+    "image": "akm_gold.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -186,7 +219,10 @@
   },
   {
     "id": "akmsu",
-    "name": "Akmsu",
+    "name": "Krinkov Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "akmsu.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -203,7 +239,10 @@
   },
   {
     "id": "saiga",
-    "name": "Saiga",
+    "name": "IZHMA 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Basegame",
+    "image": "saiga.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 10,
@@ -220,7 +259,10 @@
   },
   {
     "id": "ak5",
-    "name": "AK5",
+    "name": "AK5 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "ak5.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -237,7 +279,10 @@
   },
   {
     "id": "aug",
-    "name": "AUG",
+    "name": "UAR Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "aug.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -254,7 +299,10 @@
   },
   {
     "id": "g36",
-    "name": "G36",
+    "name": "JP36 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "g36.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 8,
@@ -271,7 +319,10 @@
   },
   {
     "id": "p90",
-    "name": "P90",
+    "name": "Kobus 90 Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "p90.png",
     "raw": {
       "CLIP_AMMO_MAX": 50,
       "NR_CLIPS_MAX": 3,
@@ -288,7 +339,10 @@
   },
   {
     "id": "new_m14",
-    "name": "New M14",
+    "name": "M308 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "new_m14.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 7,
@@ -305,7 +359,10 @@
   },
   {
     "id": "deagle",
-    "name": "Deagle",
+    "name": "Deagle Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "deagle.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 6,
@@ -322,7 +379,10 @@
   },
   {
     "id": "new_mp5",
-    "name": "New Mp5",
+    "name": "Compact-5 Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "new_mp5.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 7,
@@ -339,7 +399,10 @@
   },
   {
     "id": "colt_1911",
-    "name": "Colt 1911",
+    "name": "Crosskill Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "colt_1911.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 9,
@@ -356,7 +419,10 @@
   },
   {
     "id": "mac10",
-    "name": "Mac10",
+    "name": "Mark 10 Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "mac10.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 4,
@@ -373,7 +439,10 @@
   },
   {
     "id": "serbu",
-    "name": "Serbu",
+    "name": "Locomotive 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Basegame",
+    "image": "serbu.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 7,
@@ -388,7 +457,10 @@
   },
   {
     "id": "huntsman",
-    "name": "Huntsman",
+    "name": "Mosconi 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Basegame",
+    "image": "huntsman.png",
     "raw": {
       "CLIP_AMMO_MAX": 2,
       "NR_CLIPS_MAX": 16,
@@ -404,7 +476,10 @@
   },
   {
     "id": "b92fs",
-    "name": "B92Fs",
+    "name": "Bernetti 9 Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "b92fs.png",
     "raw": {
       "CLIP_AMMO_MAX": 14,
       "NR_CLIPS_MAX": 11,
@@ -421,7 +496,10 @@
   },
   {
     "id": "new_raging_bull",
-    "name": "New Raging Bull",
+    "name": "Bronco .44 Revolver",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "new_raging_bull.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 9,
@@ -438,7 +516,10 @@
   },
   {
     "id": "saw",
-    "name": "SAW",
+    "name": "OVE9000 Saw",
+    "category": "Special",
+    "dlc": "Basegame",
+    "image": "saw.png",
     "raw": {
       "CLIP_AMMO_MAX": 100,
       "NR_CLIPS_MAX": 2,
@@ -455,7 +536,10 @@
   },
   {
     "id": "usp",
-    "name": "USP",
+    "name": "Interceptor 45 Pistol",
+    "category": "Pistol",
+    "dlc": "Community",
+    "image": "usp.png",
     "raw": {
       "CLIP_AMMO_MAX": 13,
       "NR_CLIPS_MAX": 7,
@@ -472,7 +556,10 @@
   },
   {
     "id": "g22c",
-    "name": "G22C",
+    "name": "Chimano Custom Pistol",
+    "category": "Pistol",
+    "dlc": "Community",
+    "image": "g22c.png",
     "raw": {
       "CLIP_AMMO_MAX": 16,
       "NR_CLIPS_MAX": 6,
@@ -489,7 +576,10 @@
   },
   {
     "id": "judge",
-    "name": "Judge",
+    "name": "The Judge Shotgun",
+    "category": "Shotgun",
+    "dlc": "Community",
+    "image": "judge.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 7,
@@ -506,7 +596,10 @@
   },
   {
     "id": "m45",
-    "name": "M45",
+    "name": "Swedish K Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Armored Transport",
+    "image": "m45.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 2,
@@ -523,7 +616,10 @@
   },
   {
     "id": "s552",
-    "name": "S552",
+    "name": "Commando 553 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Armored Transport",
+    "image": "s552.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 8,
@@ -540,7 +636,10 @@
   },
   {
     "id": "ppk",
-    "name": "PPK",
+    "name": "Gruber Kurz Pistol",
+    "category": "Pistol",
+    "dlc": "Armored Transport",
+    "image": "ppk.png",
     "raw": {
       "CLIP_AMMO_MAX": 14,
       "NR_CLIPS_MAX": 11,
@@ -557,7 +656,10 @@
   },
   {
     "id": "mp7",
-    "name": "MP7",
+    "name": "SpecOps Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Gage Weapon Pack #01",
+    "image": "mp7.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 7,
@@ -574,7 +676,10 @@
   },
   {
     "id": "scar",
-    "name": "SCAR",
+    "name": "Eagle Heavy Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Gage Weapon Pack #01",
+    "image": "scar.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3.333,
@@ -591,7 +696,10 @@
   },
   {
     "id": "p226",
-    "name": "P226",
+    "name": "Signature .40 Pistol",
+    "category": "Pistol",
+    "dlc": "Gage Weapon Pack #01",
+    "image": "p226.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 7,
@@ -608,7 +716,10 @@
   },
   {
     "id": "hk21",
-    "name": "HK21",
+    "name": "Brenner-21 Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Gage Weapon Pack #02",
+    "image": "hk21.png",
     "raw": {
       "CLIP_AMMO_MAX": 150,
       "NR_CLIPS_MAX": 2,
@@ -625,7 +736,10 @@
   },
   {
     "id": "korth",
-    "name": "Korth",
+    "name": "Kahn .357 Revolver",
+    "category": "Pistol",
+    "dlc": "McShay Weapon Pack 2",
+    "image": "korth.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 7,
@@ -642,7 +756,10 @@
   },
   {
     "id": "sko12",
-    "name": "Sko12",
+    "name": "VD-12 Shotgun",
+    "category": "Shotgun",
+    "dlc": "McShay Weapon Pack 2",
+    "image": "sko12.png",
     "raw": {
       "CLIP_AMMO_MAX": 28,
       "NR_CLIPS_MAX": 2,
@@ -659,7 +776,10 @@
   },
   {
     "id": "x_sko12",
-    "name": "X Sko12",
+    "name": "Akimbo VD-12 Shotguns",
+    "category": "Akimbo Shotgun",
+    "dlc": "McShay Weapon Pack 2",
+    "image": "x_sko12.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 3,
@@ -676,7 +796,10 @@
   },
   {
     "id": "x_korth",
-    "name": "X Korth",
+    "name": "Akimbo Kahn .357 Revolvers",
+    "category": "Akimbo Pistol",
+    "dlc": "McShay Weapon Pack 2",
+    "image": "x_korth.png",
     "raw": {
       "CLIP_AMMO_MAX": 16,
       "NR_CLIPS_MAX": 5,
@@ -693,7 +816,10 @@
   },
   {
     "id": "awp",
-    "name": "AWP",
+    "name": "Amaroq 900 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "McShay Weapon Pack 4",
+    "image": "awp.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 2,
@@ -710,7 +836,10 @@
   },
   {
     "id": "supernova",
-    "name": "Supernova",
+    "name": "Deimos Shotgun",
+    "category": "Shotgun",
+    "dlc": "McShay Weapon Pack 4",
+    "image": "supernova.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 5,
@@ -725,7 +854,10 @@
   },
   {
     "id": "kacchainsaw",
-    "name": "Kacchainsaw",
+    "name": "Campbell 74 LMG",
+    "category": "LMG",
+    "dlc": "McShay Weapon Pack 4",
+    "image": "kacchainsaw.png",
     "raw": {
       "CLIP_AMMO_MAX": 150,
       "NR_CLIPS_MAX": 2,
@@ -742,7 +874,10 @@
   },
   {
     "id": "m249",
-    "name": "M249",
+    "name": "KSP Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Gage Weapon Pack #02",
+    "image": "m249.png",
     "raw": {
       "CLIP_AMMO_MAX": 200,
       "NR_CLIPS_MAX": 2,
@@ -759,7 +894,10 @@
   },
   {
     "id": "rpk",
-    "name": "RPK",
+    "name": "RPK Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Gage Weapon Pack #02",
+    "image": "rpk.png",
     "raw": {
       "CLIP_AMMO_MAX": 100,
       "NR_CLIPS_MAX": 3,
@@ -776,7 +914,10 @@
   },
   {
     "id": "m95",
-    "name": "M95",
+    "name": "Thanatos .50 cal Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Sniper Pack",
+    "image": "m95.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 3,
@@ -793,7 +934,10 @@
   },
   {
     "id": "msr",
-    "name": "MSR",
+    "name": "Rattlesnake Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Sniper Pack",
+    "image": "msr.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 4,
@@ -810,7 +954,10 @@
   },
   {
     "id": "r93",
-    "name": "R93",
+    "name": "R93 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Sniper Pack",
+    "image": "r93.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 5,
@@ -827,7 +974,10 @@
   },
   {
     "id": "fal",
-    "name": "FAL",
+    "name": "Falcon Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Big Bank Heist",
+    "image": "fal.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 5,
@@ -844,7 +994,10 @@
   },
   {
     "id": "benelli",
-    "name": "Benelli",
+    "name": "M1014 Shotgun",
+    "category": "Shotgun",
+    "dlc": "Gage Shotgun Pack",
+    "image": "benelli.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 8,
@@ -859,7 +1012,10 @@
   },
   {
     "id": "striker",
-    "name": "Striker",
+    "name": "Street Sweeper Shotgun",
+    "category": "Shotgun",
+    "dlc": "Gage Shotgun Pack",
+    "image": "striker.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 6,
@@ -874,7 +1030,10 @@
   },
   {
     "id": "ksg",
-    "name": "KSG",
+    "name": "Raven Shotgun",
+    "category": "Shotgun",
+    "dlc": "Gage Shotgun Pack",
+    "image": "ksg.png",
     "raw": {
       "CLIP_AMMO_MAX": 14,
       "NR_CLIPS_MAX": 3,
@@ -889,7 +1048,10 @@
   },
   {
     "id": "gre_m79",
-    "name": "Gre M79",
+    "name": "GL40 Grenade Launcher",
+    "category": "Special",
+    "dlc": "Gage Assault Pack",
+    "image": "gre_m79.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "fire_rate": 2,
@@ -904,7 +1066,10 @@
   },
   {
     "id": "g3",
-    "name": "G3",
+    "name": "Gewehr 3 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Gage Assault Pack",
+    "image": "g3.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3.333,
@@ -921,7 +1086,10 @@
   },
   {
     "id": "galil",
-    "name": "Galil",
+    "name": "Gecko 7.62 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Gage Assault Pack",
+    "image": "galil.png",
     "raw": {
       "CLIP_AMMO_MAX": 35,
       "NR_CLIPS_MAX": 5,
@@ -938,7 +1106,10 @@
   },
   {
     "id": "famas",
-    "name": "Famas",
+    "name": "Clarion Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Gage Assault Pack",
+    "image": "famas.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 8,
@@ -955,7 +1126,10 @@
   },
   {
     "id": "scorpion",
-    "name": "Scorpion",
+    "name": "Cobra Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Hotline Miami DLC",
+    "image": "scorpion.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 11,
@@ -972,7 +1146,10 @@
   },
   {
     "id": "tec9",
-    "name": "TEC9",
+    "name": "Blaster 9mm Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Hotline Miami DLC",
+    "image": "tec9.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 11,
@@ -989,7 +1166,10 @@
   },
   {
     "id": "uzi",
-    "name": "UZI",
+    "name": "Uzi Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Hotline Miami DLC",
+    "image": "uzi.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 3,
@@ -1006,7 +1186,10 @@
   },
   {
     "id": "jowi",
-    "name": "JOWI",
+    "name": "Akimbo Chimano Compact Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "jowi.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 8,
@@ -1023,7 +1206,10 @@
   },
   {
     "id": "x_1911",
-    "name": "X 1911",
+    "name": "Akimbo Crosskill Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_1911.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 5,
@@ -1040,7 +1226,10 @@
   },
   {
     "id": "x_b92fs",
-    "name": "X B92Fs",
+    "name": "Akimbo Bernetti 9 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_b92fs.png",
     "raw": {
       "CLIP_AMMO_MAX": 28,
       "NR_CLIPS_MAX": 6,
@@ -1057,7 +1246,10 @@
   },
   {
     "id": "x_deagle",
-    "name": "X Deagle",
+    "name": "Akimbo Deagle Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_deagle.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 3,
@@ -1074,7 +1266,10 @@
   },
   {
     "id": "g26",
-    "name": "G26",
+    "name": "Chimano Compact Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "g26.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 15,
@@ -1091,7 +1286,10 @@
   },
   {
     "id": "spas12",
-    "name": "Spas12",
+    "name": "Predator 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Community",
+    "image": "spas12.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 11,
@@ -1106,7 +1304,10 @@
   },
   {
     "id": "mg42",
-    "name": "MG42",
+    "name": "Buzzsaw 42 Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Gage Historical Pack",
+    "image": "mg42.png",
     "raw": {
       "CLIP_AMMO_MAX": 150,
       "NR_CLIPS_MAX": 3,
@@ -1123,7 +1324,10 @@
   },
   {
     "id": "c96",
-    "name": "C96",
+    "name": "Broomstick Pistol",
+    "category": "Pistol",
+    "dlc": "Gage Historical Pack",
+    "image": "c96.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 9,
@@ -1140,7 +1344,10 @@
   },
   {
     "id": "sterling",
-    "name": "Sterling",
+    "name": "Patchett L2A1 Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Gage Historical Pack",
+    "image": "sterling.png",
     "raw": {
       "CLIP_AMMO_MAX": 24,
       "NR_CLIPS_MAX": 4,
@@ -1157,7 +1364,10 @@
   },
   {
     "id": "mosin",
-    "name": "Mosin",
+    "name": "Nagant Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Historical Pack",
+    "image": "mosin.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 6,
@@ -1174,7 +1384,10 @@
   },
   {
     "id": "bessy",
-    "name": "Bessy",
+    "name": "Flintlock Freddy",
+    "category": "Sniper Rifle",
+    "dlc": "Base game",
+    "image": "bessy.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 15,
@@ -1191,7 +1404,10 @@
   },
   {
     "id": "m1928",
-    "name": "M1928",
+    "name": "Chicago Typewriter Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Community",
+    "image": "m1928.png",
     "raw": {
       "CLIP_AMMO_MAX": 50,
       "NR_CLIPS_MAX": 3,
@@ -1208,7 +1424,10 @@
   },
   {
     "id": "l85a2",
-    "name": "L85A2",
+    "name": "Queen\u0027s Wrath Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Clover Character Pack",
+    "image": "l85a2.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -1225,7 +1444,10 @@
   },
   {
     "id": "vhs",
-    "name": "VHS",
+    "name": "Lion\u0027s Roar Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Dragan Character Pack",
+    "image": "vhs.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 6,
@@ -1242,7 +1464,10 @@
   },
   {
     "id": "hs2000",
-    "name": "Hs2000",
+    "name": "LEO Pistol",
+    "category": "Pistol",
+    "dlc": "The Bomb Heists",
+    "image": "hs2000.png",
     "raw": {
       "CLIP_AMMO_MAX": 19,
       "NR_CLIPS_MAX": 5,
@@ -1259,7 +1484,10 @@
   },
   {
     "id": "m134",
-    "name": "M134",
+    "name": "Vulcan Minigun",
+    "category": "Special",
+    "dlc": "OVERKILL Pack",
+    "image": "m134.png",
     "raw": {
       "CLIP_AMMO_MAX": 750,
       "NR_CLIPS_MAX": 1,
@@ -1276,7 +1504,10 @@
   },
   {
     "id": "rpg7",
-    "name": "RPG7",
+    "name": "HRL-7 Rocket Launcher",
+    "category": "Special",
+    "dlc": "OVERKILL Pack",
+    "image": "rpg7.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 4,
@@ -1292,7 +1523,10 @@
   },
   {
     "id": "cobray",
-    "name": "Cobray",
+    "name": "Jacket\u0027s Piece",
+    "category": "Submachine Gun",
+    "dlc": "Hotline Miami 2 / The Jacket Character Pack",
+    "image": "cobray.png",
     "raw": {
       "CLIP_AMMO_MAX": 32,
       "NR_CLIPS_MAX": 5,
@@ -1309,7 +1543,10 @@
   },
   {
     "id": "b682",
-    "name": "B682",
+    "name": "Joceline O/U 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Community",
+    "image": "b682.png",
     "raw": {
       "CLIP_AMMO_MAX": 2,
       "NR_CLIPS_MAX": 14,
@@ -1326,7 +1563,10 @@
   },
   {
     "id": "x_g22c",
-    "name": "X G22C",
+    "name": "Akimbo Chimano Custom Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_g22c.png",
     "raw": {
       "CLIP_AMMO_MAX": 32,
       "NR_CLIPS_MAX": 3,
@@ -1343,7 +1583,10 @@
   },
   {
     "id": "x_g17",
-    "name": "X G17",
+    "name": "Akimbo Chimano 88 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_g17.png",
     "raw": {
       "CLIP_AMMO_MAX": 34,
       "NR_CLIPS_MAX": 5,
@@ -1360,7 +1603,10 @@
   },
   {
     "id": "x_usp",
-    "name": "X Usp",
+    "name": "Akimbo Interceptor 45 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_usp.png",
     "raw": {
       "CLIP_AMMO_MAX": 26,
       "NR_CLIPS_MAX": 4,
@@ -1377,7 +1623,10 @@
   },
   {
     "id": "flamethrower_mk2",
-    "name": "Flamethrower Mk2",
+    "name": "Flamethrower Mk.1",
+    "category": "Special",
+    "dlc": "BBQ Weapon Pack",
+    "image": "flamethrower_mk2.png",
     "raw": {
       "CLIP_AMMO_MAX": 900,
       "NR_CLIPS_MAX": 2,
@@ -1393,7 +1642,10 @@
   },
   {
     "id": "m32",
-    "name": "M32",
+    "name": "Piglet Grenade Launcher",
+    "category": "Special",
+    "dlc": "BBQ Weapon Pack",
+    "image": "m32.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 2,
@@ -1408,7 +1660,10 @@
   },
   {
     "id": "aa12",
-    "name": "AA12",
+    "name": "Steakout 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "BBQ Weapon Pack",
+    "image": "aa12.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 9,
@@ -1425,7 +1680,10 @@
   },
   {
     "id": "peacemaker",
-    "name": "Peacemaker",
+    "name": "Peacemaker .45 Revolver",
+    "category": "Pistol",
+    "dlc": "Western Weapon Pack",
+    "image": "peacemaker.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 6,
@@ -1440,7 +1698,10 @@
   },
   {
     "id": "winchester1874",
-    "name": "Winchester1874",
+    "name": "Repeater 1874 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Western Weapon Pack",
+    "image": "winchester1874.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 3,
@@ -1455,7 +1716,10 @@
   },
   {
     "id": "plainsrider",
-    "name": "Plainsrider",
+    "name": "Plainsrider Bow",
+    "category": "Special",
+    "dlc": "Western Weapon Pack",
+    "image": "plainsrider.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 50,
@@ -1471,7 +1735,10 @@
   },
   {
     "id": "mateba",
-    "name": "Mateba",
+    "name": "Matever .357 Revolver",
+    "category": "Pistol",
+    "dlc": "The Alesso Heist DLC",
+    "image": "mateba.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 9,
@@ -1488,7 +1755,10 @@
   },
   {
     "id": "asval",
-    "name": "Asval",
+    "name": "Valkyria Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Sokol Character Pack",
+    "image": "asval.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 7.333,
@@ -1505,7 +1775,10 @@
   },
   {
     "id": "sub2000",
-    "name": "Sub2000",
+    "name": "Cavity 9mm",
+    "category": "Assault Rifle",
+    "dlc": "The Golden Grin Casino",
+    "image": "sub2000.png",
     "raw": {
       "CLIP_AMMO_MAX": 33,
       "NR_CLIPS_MAX": 2,
@@ -1522,7 +1795,10 @@
   },
   {
     "id": "wa2000",
-    "name": "Wa2000",
+    "name": "Lebensauger .308 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Ninja Pack",
+    "image": "wa2000.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 4,
@@ -1539,7 +1815,10 @@
   },
   {
     "id": "polymer",
-    "name": "Polymer",
+    "name": "Kross Vertex Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Gage Ninja Pack",
+    "image": "polymer.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -1556,7 +1835,10 @@
   },
   {
     "id": "hunter",
-    "name": "Hunter",
+    "name": "Pistol Crossbow",
+    "category": "Special",
+    "dlc": "Gage Ninja Pack",
+    "image": "hunter.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 25,
@@ -1573,7 +1855,10 @@
   },
   {
     "id": "baka",
-    "name": "BAKA",
+    "name": "Micro Uzi Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Yakuza Character Pack",
+    "image": "baka.png",
     "raw": {
       "CLIP_AMMO_MAX": 32,
       "NR_CLIPS_MAX": 7,
@@ -1590,7 +1875,10 @@
   },
   {
     "id": "arblast",
-    "name": "Arblast",
+    "name": "Heavy Crossbow",
+    "category": "Special",
+    "dlc": "Gage Chivalry Pack",
+    "image": "arblast.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 35,
@@ -1607,7 +1895,10 @@
   },
   {
     "id": "frankish",
-    "name": "Frankish",
+    "name": "Light Crossbow",
+    "category": "Special",
+    "dlc": "Gage Chivalry Pack",
+    "image": "frankish.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 50,
@@ -1624,7 +1915,10 @@
   },
   {
     "id": "long",
-    "name": "LONG",
+    "name": "English Longbow",
+    "category": "Special",
+    "dlc": "Gage Chivalry Pack",
+    "image": "long.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 35,
@@ -1640,7 +1934,10 @@
   },
   {
     "id": "par",
-    "name": "PAR",
+    "name": "KSP 58 Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Basegame",
+    "image": "par.png",
     "raw": {
       "CLIP_AMMO_MAX": 200,
       "NR_CLIPS_MAX": 2,
@@ -1657,7 +1954,10 @@
   },
   {
     "id": "sparrow",
-    "name": "Sparrow",
+    "name": "Baby Deagle",
+    "category": "Pistol",
+    "dlc": "The Point Break heists DLC",
+    "image": "sparrow.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 5,
@@ -1674,7 +1974,10 @@
   },
   {
     "id": "model70",
-    "name": "Model70",
+    "name": "Platypus 70 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "(unspecified)",
+    "image": "model70.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 6,
@@ -1691,7 +1994,10 @@
   },
   {
     "id": "scout",
-    "name": "Pronghorn",
+    "name": "Pronghorn Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "McShay Weapon Pack 1",
+    "image": "scout.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 4,
@@ -1708,7 +2014,10 @@
   },
   {
     "id": "qbu88",
-    "name": "Qbu88",
+    "name": "K\u00E1ng Arms X1 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Jiu Feng Smuggler Pack 2",
+    "image": "qbu88.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 4,
@@ -1725,7 +2034,10 @@
   },
   {
     "id": "groza",
-    "name": "Groza",
+    "name": "KETCHNOV Byk-1 Assault Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Jiu Feng Smuggler Pack 2",
+    "image": "groza.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 4,
@@ -1742,7 +2054,10 @@
   },
   {
     "id": "pm9",
-    "name": "PM9",
+    "name": "Miyaka 10 Special Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Jiu Feng Smuggler Pack 2",
+    "image": "pm9.png",
     "raw": {
       "CLIP_AMMO_MAX": 25,
       "NR_CLIPS_MAX": 7,
@@ -1759,7 +2074,10 @@
   },
   {
     "id": "x_pm9",
-    "name": "X Pm9",
+    "name": "Akimbo Miyaka 10 Special SMGs",
+    "category": "Akimbo SMG",
+    "dlc": "Jiu Feng Smuggler Pack 2",
+    "image": "x_pm9.png",
     "raw": {
       "CLIP_AMMO_MAX": 50,
       "NR_CLIPS_MAX": 5.5,
@@ -1776,7 +2094,10 @@
   },
   {
     "id": "hailstorm",
-    "name": "Hailstorm",
+    "name": "Hailstorm Mk 5",
+    "category": "Special",
+    "dlc": "McShay Weapon Pack 2",
+    "image": "hailstorm.png",
     "raw": {
       "CLIP_AMMO_MAX": 120,
       "NR_CLIPS_MAX": 4.5,
@@ -1793,7 +2114,10 @@
   },
   {
     "id": "tkb",
-    "name": "TKB",
+    "name": "Rodion 3B Rifle",
+    "category": "Assault Rifle",
+    "dlc": "McShay Weapon Pack 3",
+    "image": "tkb.png",
     "raw": {
       "CLIP_AMMO_MAX": 90,
       "NR_CLIPS_MAX": 2,
@@ -1810,7 +2134,10 @@
   },
   {
     "id": "contender",
-    "name": "Contender",
+    "name": "Aran G2 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "McShay Weapon Pack 3",
+    "image": "contender.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 10,
@@ -1826,7 +2153,10 @@
   },
   {
     "id": "hcar",
-    "name": "Akron HC",
+    "name": "Akron HC Light Machine Gun",
+    "category": "LMG",
+    "dlc": "McShay Weapon Pack 3",
+    "image": "hcar.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 8,
@@ -1843,7 +2173,10 @@
   },
   {
     "id": "shak12",
-    "name": "Shak12",
+    "name": "KS12 Urban Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Jiu Feng Smuggler Pack 3",
+    "image": "shak12.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -1860,7 +2193,10 @@
   },
   {
     "id": "m37",
-    "name": "M37",
+    "name": "GSPS 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "The Goat Simulator Heist DLC",
+    "image": "m37.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 4,
@@ -1875,7 +2211,10 @@
   },
   {
     "id": "china",
-    "name": "China",
+    "name": "China Puff 40mm Grenade Launcher",
+    "category": "Special",
+    "dlc": "The Wolf Pack",
+    "image": "china.png",
     "raw": {
       "CLIP_AMMO_MAX": 3,
       "NR_CLIPS_MAX": 2,
@@ -1890,7 +2229,10 @@
   },
   {
     "id": "sr2",
-    "name": "SR2",
+    "name": "Heather Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "The Jimmy Character Pack",
+    "image": "sr2.png",
     "raw": {
       "CLIP_AMMO_MAX": 32,
       "NR_CLIPS_MAX": 5,
@@ -1907,7 +2249,10 @@
   },
   {
     "id": "x_sr2",
-    "name": "X Sr2",
+    "name": "Akimbo Heather Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "The Jimmy Character Pack",
+    "image": "x_sr2.png",
     "raw": {
       "CLIP_AMMO_MAX": 64,
       "NR_CLIPS_MAX": 3.5,
@@ -1924,7 +2269,10 @@
   },
   {
     "id": "pl14",
-    "name": "PL14",
+    "name": "White Streak Pistol",
+    "category": "Pistol",
+    "dlc": "Hardcore Henry Heists",
+    "image": "pl14.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 5,
@@ -1941,7 +2289,10 @@
   },
   {
     "id": "m590",
-    "name": "M590",
+    "name": "Mosconi 12G Tactical Shotgun",
+    "category": "Shotgun",
+    "dlc": "Base game",
+    "image": "m590.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 6,
@@ -1956,7 +2307,10 @@
   },
   {
     "id": "m1911",
-    "name": "M1911",
+    "name": "Crosskill Chunky Compact Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "m1911.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 5,
@@ -1973,7 +2327,10 @@
   },
   {
     "id": "x_m1911",
-    "name": "X M1911",
+    "name": "Akimbo Crosskill Chunky Compact Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Base game",
+    "image": "x_m1911.png",
     "raw": {
       "CLIP_AMMO_MAX": 24,
       "NR_CLIPS_MAX": 3,
@@ -1990,7 +2347,10 @@
   },
   {
     "id": "vityaz",
-    "name": "Vityaz",
+    "name": "AK Gen 21 Tactical Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Base game",
+    "image": "vityaz.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -2007,7 +2367,10 @@
   },
   {
     "id": "x_vityaz",
-    "name": "X Vityaz",
+    "name": "Akimbo AK Gen 21 Tactical SMGs",
+    "category": "Akimbo SMG",
+    "dlc": "Base game",
+    "image": "x_vityaz.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 4,
@@ -2024,7 +2387,10 @@
   },
   {
     "id": "hk51b",
-    "name": "Hk51B",
+    "name": "SG Versteckt 51D Light Machine Gun",
+    "category": "LMG",
+    "dlc": "McShay Weapon Pack 1",
+    "image": "hk51b.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 3,
@@ -2041,7 +2407,10 @@
   },
   {
     "id": "ultima",
-    "name": "Ultima",
+    "name": "Argos III Shotgun",
+    "category": "Shotgun",
+    "dlc": "Jiu Feng Smuggler Pack 4",
+    "image": "ultima.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 5,
@@ -2056,7 +2425,10 @@
   },
   {
     "id": "maxim9",
-    "name": "Maxim9",
+    "name": "Gecko M2 Pistol",
+    "category": "Pistol",
+    "dlc": "Jiu Feng Smuggler Pack 4",
+    "image": "maxim9.png",
     "raw": {
       "CLIP_AMMO_MAX": 17,
       "NR_CLIPS_MAX": 4,
@@ -2073,7 +2445,10 @@
   },
   {
     "id": "x_maxim9",
-    "name": "X Maxim9",
+    "name": "Akimbo Gecko M2 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Jiu Feng Smuggler Pack 4",
+    "image": "x_maxim9.png",
     "raw": {
       "CLIP_AMMO_MAX": 34,
       "NR_CLIPS_MAX": 2.4,
@@ -2090,7 +2465,10 @@
   },
   {
     "id": "fmg9",
-    "name": "FMG9",
+    "name": "Wasp-DS SMG",
+    "category": "Submachine Gun",
+    "dlc": "Jiu Feng Smuggler Pack 4",
+    "image": "fmg9.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 8,
@@ -2107,7 +2485,10 @@
   },
   {
     "id": "x_mp5",
-    "name": "X Mp5",
+    "name": "Akimbo Compact-5 Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_mp5.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 5,
@@ -2124,7 +2505,10 @@
   },
   {
     "id": "x_akmsu",
-    "name": "X Akmsu",
+    "name": "Akimbo Krinkov Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_akmsu.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 3,
@@ -2141,7 +2525,10 @@
   },
   {
     "id": "tecci",
-    "name": "Tecci",
+    "name": "Bootleg Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Sydney Character Pack",
+    "image": "tecci.png",
     "raw": {
       "CLIP_AMMO_MAX": 100,
       "NR_CLIPS_MAX": 2,
@@ -2158,7 +2545,10 @@
   },
   {
     "id": "hajk",
-    "name": "HAJK",
+    "name": "CR 805B Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "The Biker Heist",
+    "image": "hajk.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -2175,7 +2565,10 @@
   },
   {
     "id": "boot",
-    "name": "BOOT",
+    "name": "Breaker 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Biker Character Pack",
+    "image": "boot.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 4,
@@ -2190,7 +2583,10 @@
   },
   {
     "id": "packrat",
-    "name": "Packrat",
+    "name": "Contractor Pistol",
+    "category": "Pistol",
+    "dlc": "John Wick Weapon Pack",
+    "image": "packrat.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 6,
@@ -2207,7 +2603,10 @@
   },
   {
     "id": "x_packrat",
-    "name": "X Packrat",
+    "name": "Akimbo Contractor Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "John Wick Weapon Pack",
+    "image": "x_packrat.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -2224,7 +2623,10 @@
   },
   {
     "id": "schakal",
-    "name": "Schakal",
+    "name": "Jackal Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "John Wick Weapon Pack",
+    "image": "schakal.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -2241,7 +2643,10 @@
   },
   {
     "id": "desertfox",
-    "name": "Desertfox",
+    "name": "Desertfox Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "John Wick Weapon Pack",
+    "image": "desertfox.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 6,
@@ -2258,7 +2663,10 @@
   },
   {
     "id": "rota",
-    "name": "ROTA",
+    "name": "Goliath 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Goliath",
+    "image": "rota.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 9,
@@ -2276,6 +2684,9 @@
   {
     "id": "arbiter",
     "name": "Arbiter Grenade Launcher",
+    "category": "Special",
+    "dlc": "Gage Spec Ops Pack",
+    "image": "arbiter.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 3,
@@ -2292,7 +2703,10 @@
   },
   {
     "id": "ms3gl",
-    "name": "Ms3Gl",
+    "name": "Basilisk 3V Grenade Launcher",
+    "category": "Special",
+    "dlc": "McShay Weapon Pack 1",
+    "image": "ms3gl.png",
     "raw": {
       "CLIP_AMMO_MAX": 3,
       "NR_CLIPS_MAX": 3,
@@ -2307,7 +2721,10 @@
   },
   {
     "id": "contraband",
-    "name": "Contraband",
+    "name": "Little Friend 7.62 Assault Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "contraband.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 3,
@@ -2324,7 +2741,10 @@
   },
   {
     "id": "ray",
-    "name": "RAY",
+    "name": "Commando 101 Rocket Launcher",
+    "category": "Special",
+    "dlc": "Scarface Character Pack",
+    "image": "ray.png",
     "raw": {
       "CLIP_AMMO_MAX": 4,
       "NR_CLIPS_MAX": 2,
@@ -2341,7 +2761,10 @@
   },
   {
     "id": "tti",
-    "name": "TTI",
+    "name": "Contractor .308 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "John Wick Heists",
+    "image": "tti.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 2,
@@ -2358,7 +2781,10 @@
   },
   {
     "id": "victor",
-    "name": "Victor",
+    "name": "North Star Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Criminal Carol 2022",
+    "image": "victor.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 2,
@@ -2375,7 +2801,10 @@
   },
   {
     "id": "siltstone",
-    "name": "Siltstone",
+    "name": "Grom Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gage Russian Weapon Pack",
+    "image": "siltstone.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 4,
@@ -2392,7 +2821,10 @@
   },
   {
     "id": "flint",
-    "name": "Flint",
+    "name": "AK17 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Gage Russian Weapon Pack",
+    "image": "flint.png",
     "raw": {
       "CLIP_AMMO_MAX": 35,
       "NR_CLIPS_MAX": 3,
@@ -2409,7 +2841,10 @@
   },
   {
     "id": "coal",
-    "name": "COAL",
+    "name": "Tatonka Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Gage Russian Weapon Pack",
+    "image": "coal.png",
     "raw": {
       "CLIP_AMMO_MAX": 64,
       "NR_CLIPS_MAX": 2,
@@ -2426,7 +2861,10 @@
   },
   {
     "id": "lemming",
-    "name": "Lemming",
+    "name": "5/7 AP Pistol",
+    "category": "Pistol",
+    "dlc": "Community",
+    "image": "lemming.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 3,
@@ -2443,7 +2881,10 @@
   },
   {
     "id": "type54",
-    "name": "Type54",
+    "name": "K\u00E1ng Arms Model 54 Pistol",
+    "category": "Pistol",
+    "dlc": "Jiu Feng Smuggler Pack 3",
+    "image": "type54.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 6,
@@ -2460,7 +2901,10 @@
   },
   {
     "id": "rsh12",
-    "name": "Rsh12",
+    "name": "RUS-12 Angry Tiger Revolver",
+    "category": "Pistol",
+    "dlc": "Jiu Feng Smuggler Pack 3",
+    "image": "rsh12.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 8,
@@ -2477,7 +2921,10 @@
   },
   {
     "id": "x_type54",
-    "name": "X Type54",
+    "name": "Akimbo K\u00E1ng Arms Model 54 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Jiu Feng Smuggler Pack 3",
+    "image": "x_type54.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 4,
@@ -2494,7 +2941,10 @@
   },
   {
     "id": "chinchilla",
-    "name": "Chinchilla",
+    "name": "Castigo .44 Revolver",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "chinchilla.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 9,
@@ -2511,7 +2961,10 @@
   },
   {
     "id": "x_chinchilla",
-    "name": "X Chinchilla",
+    "name": "Akimbo Castigo .44 Revolvers",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_chinchilla.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 6,
@@ -2528,7 +2981,10 @@
   },
   {
     "id": "model3",
-    "name": "Model3",
+    "name": "Frenchman Model 87 Revolver",
+    "category": "Pistol",
+    "dlc": "Gunslinger Weapon Pack",
+    "image": "model3.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 11,
@@ -2545,7 +3001,10 @@
   },
   {
     "id": "sbl",
-    "name": "SBL",
+    "name": "Bernetti Rangehitter Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Gunslinger Weapon Pack",
+    "image": "sbl.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 5,
@@ -2560,7 +3019,10 @@
   },
   {
     "id": "m1897",
-    "name": "M1897",
+    "name": "Reinfeld 88 Shotgun",
+    "category": "Shotgun",
+    "dlc": "Gunslinger Weapon Pack",
+    "image": "m1897.png",
     "raw": {
       "CLIP_AMMO_MAX": 7,
       "NR_CLIPS_MAX": 5,
@@ -2575,7 +3037,10 @@
   },
   {
     "id": "x_model3",
-    "name": "X Model3",
+    "name": "Akimbo Frenchman Model 87 Revolvers",
+    "category": "Akimbo Pistol",
+    "dlc": "Gunslinger Weapon Pack",
+    "image": "x_model3.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 8,
@@ -2592,7 +3057,10 @@
   },
   {
     "id": "shepheard",
-    "name": "Shepheard",
+    "name": "Signature Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "shepheard.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 10,
@@ -2609,7 +3077,10 @@
   },
   {
     "id": "x_shepheard",
-    "name": "X Shepheard",
+    "name": "Akimbo Signature Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_shepheard.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 7,
@@ -2627,6 +3098,9 @@
   {
     "id": "breech",
     "name": "Parabellum Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "breech.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 7,
@@ -2644,6 +3118,9 @@
   {
     "id": "ching",
     "name": "Galant Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "ching.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 9,
@@ -2660,7 +3137,10 @@
   },
   {
     "id": "erma",
-    "name": "MP40",
+    "name": "MP40 Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Basegame",
+    "image": "erma.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 2,
@@ -2677,7 +3157,10 @@
   },
   {
     "id": "ecp",
-    "name": "ECP",
+    "name": "Airbow",
+    "category": "Special",
+    "dlc": "h3h3 Character Pack",
+    "image": "ecp.png",
     "raw": {
       "CLIP_AMMO_MAX": 6,
       "NR_CLIPS_MAX": 5,
@@ -2694,7 +3177,10 @@
   },
   {
     "id": "shrew",
-    "name": "Shrew",
+    "name": "Crosskill Guard Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "shrew.png",
     "raw": {
       "CLIP_AMMO_MAX": 17,
       "NR_CLIPS_MAX": 9,
@@ -2711,7 +3197,10 @@
   },
   {
     "id": "x_shrew",
-    "name": "X Shrew",
+    "name": "Akimbo Crosskill Guard Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_shrew.png",
     "raw": {
       "CLIP_AMMO_MAX": 34,
       "NR_CLIPS_MAX": 5,
@@ -2728,7 +3217,10 @@
   },
   {
     "id": "basset",
-    "name": "Basset",
+    "name": "Grimm 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Basegame",
+    "image": "basset.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 13,
@@ -2745,7 +3237,10 @@
   },
   {
     "id": "x_basset",
-    "name": "X Basset",
+    "name": "Brothers Grimm 12G Shotguns",
+    "category": "Akimbo Shotgun",
+    "dlc": "Basegame",
+    "image": "x_basset.png",
     "raw": {
       "CLIP_AMMO_MAX": 16,
       "NR_CLIPS_MAX": 6,
@@ -2762,7 +3257,10 @@
   },
   {
     "id": "corgi",
-    "name": "Corgi",
+    "name": "Union 5.56 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Basegame",
+    "image": "corgi.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -2779,7 +3277,10 @@
   },
   {
     "id": "slap",
-    "name": "SLAP",
+    "name": "Compact 40mm Grenade Launcher",
+    "category": "Special",
+    "dlc": "Basegame",
+    "image": "slap.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "fire_rate": 2,
@@ -2794,7 +3295,10 @@
   },
   {
     "id": "x_coal",
-    "name": "X Coal",
+    "name": "Akimbo Tatonka Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_coal.png",
     "raw": {
       "CLIP_AMMO_MAX": 128,
       "NR_CLIPS_MAX": 1.41,
@@ -2811,7 +3315,10 @@
   },
   {
     "id": "x_baka",
-    "name": "X Baka",
+    "name": "Akimbo Micro Uzi Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_baka.png",
     "raw": {
       "CLIP_AMMO_MAX": 64,
       "NR_CLIPS_MAX": 4.5,
@@ -2828,7 +3335,10 @@
   },
   {
     "id": "x_cobray",
-    "name": "X Cobray",
+    "name": "Akimbo Jacket\u0027s Piece",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_cobray.png",
     "raw": {
       "CLIP_AMMO_MAX": 64,
       "NR_CLIPS_MAX": 3.5,
@@ -2845,7 +3355,10 @@
   },
   {
     "id": "x_erma",
-    "name": "X Erma",
+    "name": "Akimbo MP40 Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_erma.png",
     "raw": {
       "CLIP_AMMO_MAX": 80,
       "NR_CLIPS_MAX": 2,
@@ -2862,7 +3375,10 @@
   },
   {
     "id": "x_hajk",
-    "name": "X Hajk",
+    "name": "Akimbo CR 805B Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_hajk.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 3,
@@ -2879,7 +3395,10 @@
   },
   {
     "id": "x_m45",
-    "name": "X M45",
+    "name": "Akimbo Swedish K Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_m45.png",
     "raw": {
       "CLIP_AMMO_MAX": 80,
       "NR_CLIPS_MAX": 2,
@@ -2896,7 +3415,10 @@
   },
   {
     "id": "x_m1928",
-    "name": "X M1928",
+    "name": "Akimbo Chicago Typewriter SMGs",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_m1928.png",
     "raw": {
       "CLIP_AMMO_MAX": 100,
       "NR_CLIPS_MAX": 2.3,
@@ -2913,7 +3435,10 @@
   },
   {
     "id": "x_mac10",
-    "name": "X Mac10",
+    "name": "Akimbo Mark 10 Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_mac10.png",
     "raw": {
       "CLIP_AMMO_MAX": 80,
       "NR_CLIPS_MAX": 3,
@@ -2930,7 +3455,10 @@
   },
   {
     "id": "x_mp7",
-    "name": "X Mp7",
+    "name": "Akimbo SpecOps Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_mp7.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 5,
@@ -2947,7 +3475,10 @@
   },
   {
     "id": "x_mp9",
-    "name": "X Mp9",
+    "name": "Akimbo CMP Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_mp9.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 4.5,
@@ -2964,7 +3495,10 @@
   },
   {
     "id": "x_olympic",
-    "name": "X Olympic",
+    "name": "Akimbo Para Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_olympic.png",
     "raw": {
       "CLIP_AMMO_MAX": 50,
       "NR_CLIPS_MAX": 4.5,
@@ -2981,7 +3515,10 @@
   },
   {
     "id": "x_p90",
-    "name": "X P90",
+    "name": "Akimbo Kobus 90 Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_p90.png",
     "raw": {
       "CLIP_AMMO_MAX": 100,
       "NR_CLIPS_MAX": 2.5,
@@ -2998,7 +3535,10 @@
   },
   {
     "id": "x_polymer",
-    "name": "X Polymer",
+    "name": "Akimbo Kross Vertex Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_polymer.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 4,
@@ -3015,7 +3555,10 @@
   },
   {
     "id": "x_schakal",
-    "name": "X Schakal",
+    "name": "Akimbo Jackal Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_schakal.png",
     "raw": {
       "CLIP_AMMO_MAX": 60,
       "NR_CLIPS_MAX": 3,
@@ -3032,7 +3575,10 @@
   },
   {
     "id": "x_scorpion",
-    "name": "X Scorpion",
+    "name": "Akimbo Cobra Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_scorpion.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 7,
@@ -3049,7 +3595,10 @@
   },
   {
     "id": "x_sterling",
-    "name": "X Sterling",
+    "name": "Akimbo Patchett L2A1 Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_sterling.png",
     "raw": {
       "CLIP_AMMO_MAX": 48,
       "NR_CLIPS_MAX": 3.5,
@@ -3066,7 +3615,10 @@
   },
   {
     "id": "x_tec9",
-    "name": "X Tec9",
+    "name": "Akimbo Blaster 9mm Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_tec9.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 7,
@@ -3083,7 +3635,10 @@
   },
   {
     "id": "x_uzi",
-    "name": "X Uzi",
+    "name": "Akimbo Uzi Submachine Guns",
+    "category": "Akimbo SMG",
+    "dlc": "Basegame",
+    "image": "x_uzi.png",
     "raw": {
       "CLIP_AMMO_MAX": 80,
       "NR_CLIPS_MAX": 2,
@@ -3100,7 +3655,10 @@
   },
   {
     "id": "x_2006m",
-    "name": "X 2006M",
+    "name": "Akimbo Matever .357 Revolvers",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_2006m.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 5,
@@ -3117,7 +3675,10 @@
   },
   {
     "id": "x_breech",
-    "name": "X Breech",
+    "name": "Akimbo Parabellum Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_breech.png",
     "raw": {
       "CLIP_AMMO_MAX": 16,
       "NR_CLIPS_MAX": 4,
@@ -3134,7 +3695,10 @@
   },
   {
     "id": "x_c96",
-    "name": "X C96",
+    "name": "Akimbo Broomstick Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_c96.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 5,
@@ -3151,7 +3715,10 @@
   },
   {
     "id": "x_g18c",
-    "name": "X G18C",
+    "name": "Akimbo STRYK 18c Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_g18c.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 5,
@@ -3168,7 +3735,10 @@
   },
   {
     "id": "x_hs2000",
-    "name": "X Hs2000",
+    "name": "Akimbo LEO Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_hs2000.png",
     "raw": {
       "CLIP_AMMO_MAX": 38,
       "NR_CLIPS_MAX": 3,
@@ -3185,7 +3755,10 @@
   },
   {
     "id": "x_p226",
-    "name": "X P226",
+    "name": "Akimbo Signature .40 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_p226.png",
     "raw": {
       "CLIP_AMMO_MAX": 24,
       "NR_CLIPS_MAX": 4,
@@ -3202,7 +3775,10 @@
   },
   {
     "id": "x_pl14",
-    "name": "X Pl14",
+    "name": "Akimbo White Streak Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_pl14.png",
     "raw": {
       "CLIP_AMMO_MAX": 24,
       "NR_CLIPS_MAX": 3,
@@ -3219,7 +3795,10 @@
   },
   {
     "id": "x_ppk",
-    "name": "X Ppk",
+    "name": "Akimbo Gruber Kurz Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_ppk.png",
     "raw": {
       "CLIP_AMMO_MAX": 28,
       "NR_CLIPS_MAX": 6,
@@ -3236,7 +3815,10 @@
   },
   {
     "id": "x_rage",
-    "name": "X Rage",
+    "name": "Akimbo Bronco .44 Revolvers",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_rage.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 6,
@@ -3253,7 +3835,10 @@
   },
   {
     "id": "x_sparrow",
-    "name": "X Sparrow",
+    "name": "Akimbo Baby Deagle Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Basegame",
+    "image": "x_sparrow.png",
     "raw": {
       "CLIP_AMMO_MAX": 24,
       "NR_CLIPS_MAX": 3,
@@ -3270,7 +3855,10 @@
   },
   {
     "id": "x_judge",
-    "name": "X Judge",
+    "name": "Akimbo Judge Shotguns",
+    "category": "Akimbo Shotgun",
+    "dlc": "Basegame",
+    "image": "x_judge.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 4,
@@ -3287,7 +3875,10 @@
   },
   {
     "id": "x_rota",
-    "name": "X Rota",
+    "name": "Akimbo Goliath 12G Shotguns",
+    "category": "Akimbo Shotgun",
+    "dlc": "Basegame",
+    "image": "x_rota.png",
     "raw": {
       "CLIP_AMMO_MAX": 12,
       "NR_CLIPS_MAX": 6,
@@ -3304,7 +3895,10 @@
   },
   {
     "id": "shuno",
-    "name": "Shuno",
+    "name": "XL 5.56 Microgun",
+    "category": "Special",
+    "dlc": "Basegame",
+    "image": "shuno.png",
     "raw": {
       "CLIP_AMMO_MAX": 750,
       "NR_CLIPS_MAX": 1,
@@ -3321,7 +3915,10 @@
   },
   {
     "id": "system",
-    "name": "System",
+    "name": "MA-17 Flamethrower",
+    "category": "Special",
+    "dlc": "Basegame",
+    "image": "system.png",
     "raw": {
       "CLIP_AMMO_MAX": 700,
       "NR_CLIPS_MAX": 2,
@@ -3338,7 +3935,10 @@
   },
   {
     "id": "money",
-    "name": "Money",
+    "name": "Cash Blaster",
+    "category": "Special",
+    "dlc": "Base game",
+    "image": "money.png",
     "raw": {
       "CLIP_AMMO_MAX": 400,
       "NR_CLIPS_MAX": 2,
@@ -3355,7 +3955,10 @@
   },
   {
     "id": "komodo",
-    "name": "Komodo",
+    "name": "Tempest-21 Rifle",
+    "category": "Assault Rifle",
+    "dlc": "Normal",
+    "image": "komodo.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 5,
@@ -3372,7 +3975,10 @@
   },
   {
     "id": "elastic",
-    "name": "Elastic",
+    "name": "DECA Technologies Compound Bow",
+    "category": "Special",
+    "dlc": "Normal",
+    "image": "elastic.png",
     "raw": {
       "CLIP_AMMO_MAX": 1,
       "NR_CLIPS_MAX": 30,
@@ -3388,7 +3994,10 @@
   },
   {
     "id": "legacy",
-    "name": "Legacy",
+    "name": "M13 9mm Pistol",
+    "category": "Pistol",
+    "dlc": "Normal",
+    "image": "legacy.png",
     "raw": {
       "CLIP_AMMO_MAX": 13,
       "NR_CLIPS_MAX": 12,
@@ -3405,7 +4014,10 @@
   },
   {
     "id": "x_legacy",
-    "name": "X Legacy",
+    "name": "Akimbo M13 9mm Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Normal",
+    "image": "x_legacy.png",
     "raw": {
       "CLIP_AMMO_MAX": 26,
       "NR_CLIPS_MAX": 6,
@@ -3422,7 +4034,10 @@
   },
   {
     "id": "coach",
-    "name": "Coach",
+    "name": "Claire 12G Shotgun",
+    "category": "Shotgun",
+    "dlc": "Normal",
+    "image": "coach.png",
     "raw": {
       "CLIP_AMMO_MAX": 2,
       "NR_CLIPS_MAX": 22,
@@ -3438,7 +4053,10 @@
   },
   {
     "id": "beer",
-    "name": "BEER",
+    "name": "Bernetti Auto Pistol",
+    "category": "Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "beer.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 13,
@@ -3455,7 +4073,10 @@
   },
   {
     "id": "x_beer",
-    "name": "X Beer",
+    "name": "Akimbo Bernetti Auto Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "x_beer.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 7,
@@ -3472,7 +4093,10 @@
   },
   {
     "id": "stech",
-    "name": "Stech",
+    "name": "Igor Automatik Pistol",
+    "category": "Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "stech.png",
     "raw": {
       "CLIP_AMMO_MAX": 20,
       "NR_CLIPS_MAX": 4,
@@ -3489,7 +4113,10 @@
   },
   {
     "id": "x_stech",
-    "name": "X Stech",
+    "name": "Akimbo Igor Automatik Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "x_stech.png",
     "raw": {
       "CLIP_AMMO_MAX": 40,
       "NR_CLIPS_MAX": 3,
@@ -3506,7 +4133,10 @@
   },
   {
     "id": "czech",
-    "name": "Czech",
+    "name": "Czech 92 Pistol",
+    "category": "Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "czech.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 10,
@@ -3523,7 +4153,10 @@
   },
   {
     "id": "x_czech",
-    "name": "X Czech",
+    "name": "Akimbo Czech 92 Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Federales Weapon Pack",
+    "image": "x_czech.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 6,
@@ -3540,7 +4173,10 @@
   },
   {
     "id": "holt",
-    "name": "HOLT",
+    "name": "HOLT 9mm Pistol",
+    "category": "Pistol",
+    "dlc": "Fugitive Weapon Pack",
+    "image": "holt.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 6,
@@ -3557,7 +4193,10 @@
   },
   {
     "id": "x_holt",
-    "name": "X Holt",
+    "name": "Akimbo HOLT 9mm Pistols",
+    "category": "Akimbo Pistol",
+    "dlc": "Fugitive Weapon Pack",
+    "image": "x_holt.png",
     "raw": {
       "CLIP_AMMO_MAX": 30,
       "NR_CLIPS_MAX": 3,
@@ -3574,7 +4213,10 @@
   },
   {
     "id": "m60",
-    "name": "M60",
+    "name": "M60 Light Machine Gun",
+    "category": "LMG",
+    "dlc": "Fugitive Weapon Pack",
+    "image": "m60.png",
     "raw": {
       "CLIP_AMMO_MAX": 200,
       "NR_CLIPS_MAX": 1.5,
@@ -3591,7 +4233,10 @@
   },
   {
     "id": "r700",
-    "name": "R700",
+    "name": "R700 Sniper Rifle",
+    "category": "Sniper Rifle",
+    "dlc": "Fugitive Weapon Pack",
+    "image": "r700.png",
     "raw": {
       "CLIP_AMMO_MAX": 10,
       "NR_CLIPS_MAX": 4,
@@ -3608,7 +4253,10 @@
   },
   {
     "id": "welrod",
-    "name": "Welrod",
+    "name": "Pipette Mk.2 Pistol",
+    "category": "Pistol",
+    "dlc": "Basegame",
+    "image": "welrod.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 5,
@@ -3625,7 +4273,10 @@
   },
   {
     "id": "pmm",
-    "name": "PMM",
+    "name": "Strix Pistol",
+    "category": "Pistol",
+    "dlc": "Espionage Weapon Pack",
+    "image": "pmm.png",
     "raw": {
       "CLIP_AMMO_MAX": 8,
       "NR_CLIPS_MAX": 7,
@@ -3642,7 +4293,10 @@
   },
   {
     "id": "speen",
-    "name": "Speen",
+    "name": "Ballerina 9mm Submachine Gun",
+    "category": "Submachine Gun",
+    "dlc": "Espionage Weapon Pack",
+    "image": "speen.png",
     "raw": {
       "CLIP_AMMO_MAX": 15,
       "NR_CLIPS_MAX": 3,
@@ -3656,7 +4310,10 @@
   },
   {
     "id": "bleckert",
-    "name": "Bleckert",
+    "name": "Karussell Revolving Shotgun",
+    "category": "Shotgun",
+    "dlc": "Under the Hammer Heist",
+    "image": "bleckert.png",
     "raw": {
       "CLIP_AMMO_MAX": 5,
       "NR_CLIPS_MAX": 5,
