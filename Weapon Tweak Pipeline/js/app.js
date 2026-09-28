@@ -1,17 +1,34 @@
+/* app.js
+ * All DOM/UI logic. Reads and writes the data layer defined in
+ * database.js (WEAPONS_DB, ATTACHMENTS_DB, PROPERTIES_DB, and the
+ * helper functions) but never redeclares that state itself.
+ */
+
 let weaponConfigs = {};
 let currentWeaponId = null;
 
 const $ = id => document.getElementById(id);
 
+/* ---------- SEARCH ---------- */
 function onSearchInput() {
   const q = $('weaponSearch').value;
+  const cat = $('categoryFilter').value;
   const box = $('searchResults');
-  if (!q.trim()) { box.style.display = 'none'; return; }
-  const matches = searchWeapons(q);
+  let matches = q.trim() ? searchWeapons(q) : WEAPONS_DB;
+  if (cat) matches = matches.filter(w => w.category === cat);
+  if (!q.trim() && !cat) { box.style.display = 'none'; return; }
+  matches = matches.slice(0, 40);
   box.innerHTML = matches.length
-    ? matches.map(w => `<div class="item" onclick="pickWeapon('${w.id}')">${w.name}<div class="id">${w.id}</div></div>`).join('')
-    : `<div class="item" style="color:var(--text-dim);">No match - add it below as a new weapon.</div>`;
+    ? matches.map(w => `<div class="item" onclick="pickWeapon('${w.id}')">${w.name}<div class="id">${w.category || 'Uncategorized'}</div></div>`).join('')
+    : `<div class="item" style="color:var(--text-dim);">No match — add it below as a new weapon.</div>`;
   box.style.display = 'block';
+}
+
+function populateCategoryFilter() {
+  const sel = $('categoryFilter');
+  const cats = [...new Set(WEAPONS_DB.map(w => w.category).filter(Boolean))].sort();
+  sel.innerHTML = '<option value="">All categories</option>' +
+    cats.map(c => `<option value="${c}">${c}</option>`).join('');
 }
 
 function pickWeapon(id) {
@@ -24,20 +41,43 @@ function pickWeapon(id) {
   loadPropertyFormFor(id);
 }
 
+/* ---------- UPDATE: RENDER CURRENT PICK & WEAPON IMAGE ---------- */
 function renderCurrentPick() {
   const w = findWeapon(currentWeaponId);
   const box = $('currentPick');
-  if (!w) { box.style.display = 'none'; return; }
+  const imgContainer = $('weaponImageContainer');
+  const imgPreview = $('weaponPreviewImage');
+
+  if (!w) { 
+    box.style.display = 'none'; 
+    if (imgContainer) imgContainer.style.display = 'none';
+    return; 
+  }
+  
   box.style.display = 'flex';
-  box.innerHTML = `<div><strong>${w.name}</strong> <span style="color:var(--text-dim);font-family:var(--mono);font-size:11px;">${w.id}</span></div>`;
+  box.innerHTML = `<div><strong>${w.name}</strong> <span style="color:var(--text-dim);font-size:11px;">${w.category || 'Uncategorized'}${w.dlc && w.dlc !== 'Basegame' ? ' · ' + w.dlc : ''}</span></div>`;
+
+  // منطق جدید برای نمایش تصویر سلاح
+  if (imgContainer && imgPreview) {
+    if (w.image) {
+      // استفاده از مسیر فایل‌های تبدیل شده
+      imgPreview.src = `data/Converted_PNG_Weapons/${w.image}`;
+      imgContainer.style.display = 'block';
+    } else {
+      // اگر سلاح عکسی در دیتابیس نداشت، کادر عکس مخفی می‌شود
+      imgContainer.style.display = 'none';
+      imgPreview.src = "";
+    }
+  }
 }
 
+/* ---------- RAW STATS (real extracted ground-truth values, read-only) ---------- */
 function renderRawStats(id) {
   const box = $('baselineBox');
   const w = findWeapon(id);
   if (!w || !w.raw || Object.keys(w.raw).length === 0) {
     box.style.display = 'block';
-    box.innerHTML = `<div class="hint">No extracted data for this weapon yet - this one was added manually rather than pulled from weapontweakdata.lua.</div>`;
+    box.innerHTML = `<div class="hint">No extracted data for this weapon yet — this one was added manually rather than pulled from weapontweakdata.lua.</div>`;
     return;
   }
   box.style.display = 'block';
@@ -48,14 +88,15 @@ function renderRawStats(id) {
     })
     .filter(Boolean)
     .join('');
-  box.innerHTML = `<div class="hint" style="margin-bottom:6px;">Real values extracted from weapontweakdata.lua - read-only, this is what you're SET/ADD/MULTIPLY-ing from below.</div><div class="grid">${rows}</div>`;
+  box.innerHTML = `<div class="hint" style="margin-bottom:6px;">Real values extracted from weapontweakdata.lua — read-only, this is what you're SET/ADD/MULTIPLY-ing from below.</div><div class="grid">${rows}</div>`;
 }
 
+/* ---------- PROPERTY FORM ---------- */
 function renderConfirmedProps() {
   $('confirmedProps').innerHTML = PROPERTIES_DB.map(p => `
     <div class="prop-row" data-key="${p.key}">
       <input type="checkbox" id="chk_${p.key}">
-      <div class="pname">${p.label}<span class="path">self.&lt;id&gt;.${p.path}</span>${p.inverse ? `<span class="inverse-note">${/stability|recoil|accuracy/i.test(p.label) ? `higher raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '-'}. To improve it: SET above that number, ADD a positive number, or MULTIPLY by more than 1.` : `lower raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '-'}. To improve it: SET below that number, ADD a negative number, or MULTIPLY by less than 1.`}</span>` : ''}</div>
+      <div class="pname">${p.label}${p.inverse ? `<span class="inverse-note">lower raw value = better in-game. Current: ${getRawValue(currentWeaponId, p.rawKey) ?? '—'}. To improve it: SET below that number, ADD a negative number, or MULTIPLY by less than 1.</span>` : ''}</div>
       <select id="op_${p.key}">
         <option value="SET" ${p.op === 'SET' ? 'selected' : ''}>SET</option>
         <option value="ADD" ${p.op === 'ADD' ? 'selected' : ''}>ADD</option>
@@ -89,8 +130,7 @@ function addCustomPropRow(prefill) {
 function resetPropertyForm() {
   PROPERTIES_DB.forEach(p => {
     $('chk_' + p.key).checked = false;
-    $('val_' + p.key).value = '';
-    $('op_' + p.key).value = p.op;
+    $('val_' + p.key).value = '';$('op_' + p.key).value = p.op;
   });
   $('customPropRows').innerHTML = '';
 }
@@ -135,6 +175,7 @@ function removeWeaponConfig(id) {
   render();
 }
 
+/* ---------- VALIDATOR ---------- */
 function validateAll() {
   const errors = [], warnings = [];
   const ids = Object.keys(weaponConfigs);
@@ -144,37 +185,48 @@ function validateAll() {
     if (!findWeapon(id)) errors.push(`Weapon "${id}" is not in the database.`);
     const cfg = weaponConfigs[id];
     if (Object.keys(cfg.propValues).length === 0 && cfg.custom.length === 0) {
-      warnings.push(`"${id}" is saved but has no properties set - it will produce an empty block.`);
+      warnings.push(`"${id}" is saved but has no properties set — it will produce an empty block.`);
     }
     Object.entries(cfg.propValues).forEach(([key, v]) => {
       if (isNaN(parseFloat(v.value))) errors.push(`"${id}" → ${key}: value "${v.value}" is not a number.`);
       const def = PROPERTIES_DB.find(p => p.key === key);
       if (def && def.warnOnSet && v.op === 'SET') {
-        warnings.push(`"${id}" → damage uses SET - the in-game displayed number is derived, not raw, so ADD (relative) is usually safer.`);
+        warnings.push(`"${id}" → damage uses SET — the in-game displayed number is derived, not raw, so ADD (relative) is usually safer.`);
       }
       if (def && def.inverse) {
-  const current = getRawValue(id, def.rawKey);
-  const val = parseFloat(v.value);
-  const higherIsBetter = /stability|recoil|accuracy/i.test(def.label);
+        const current = getRawValue(id, def.rawKey);
+        const val = parseFloat(v.value);
+        if (v.op === 'ADD' && val > 0) {
+          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a positive number — since lower is better for this stat, this makes it WORSE. Use a negative number to improve it.`);
+        } else if (v.op === 'MULTIPLY' && val >= 1) {
+          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} — since lower is better, a number ≥ 1 makes it the same or WORSE. Use a number below 1 (e.g. 0.75) to improve it.`);
+        } else if (v.op === 'SET' && current !== undefined && val >= current) {
+          warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or above the current value (${current}). Since lower is better for this stat, that won't improve it — set it below ${current} instead.`);
+        }
+        // بررسی سقف و منطق Ammo Pickup
+const pMin = cfg.propValues["ammo_pickup_min"];
+const pMax = cfg.propValues["ammo_pickup_max"];
 
-  if (higherIsBetter) {
-    if (v.op === 'ADD' && val < 0) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a negative number - since higher is better for this stat, this makes it WORSE. Use a positive number to improve it.`);
-    } else if (v.op === 'MULTIPLY' && val <= 1) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} - since higher is better, a number ≤ 1 makes it the same or WORSE. Use a number above 1 (e.g. 1.25) to improve it.`);
-    } else if (v.op === 'SET' && current !== undefined && val <= current) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or below the current value (${current}). Since higher is better for this stat, set it above ${current} instead.`);
-    }
-  } else {
-    if (v.op === 'ADD' && val > 0) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses ADD with a positive number - since lower is better for this stat, this makes it WORSE. Use a negative number to improve it.`);
-    } else if (v.op === 'MULTIPLY' && val >= 1) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses MULTIPLY by ${val} - since lower is better, a number ≥ 1 makes it the same or WORSE. Use a number below 1 (e.g. 0.75) to improve it.`);
-    } else if (v.op === 'SET' && current !== undefined && val >= current) {
-      warnings.push(`"${id}" → ${def.label.split(' (')[0]} uses SET to ${val}, which is at or above the current value (${current}). Since lower is better for this stat, that won't improve it - set it below ${current} instead.`);
-    }
+if (pMin && !isNaN(parseFloat(pMin.value))) {
+  const minVal = parseFloat(pMin.value);
+  if (minVal < 0) errors.push(`"${id}" → Ammo Pickup Min cannot be negative.`);
+  if (minVal > 30) warnings.push(`"${id}" → Ammo Pickup Min is very high (${minVal}) — may break balance or cause weird pickup rates.`);
+}
+
+if (pMax && !isNaN(parseFloat(pMax.value))) {
+  const maxVal = parseFloat(pMax.value);
+  if (maxVal < 0) errors.push(`"${id}" → Ammo Pickup Max cannot be negative.`);
+  if (maxVal > 50) errors.push(`"${id}" → Ammo Pickup Max exceeds the safe limit (50). Please lower it to prevent crashes.`);
+}
+
+if (pMin && pMax) {
+  const minVal = parseFloat(pMin.value);
+  const maxVal = parseFloat(pMax.value);
+  if (minVal > maxVal) {
+    errors.push(`"${id}" → Ammo Pickup Min (${minVal}) cannot be greater than Max (${maxVal}).`);
   }
 }
+      }
     });
     cfg.custom.forEach(c => {
       if (isNaN(parseFloat(c.value))) errors.push(`"${id}" → custom path "${c.path}": value is not a number.`);
@@ -195,6 +247,7 @@ function renderValidator() {
   return errors.length === 0;
 }
 
+/* ---------- LUA GENERATOR ---------- */
 function applyOp(target, op, value) {
   if (op === 'SET') return `${target} = ${value}`;
   if (op === 'ADD') return `${target} = ${target} ${value.toString().startsWith('-') ? '' : '+ '}${value}`;
@@ -213,6 +266,45 @@ function buildWeaponBlock(id) {
     lines.push(applyOp(`self.${id}.${def.path}`, v.op, v.value));
     if (def.linksAmmo) lines.push(`self.${id}.AMMO_MAX = self.${id}.CLIP_AMMO_MAX * self.${id}.NR_CLIPS_MAX`);
     if (def.linksAuto) lines.push(`self.${id}.auto.fire_rate = ${v.value}`);
+    // اگر کاربر حداقل یا حداکثر پیک‌آپ را ست کرده بود:
+const pMin = cfg.propValues["ammo_pickup_min"];
+const pMax = cfg.propValues["ammo_pickup_max"];
+
+if (pMin || pMax) {
+    const minVal = pMin ? pMin.value : "1";
+    const maxVal = pMax ? pMax.value : "3";
+    lines.push(`self.${id}.AMMO_PICKUP = { ${minVal}, ${maxVal} }`);
+}
+function buildWeaponBlock(id) {
+  const cfg = weaponConfigs[id];
+  if (!cfg) return '';
+  const wDef = findWeapon(id);
+  const lines = [`-- ${wDef ? wDef.name : id}`];
+
+  const pMin = cfg.propValues["ammo_pickup_min"];
+  const pMax = cfg.propValues["ammo_pickup_max"];
+
+  // مدیریت تولید ساختار آرایه‌ای AMMO_PICKUP
+  if (pMin || pMax) {
+    const minVal = pMin ? pMin.value : "1";
+    const maxVal = pMax ? pMax.value : minVal;
+    lines.push(`self.${id}.AMMO_PICKUP = { ${minVal}, ${maxVal} }`);
+  }
+
+  Object.entries(cfg.propValues).forEach(([key, v]) => {
+    // جلوگیری از تکرار فیلدهای پیک‌آپ چون در خط بالا جدول آن ساخته شد
+    if (key === "ammo_pickup_min" || key === "ammo_pickup_max") return;
+
+    const def = PROPERTIES_DB.find(p => p.key === key);
+    if (!def) return;
+    lines.push(applyOp(`self.${id}.${def.path}`, v.op, v.value));
+    if (def.linksAmmo) lines.push(`self.${id}.AMMO_MAX = self.${id}.CLIP_AMMO_MAX * self.${id}.NR_CLIPS_MAX`);
+    if (def.linksAuto) lines.push(`self.${id}.auto.fire_rate = ${v.value}`);
+  });
+
+  cfg.custom.forEach(c => lines.push(applyOp(`self.${id}.${c.path}`, c.op, c.value)));
+  return lines.join('\n');
+}
   });
   cfg.custom.forEach(c => lines.push(applyOp(`self.${id}.${c.path}`, c.op, c.value)));
   return lines.join('\n');
@@ -230,11 +322,12 @@ function modOutput() {
   const name = $('modName').value.trim() || 'Weapon Tweaks';
   const author = $('modAuthor').value.trim() || 'MR Potato';
   const description = $('modDescription').value.trim() || 'Custom weapon stat tweaks built with the Weapon Tweak Pipeline';
+  const hasIcon = $('iconFile').files &&$('iconFile').files[0];
   return `{
     "name" : "${esc(name)}",
     "description" : "${esc(description)}",
     "author" : "${esc(author)}",
-    "blt_version" : 2,
+    ${hasIcon ? '"image" : "icon.png",\n    ' : ''}"blt_version" : 2,
     "hooks" : [
     {
         "hook_id" : "lib/tweak_data/weapontweakdata",
@@ -254,22 +347,20 @@ function render() {
     const cfg = weaponConfigs[id];
     const count = Object.keys(cfg.propValues).length + cfg.custom.length;
     return `<div class="weapon-chip">
-      <div><strong>${wDef ? wDef.name : id}</strong><div class="meta">${id} · ${count} stat(s)</div></div>
+      <div><strong>${wDef ? wDef.name : id}</strong><div class="meta">${wDef ? (wDef.category || 'Uncategorized') : id} · ${count} stat(s)</div></div>
       <div class="actions">
         <button onclick="pickWeapon('${id}')">edit</button>
         <button onclick="removeWeaponConfig('${id}')">remove</button>
       </div>
     </div>`;
   }).join('');
-  $('luaOut').textContent = luaOutput();
-  $('modOut').textContent = modOutput();
+  $('luaOut').textContent = luaOutput();$('modOut').textContent = modOutput();
   renderValidator();
 }
 
 /* ---------- COPY / DOWNLOAD / ZIP ---------- */
 function copyText(sourceId, flashId) {
-  navigator.clipboard.writeText($(sourceId).textContent).then(() => {
-    $(flashId).classList.add('show');
+  navigator.clipboard.writeText($(sourceId).textContent).then(() => {$(flashId).classList.add('show');
     setTimeout(() => $(flashId).classList.remove('show'), 1000);
   });
 }
@@ -317,12 +408,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   } catch (err) {
     document.body.insertAdjacentHTML('afterbegin',
       `<div style="background:#b3453a;color:#fff;padding:10px 16px;font-family:sans-serif;font-size:13px;">
-        Could not load data/weapons.json and data/attachments.json - this page needs to be served over
+        Could not load data/weapons.json and data/attachments.json — this page needs to be served over
         http(s), not opened directly as a file. Run a local server (see README.md) and reload.
        </div>`);
     console.error(err);
     return;
   }
   renderConfirmedProps();
+  populateCategoryFilter();
   render();
 });
